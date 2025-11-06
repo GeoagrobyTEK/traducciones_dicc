@@ -1923,5 +1923,11 @@
     "en": "Zone type",
     "es": "Tipo de ambiente",
     "pt": "Tipo de ambiente"
+  },
+  "altimetry": {
+    "en": "Altimetry",
+    "es": "Altimetría",
+    "pt": "Altimetria"
   }
 }
+
