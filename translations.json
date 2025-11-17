@@ -1291,8 +1291,8 @@
   },
   "precipitation": {
     "en": "Precipitation",
-    "es": "Precipitaciones",
-    "pt": "Precipitações"
+    "es": "Precipitacion",
+    "pt": "Precipitação"
   },
   "precipitation_day": {
     "en": "Precipitation on",
@@ -1301,7 +1301,7 @@
   },
   "precipitation_probability": {
     "en": "Precip. probability",
-    "es": "Prob. de precipitaciones",
+    "es": "Prob. de precipitacion",
     "pt": "Prob. de precipitação"
   },
   "precipitation_resume": {
@@ -1673,6 +1673,11 @@
     "en": "Thursday",
     "es": "Jueves",
     "pt": "Quinta-feira"
+  },
+  "tiempo": {
+    "en": "Time",
+    "es": "Tiempo",
+    "pt": "Tempo"
   },
   "tillering_wheat": {
     "en": "Emergence to Tillering (Z10–Z21)",
