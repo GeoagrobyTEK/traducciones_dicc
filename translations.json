@@ -1696,7 +1696,7 @@
   },
   "title_indice_promedio": {
     "en": "Mean and variability index Dashboard",
-    "es": "Tablero de Indice promedio y variabilidad",
+    "es": "Tablero de Índice promedio y variabilidad",
     "pt": "Painel de Índice de média e variabilidade"
   },
   "title_yield": {
@@ -1933,6 +1933,11 @@
     "en": "Altimetry",
     "es": "Altimetría",
     "pt": "Altimetria"
+  },
+  "heatmap_by_yield": {
+    "en": "Heatmap by Yield",
+    "es": "Heatmap por Rinde",
+    "pt": "Heatmap por Rendimento"
   }
 }
 
