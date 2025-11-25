@@ -1685,24 +1685,24 @@
     "pt": "Emergência ao Perfilhamento (Z10–Z21)"
   },
   "title": {
-    "en": "Fields and Crops Dashboard",
-    "es": "Tablero de Lotes y Cultivos",
-    "pt": "Painel de Campos e Cultivos"
+    "en": "Fields and Crops",
+    "es": "Lotes y Cultivos",
+    "pt": "Campos e Cultivos"
   },
   "title_benchmarking": {
-    "en": "Benchmarking Dashboard",
-    "es": "Tablero de Benchmarking",
-    "pt": "Painel de Benchmarking"
+    "en": "Benchmarking",
+    "es": "Benchmarking",
+    "pt": "Benchmarking"
   },
   "title_indice_promedio": {
-    "en": "Mean and variability index Dashboard",
-    "es": "Tablero de Índice promedio y variabilidad",
-    "pt": "Painel de Índice de média e variabilidade"
+    "en": "Mean and variability index",
+    "es": "Índice promedio y variabilidad",
+    "pt": "Índice de média e variabilidade"
   },
   "title_yield": {
-    "en": "Yield Dashboard",
-    "es": "Tablero de Rindes",
-    "pt": "Painel de Rendimento"
+    "en": "Yield",
+    "es": "Rindes",
+    "pt": "Rendimento"
   },
   "tooltip_raw": {
     "en": "The data used to create the graph was previously filtered using the cloud mask provided by the European Space Agency (ESA). This process ensures the elimination of data influenced by cloudiness, thus guaranteeing the precision and reliability of the results presented.",
