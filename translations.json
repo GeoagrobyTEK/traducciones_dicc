@@ -40,9 +40,9 @@
     "pt": "O valor indicado representa, em termos percentuais, a proporção da área do lote onde foi detectada a presença de água na superfície."
   },
   "altimetry_map_description": {
-    "en": "This tool allows the creation of altimetry maps based on the SRTM (Shuttle Radar Topography Mission) Digital Elevation Model.",
-    "es": "Esta herramienta permite crear mapas de altimetría, basados en el Modelo Digital de Elevación SRTM (Shuttle Radar Topography Mission).",
-    "pt": "Esta ferramenta permite criar mapas de altimetria com base no Modelo Digital de Elevação SRTM (Shuttle Radar Topography Mission)."
+    "en": "Allows creating altimetry maps based on the SRTM (Shuttle Radar Topography Mission) Digital Elevation Model",
+    "es": "Permite crear mapas de altimetría, basados en el Modelo Digital de Elevación SRTM (Shuttle Radar Topography Mission).",
+    "pt": "Permite criar mapas de altimetria, com base no Modelo Digital de Elevação SRTM (Shuttle Radar Topography Mission)."
   },
   "annual_distribution": {
     "en": "Annual distribution of detections of surface with water presence",
@@ -245,14 +245,14 @@
     "pt": "Valores diários"
   },
   "dashboard_benchmarking_description": {
-    "en": "This dashboard allows a comparative analysis of the fields loaded on the 360 platform, through the analysis of the NDVI index.",
-    "es": "Este tablero permite hacer un análisis comparativo de los lotes cargados en la plataforma 360, mediante el análisis del índice NDVI.",
-    "pt": "Este painel permite uma análise comparativa dos campos carregados na plataforma 360, através da análise do índice NDVI."
+    "en": "Allows performing an evolutionary and comparative analysis of plots uploaded to the 360 platform, using the NDVI index as a source.",
+    "es": "Permite hacer un análisis evolutivo y comparativo de lotes cargados en la plataforma 360, tomando como fuente el índice NDVI.",
+    "pt": "Permite realizar uma análise evolutiva e comparativa de talhões carregados na plataforma 360, utilizando como fonte o índice NDVI."
   },
   "dashboard_indice_promedio_description": {
-    "en": "This dashboard allows the evaluation of fields in an establishment based on the mean of satellite indices between two given dates, analyzing mean values and intrafield variability. Different indices (NDVI, NDRE, NDMI, SAVI, EVI, and NDWI) can be selected within it.",
-    "es": "Este tablero permite evaluar los lotes de un establecimiento a partir del promedio de índices satelitales entre dos fechas dadas, analizando valores medios y variabilidad intralote. Dentro del mismo, se pueden seleccionar diferentes índices (NDVI, NDRE, NDMI, SAVI, EVI y NDWI).",
-    "pt": "Este painel permite avaliar os lotes de um estabelecimento com base na média dos índices de satélite entre duas datas dadas, analisando valores médios e variabilidade intratalhão. Diferentes índices (NDVI, NDRE, NDMI, SAVI, EVI e NDWI) podem ser selecionados nele."
+    "en": "Allows evaluating the fields of a farm based on the average of satellite indices over a defined period, analyzing mean values and intrafield variability. Different indices can be selected: NDVI, NDRE, NDMI, SAVI, EVI, and NDWI.",
+    "es": "Permite evaluar los lotes de un establecimiento a partir del promedio de índices satelitales en un período definido, analizando valores medios y variabilidad intralote. Se pueden seleccionar diferentes índices: NDVI, NDRE, NDMI, SAVI, EVI y NDWI.",
+    "pt": "Permite avaliar os talhões de um estabelecimento com base na média de índices de satélite em um período definido, analisando valores médios e variabilidade intratalhão. Podem ser selecionados diferentes índices: NDVI, NDRE, NDMI, SAVI, EVI e NDWI."
   },
   "dashboard_not_yet_available": {
     "en": "This dashboard is not yet available in this Domain",
@@ -535,9 +535,9 @@
     "pt": "Lotes"
   },
   "fields_and_crops_dashboard_description": {
-    "en": "This dashboard provides a detailed view and analysis of the composition of fields and crops registered in the 360 platform. It also allows for the assessment of planting progress through the analysis of planting date data.",
-    "es": "Este tablero ofrece una visión detallada y permite el análisis de la composición de lotes y cultivos registrados en la plataforma 360. Además, facilita la evaluación del progreso de la siembra mediante el análisis de los datos correspondientes a las fechas de siembra.",
-    "pt": "Este painel oferece uma visão detalhada e permite a análise da composição de lotes e culturas registradas na plataforma 360. Além disso, facilita a avaliação do progresso do plantio por meio da análise dos dados de datas de plantio."
+    "en": "Provides a detailed view of sowing plans (fields, crops, hybrid/variety, and sowing date) recorded in the “Fields” layer of the 360 platform. Facilitates monitoring the progress of sowing tasks through the analysis of sowing dates.",
+    "es": "Ofrece una visión detallada de planes de siembra (lotes, cultivos, híbrido/variedad y fecha de siembra) registrados en la capa “Lotes” de la plataforma 360. Facilita el seguimiento del progreso de labores de siembra mediante el análisis de fechas de siembra.",
+    "pt": "Oferece uma visão detalhada dos planos de semeadura (talhões, culturas, híbrido/variedade e data de semeadura) registrados na camada “Talhões” da plataforma 360. Facilita o acompanhamento do progresso das atividades de semeadura por meio da análise das datas de semeadura."
   },
   "fields_without_crops": {
     "en": "Fields without crops",
@@ -750,9 +750,9 @@
     "pt": "Hectares por data de colheita"
   },
   "hidric_risk_description": {
-    "en": "This interactive panel provides tools to analyze, for each field on a farm, the detection of surface water presence using satellite imagery.",
-    "es": "Este panel interactivo ofrece una herramienta para analizar, para cada lote de un establecimiento, la detección de la presencia de agua en superficie mediante el uso de imágenes satelitales.",
-    "pt": "Este painel interativo oferece uma ferramenta para analisar, para cada lote de um estabelecimento, a detecção da presença de água na superfície por meio de imagens de satélite."
+    "en": "Detection of surface water presence using satellite imagery.",
+    "es": "Detección de presencia de agua en superficie mediante el uso de imágenes satelitales.",
+    "pt": "Detecção da presença de água na superfície por meio de imagens de satélite."
   },
   "high_temp": {
     "en": "Temperatures >35°C",
@@ -1885,9 +1885,9 @@
     "pt": "Ano"
   },
   "yield_dashboard_description": {
-    "en": "This dashboard allows for a comparative analysis of the yield layers loaded into the 360 platform. Additionally, it facilitates the evaluation of harvest progress through the analysis of data related to harvest dates and mapped hectares.",
-    "es": "Este tablero permite hacer un análisis comparativo de las capas de rindes cargadas en la plataforma 360. Además, facilita la evaluación del progreso de cosecha mediante el análisis de los datos correspondientes a las fechas de cosechas y hectáreas mapeadas.",
-    "pt": "Este painel permite uma análise comparativa das camadas de rendimentos carregadas na plataforma 360. Além disso, facilita a avaliação do progresso da colheita através da análise dos dados referentes às datas de colheita e às hectares mapeadas."
+    "en": "Allows performing a comparative analysis of yield layers uploaded to the 360 platform and facilitates monitoring the progress of harvest tasks through the analysis of harvest dates and mapped hectares.",
+    "es": "Permite hacer un análisis comparativo de las capas de rindes cargadas en la plataforma 360 y facilita el seguimiento del progreso de labores de cosecha mediante el análisis de fechas de cosecha y hectáreas mapeadas.",
+    "pt": "Permite realizar uma análise comparativa das camadas de rendimento carregadas na plataforma 360 e facilita o acompanhamento do progresso das atividades de colheita por meio da análise das datas de colheita e hectares mapeados."
   },
   "yield_layer": {
     "en": "Yield layer",
