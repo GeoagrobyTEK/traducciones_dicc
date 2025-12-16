@@ -474,6 +474,11 @@
     "es": "Establecimiento",
     "pt": "Estabelecimento"
   },
+  "event_date": {
+  "en": "Event date",
+  "es": "Fecha del evento",
+  "pt": "Data do evento"
+  },
   "exclude": {
     "en": "Exclude",
     "es": "Excluir",
@@ -1278,6 +1283,16 @@
     "en": "Flowering to Pod filling (BBCH 60–70)",
     "es": "Floración a Llenado de vainas (BBCH 60–70)",
     "pt": "Florescimento até Enchimento de vagens (BBCH 60–70)"
+  },
+  "posterior_date": {
+  "en": "Posterior date",
+  "es": "Fecha posterior",
+  "pt": "Data posterior"
+  },
+  "previous_date": {
+  "en": "Previous date",
+  "es": "Fecha anterior",
+  "pt": "Data anterior"
   },
   "point_map_by_field_according_to": {
     "en": "Map by Field According to",
