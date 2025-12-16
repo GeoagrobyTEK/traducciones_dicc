@@ -44,6 +44,11 @@
     "es": "Permite crear mapas de altimetría, basados en el Modelo Digital de Elevación SRTM (Shuttle Radar Topography Mission).",
     "pt": "Permite criar mapas de altimetria, com base no Modelo Digital de Elevação SRTM (Shuttle Radar Topography Mission)."
   },
+  "anterior": {
+  "en": "Previous",
+  "es": "Anterior",
+  "pt": "Anterior"
+  },
   "annual_distribution": {
     "en": "Annual distribution of detections of surface with water presence",
     "es": "Distribución anual de detecciones de superficie con presencia de agua",
@@ -528,6 +533,11 @@
     "en": "Farms",
     "es": "Establecimientos",
     "pt": "Fazendas"
+  },
+  "false_color": {
+  "en": "False Color",
+  "es": "Falso color",
+  "pt": "Falsa cor"
   },
   "field": {
     "en": "Field",
@@ -1179,6 +1189,11 @@
     "es": "Serie Temporal NDVI Promedio",
     "pt": "Série Temporal Média de NDVI"
   },
+  "no_aoi_distribution": {
+  "en": "The distribution could not be calculated for the AOI.",
+  "es": "No se pudo calcular la distribución en el AOI.",
+  "pt": "Não foi possível calcular a distribuição no AOI."
+  },
   "no_chart_generated": {
     "en": "No chart was generated for the establishment.",
     "es": "No se generó un gráfico para el establecimiento.",
@@ -1193,6 +1208,11 @@
     "en": "It was not possible to generate difference images.",
     "es": "No fue posible generar imágenes de diferencia.",
     "pt": "Não foi possível gerar imagens de diferença."
+  },
+  "no_distribution_calculated": {
+  "en": "It was not possible to calculate the distribution:",
+  "es": "No fue posible calcular la distribución:",
+  "pt": "Não foi possível calcular a distribuição:"
   },
   "no_grouping": {
     "en": "No group",
@@ -1319,6 +1339,11 @@
     "es": "por lote",
     "pt": "por lote"
   },
+  "posterior": {
+  "en": "Posterior",
+  "es": "Posterior",
+  "pt": "Posterior"
+  },
   "pre_flower_sorghum": {
     "en": "5 leaves to pre-flowering",
     "es": "5 hojas a prefloración",
@@ -1414,6 +1439,11 @@
     "es": "Rango",
     "pt": "Intervalo"
   },
+  "range_distribution_surface_pct": {
+  "en": "Distribution by ranges (surface percentage)",
+  "es": "Distribución por rangos (porcentaje de superficie)",
+  "pt": "Distribuição por faixas (percentual de superfície)"
+  },
   "raw_data_option": {
     "en": "Raw data",
     "es": "Datos sin procesar",
@@ -1428,6 +1458,11 @@
     "en": "The graph represents the months in which surface water was detected in at least one of the pixels that make up the analyzed lot area, during the period covered by the database.",
     "es": "La gráfica representa los meses en los cuales se detectó la presencia de agua en al menos uno de los píxeles que componen el área del lote analizado, durante el período abarcado por la base de datos.",
     "pt": "O gráfico representa os meses em que foi detectada a presença de água em pelo menos um dos pixels que compõem a área do lote analisado, durante o período coberto pela base de dados."
+  },
+  "relative_frequency": {
+  "en": "Relative frequency (%)",
+  "es": "Frecuencia relativa (%)",
+  "pt": "Frequência relativa (%)"
   },
   "remaining_time": {
     "en": "Approximate remaining time: ",
@@ -1664,6 +1699,11 @@
     "es": "Domingo",
     "pt": "Domingo"
   },
+  "surface_percentage": {
+  "en": "Surface percentage",
+  "es": "Porcentaje de superficie",
+  "pt": "Percentual de superfície"
+  },
   "surface_water_map": {
     "en": "Surface water map",
     "es": "Mapa de agua superficial",
@@ -1773,6 +1813,11 @@
     "en": "Trend curve",
     "es": "Curva de tendencia",
     "pt": "Curva de tendência"
+  },
+  "true_color": {
+  "en": "True Color",
+  "es": "Color real",
+  "pt": "Cor real"
   },
   "tt_dia": {
     "en": "TT (°C/day)",
