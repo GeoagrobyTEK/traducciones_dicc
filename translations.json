@@ -1,4 +1,4 @@
-{
+  {
   "accumulated_hectares": {
     "en": "Accumulated hectares",
     "es": "Hectáreas acumuladas",
@@ -368,6 +368,16 @@
     "en": "Detections percentage",
     "es": "Porcentaje de detecciones",
     "pt": "Percentual de detecções"
+  },
+  "diferencia": {
+  "en": "Difference",
+  "es": "Diferencia",
+  "pt": "Diferença"
+  },
+  "distribution": {
+  "en": "Distribution",
+  "es": "Distribución",
+  "pt": "Distribuição"
   },
   "dom": {
     "en": "Sun",
@@ -1169,6 +1179,16 @@
     "es": "No se generó un gráfico para el establecimiento.",
     "pt": "Nenhum gráfico foi gerado para o estabelecimento."
   },
+  "no_data_distribution": {
+  "en": "There is no data to calculate the distribution.",
+  "es": "No hay datos para calcular la distribución.",
+  "pt": "Não há dados para calcular a distribuição."
+  },
+  "no_difference_images": {
+    "en": "It was not possible to generate difference images.",
+    "es": "No fue posible generar imágenes de diferencia.",
+    "pt": "Não foi possível gerar imagens de diferença."
+  },
   "no_grouping": {
     "en": "No group",
     "es": "No agrupar",
@@ -1633,6 +1653,11 @@
     "en": "Surface water map",
     "es": "Mapa de agua superficial",
     "pt": "Mapa de água superficial"
+  },
+  "tasa_de_cambio": {
+  "en": "Rate of change",
+  "es": "Tasa de cambio",
+  "pt": "Taxa de variação"
   },
   "temp_avg_min_max": {
     "en": "Average, minimum and maximum daily temperatures",
