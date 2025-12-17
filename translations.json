@@ -972,7 +972,7 @@
   "map_d": {
     "en": "Map",
     "es": "Mapa",
-    "pt": "mapa"
+    "pt": "Mapa"
   },
   "map_d2": {
     "en": "Download map of flooded areas",
@@ -1700,9 +1700,9 @@
     "pt": "Domingo"
   },
   "surface_percentage": {
-  "en": "Surface percentage",
-  "es": "Porcentaje de superficie",
-  "pt": "Percentual de superfície"
+  "en": "Surface percentage %",
+  "es": "Porcentaje de superficie %",
+  "pt": "Percentual de superfície %"
   },
   "surface_water_map": {
     "en": "Surface water map",
