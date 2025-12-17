@@ -44,6 +44,11 @@
     "es": "Permite crear mapas de altimetría, basados en el Modelo Digital de Elevación SRTM (Shuttle Radar Topography Mission).",
     "pt": "Permite criar mapas de altimetria, com base no Modelo Digital de Elevação SRTM (Shuttle Radar Topography Mission)."
   },
+  "analisis_individual_por_lote": {
+  "en": "Individual field analysis",
+  "es": "Análisis individual por lote",
+  "pt": "Análise individual por talhão"
+  },
   "anterior": {
   "en": "Previous",
   "es": "Anterior",
@@ -658,6 +663,11 @@
     "en": "Fog",
     "es": "Neblina",
     "pt": "Névoa"
+  },
+  "frequency": {
+  "en": "Frequency",
+  "es": "Frecuencia",
+  "pt": "Frequência"
   },
   "frequency_pct": {
   "en": "Frequency (%)",
