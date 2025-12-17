@@ -659,6 +659,11 @@
     "es": "Neblina",
     "pt": "Névoa"
   },
+  "frequency_pct": {
+  "en": "Frequency (%)",
+  "es": "Frecuencia (%)",
+  "pt": "Frequência (%)"
+  },
   "friday": {
     "en": "Friday",
     "es": "Viernes",
@@ -784,10 +789,20 @@
     "es": "Temperaturas >35°C",
     "pt": "Temperaturas >35°C"
   },
+  "histogram_comparison": {
+  "en": "Histogram comparison",
+  "es": "Comparativa entre histogramas",
+  "pt": "Comparação entre histogramas"
+  },
   "histogram_description": {
     "en": "This histogram shows the annual distribution, expressed as a percentage, of total surface water detections. It provides a detailed view of how water observations are distributed throughout the year, allowing for the identification of patterns and trends in water presence during different periods.",
     "es": "Este histograma muestra la distribución anual, expresada en porcentaje, de las detecciones totales de agua en superficie. Este gráfico proporciona una visión detallada de cómo se distribuyen las observaciones de agua a lo largo del año, permitiendo identificar patrones y tendencias en la presencia de agua en diferentes períodos.",
     "pt": "Este histograma mostra a distribuição anual, expressa em percentual, das detecções totais de água na superfície. Este gráfico fornece uma visão detalhada de como as observações de água são distribuídas ao longo do ano, permitindo identificar padrões e tendências na presença de água durante diferentes períodos."
+  },
+  "histograms_not_calculated": {
+  "en": "It was not possible to calculate the histograms.",
+  "es": "No fue posible calcular los histogramas.",
+  "pt": "Não foi possível calcular os histogramas."
   },
   "historical_climate_analysis": {
     "en": "Historical climate analysis",
@@ -1305,7 +1320,7 @@
     "pt": "Florescimento até Enchimento de vagens (BBCH 60–70)"
   },
   "posterior_date": {
-  "en": "Posterior date",
+  "en": "Later date",
   "es": "Fecha posterior",
   "pt": "Data posterior"
   },
@@ -1340,7 +1355,7 @@
     "pt": "por lote"
   },
   "posterior": {
-  "en": "Posterior",
+  "en": "Later",
   "es": "Posterior",
   "pt": "Posterior"
   },
