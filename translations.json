@@ -2048,6 +2048,59 @@
     "en": "Heatmap by Yield",
     "es": "Heatmap por Rinde",
     "pt": "Heatmap por Rendimento"
-  }
+  },
+  "Interpolaciones": {
+"en": "Interpolations",
+"es": "Interpolaciones",
+"pt": "Interpolações"
+},
+"datos_interpolar": {
+"en": "Data to interpolate",
+"es": "Datos a interpolar",
+"pt": "Dados para interpolar"
+},
+"fuente_datos": {
+"en": "Select the type of data source to use:",
+"es": "Selecciona el tipo de fuente de datos a utlizar:",
+"pt": "Selecione o tipo de fonte de dados a ser utilizada:"
+},
+"geo_points": {
+"en": "Georeferenced point files",
+"es": "Archivos de puntos georeferenciados",
+"pt": "Arquivos de pontos georreferenciados"
+},
+"lab_data": {
+"en": "Laboratory analysis + georeferenced points",
+"es": "Analisis de laboratorio + puntos georeferenciados",
+"pt": "Análise de laboratório + pontos georreferenciados"
+},
+"load_data": {
+"en": "Upload the file that contains the data to interpolate",
+"es": "Subí el archivo que contiene los datos a interpolar",
+"pt": "Envie o arquivo que contém os dados para interpolar"
+},
+"shp_zip_warning": {
+"en": "No .shp or .geojson file found inside the ZIP.",
+"es": "No se encontró ningún .shp ni .geojson dentro del ZIP.",
+"pt": "Nenhum arquivo .shp ou .geojson encontrado dentro do ZIP."
+},
+"format_warning": {
+"en": "Unsupported format",
+"es": "Formato no soportado",
+"pt": "Formato não suportado"
+},
+"format_warning_2": {
+"en": "Please upload a GeoJSON, SHP, or ZIP point file to continue.",
+"es": "Por favor, subí un archivo de puntos GeoJSON, SHP o ZIP para continuar.",
+"pt": "Por favor, envie um arquivo de pontos GeoJSON, SHP ou ZIP para continuar."
+},
+"error_reading": {
+"en": "Error reading the geospatial ZIP:",
+"es": "Error al leer el ZIP geoespacial:",
+"pt": "Erro ao ler o ZIP geoespacial:"
+}
+
+
+
 }
 
