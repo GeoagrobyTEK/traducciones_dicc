@@ -339,6 +339,21 @@
     "es": "El rango máximo permitido es de 365 días.",
     "pt": "O intervalo máximo permitido é de 365 dias."
   },
+  "days_quantity": {
+  "en": "Number of days",
+  "es": "Cantidad de días",
+  "pt": "Quantidade de dias"
+  },
+  "day": {
+    "en": "day",
+    "es": "día",
+    "pt": "dia"
+  },
+  "days": {
+    "en": "days",
+    "es": "días",
+    "pt": "dias"
+  },
   "degree_day_ajust": {
     "en": "Degree/day adjustments per stage",
     "es": "Ajustes de grados/día por etapa",
