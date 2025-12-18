@@ -2098,9 +2098,32 @@
 "en": "Error reading the geospatial ZIP:",
 "es": "Error al leer el ZIP geoespacial:",
 "pt": "Erro ao ler o ZIP geoespacial:"
+},
+"geo_points_2": {
+"en": "Georeferenced point file (GeoJSON / SHP / ZIP)",
+"es": "Archivo de puntos georeferenciados (GeoJSON / SHP / ZIP)",
+"pt": "Arquivo de pontos georreferenciados (GeoJSON / SHP / ZIP)"
+},
+"lab_data_2": {
+"en": "File with laboratory results (CSV / XLS / XLSX)",
+"es": "Archivo con resultados de laboratorio (CSV / XLS / XLSX)",
+"pt": "Arquivo com resultados de laboratório (CSV / XLS / XLSX)"
+},
+"warning_lab": {
+"en": "Upload both files (points + laboratory) to continue.",
+"es": "Subí ambos archivos (puntos + laboratorio) para continuar.",
+"pt": "Envie ambos os arquivos (pontos + laboratório) para continuar."
+},
+"warning_lab_2": {
+"en": "Sampling points could not be read from the geospatial file.",
+"es": "No se pudieron leer puntos de muestreo desde el archivo geoespacial.",
+"pt": "Não foi possível ler os pontos de amostragem do arquivo geoespacial."
+},
+"warning_lab_3": {
+"en": "The geospatial file does not contain valid geometry.",
+"es": "El archivo geoespacial no contiene geometría válida.",
+"pt": "O arquivo geoespacial não contém geometria válida."
 }
-
-
 
 }
 
