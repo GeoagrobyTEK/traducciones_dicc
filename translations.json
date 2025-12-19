@@ -484,6 +484,11 @@
         "es": "Fecha de fin",
         "pt": "Data de término"
     },
+    "end_of_harvest_period": {
+        "en": "End of the harvest period", 
+        "es": "Fin del período de cosecha", 
+        "pt": "Fim do período de colheita"
+    },
     "end_pc": {
         "en": "End of critical period",
         "es": "Fin período crítico",
@@ -991,8 +996,8 @@
     },
     "jul_jun": {
         "en": "Jul-Jun", 
-        "es": "jul-jun", 
-        "pt": "jul-jun"
+        "es": "Jul-Jun", 
+        "pt": "Jul-Jun"
     },
     "kriged_map": {
         "en": "Kriged map",
@@ -1819,6 +1824,11 @@
         "es": "Fecha de inicio",
         "pt": "Data de inicio"
     },
+    "start_of_the_germination_period": {
+        "en": "Start of the germination period", 
+        "es": "Inicio del período de germinación", 
+        "pt": "Início do período de germinação"
+    },
     "start_pc": {
         "en": "Start of critical period",
         "es": "Inicio período crítico",
@@ -1923,6 +1933,11 @@
         "en": "Mean and variability index",
         "es": "Índice promedio y variabilidad",
         "pt": "Índice de média e variabilidade"
+    },
+    "title_diferencia_tasa_cambio": {
+        "en": "Difference & Rate of Change",
+        "es": "Diferencia y tasa de cambio",
+        "pt": "Diferença e taxa de mudança"
     },
     "title_yield": {
         "en": "Yield",
