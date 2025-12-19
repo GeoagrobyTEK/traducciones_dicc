@@ -144,6 +144,11 @@
         "es": "Boxplot y coeficiente de variación por lote",
         "pt": "Boxplot e coeficiente de variação por lote"
     },
+    "choose_identifier_column": {
+        "en": "Choose the identifier column in each table that allows linking each sampling point with its laboratory analysis (e.g., `ID`).", 
+        "es": "Elegí la columna identificadora en cada tabla que permita relacionar cada punto de muestreo con su análisis de laboratorio (por ej. `ID`).", 
+        "pt": "Escolha a coluna identificadora em cada tabela que permita relacionar cada ponto de amostragem com sua análise de laboratório (por exemplo, `ID`)."
+    },
     "choose_option": {
         "en": "Choose an option",
         "es": "Elije una opción",
@@ -304,6 +309,16 @@
         "es": "Datos por modelo",
         "pt": "Dados por modelo"
     },
+    "data_preview": {
+        "en": "Data preview", 
+        "es": "Vista previa de los datos", 
+        "pt": "Pré-visualização dos dados"
+    },
+    "data_to_interpolate": {
+        "en": "Data to interpolate", 
+        "es": "Datos a interpolar", 
+        "pt": "Dados para interpolar"
+    },
     "data_visualization": {
         "en": "Data Visualization",
         "es": "Visualización de datos",
@@ -414,6 +429,11 @@
         "es": "Diferencia",
         "pt": "Diferença"
     },
+    "difference_and_change_rate_short_use": {
+        "en": "It helps compare the evolution of a satellite index between two dates and quantify changes. It is especially useful for assessing the impact of specific events such as hail, frost, fires, or phytotoxicity damage, among others.",
+        "es": "Sirve para comparar la evolución de un índice satelital entre dos fechas y cuantificar cambios. Es especialmente útil para evaluar el impacto de eventos puntuales como granizo, heladas, incendios o daños por fitotoxicidad, entre otros.",
+        "pt": "Ajuda a comparar a evolução de um índice satelital entre duas datas e quantificar mudanças. É especialmente útil para avaliar o impacto de eventos pontuais como granizo, geadas, incêndios ou danos por fitotoxicidade, entre outros."
+        },
     "distribution": {
         "en": "Distribution",
         "es": "Distribución",
@@ -518,6 +538,11 @@
         "en": "Error reading the geospatial ZIP:",
         "es": "Error al leer el ZIP geoespacial:",
         "pt": "Erro ao ler o ZIP geoespacial:"
+    },
+    "error_reading_2": {
+        "en": "Error reading the lab file", 
+        "es": "Error al leer el archivo de laboratorio", 
+        "pt": "Erro ao ler o arquivo do laboratório"
     },
     "establishment": {
         "en": "Establishment",
@@ -764,6 +789,11 @@
         "es": "Archivo de puntos georeferenciados (GeoJSON / SHP / ZIP)",
         "pt": "Arquivo de pontos georreferenciados (GeoJSON / SHP / ZIP)"
     },
+    "georeferenced_sampling_points": {
+        "en": "Georeferenced sampling points", 
+        "es": "Puntos de muestreo georeferenciados", 
+        "pt": "Pontos de amostragem georreferenciados"
+    },
     "grain_filling_corn": {
         "en": "Grain filling (R2 to R5)",
         "es": "Llenado de granos (R2 a R5)",
@@ -919,6 +949,21 @@
         "es": "Riesgo hídrico",
         "pt": "Risco hídrico"
     },
+    "identifier_column_sampling_layer": {
+        "en": "Identifier column in the sampling points layer:", 
+        "es": "Columna identificadora en la capa de puntos:", 
+        "pt": "Coluna identificadora na camada de pontos de amostragem:"
+    },
+    "identifier_column_auto_suggested": {
+        "en": "The most likely sample identifier column is automatically suggested.", 
+        "es": "Se sugiere automáticamente la columna más probable de identificador de muestra.", 
+        "pt": "A coluna mais provável de identificador da amostra é sugerida automaticamente."
+    },
+    "identifier_column_lab_table_label": {
+        "en": "Identifier column in the laboratory results table:", 
+        "es": "Columna identificadora en la tabla de resultados de laboratorio:", 
+        "pt": "Coluna identificadora na tabela de resultados de laboratório:"
+    },
     "include": {
         "en": "Include",
         "es": "Incluir",
@@ -999,6 +1044,11 @@
         "es": "Jul-Jun", 
         "pt": "Jul-Jun"
     },
+    "join_tables": {
+        "en": "Join tables", 
+        "es": "Unir tablas", 
+        "pt": "Unir tabelas"
+    },
     "kriged_map": {
         "en": "Kriged map",
         "es": "Mapa krigeado",
@@ -1013,6 +1063,16 @@
         "en": "File with laboratory results (CSV / XLS / XLSX)",
         "es": "Archivo con resultados de laboratorio (CSV / XLS / XLSX)",
         "pt": "Arquivo com resultados de laboratório (CSV / XLS / XLSX)"
+    },
+    "lab_file_empty": {
+        "en": "The lab file is empty", 
+        "es": "El archivo de laboratorio está vacío", 
+        "pt": "O arquivo do laboratório está vazio"
+    },
+    "lab_results": {
+        "en": "Laboratory results", 
+        "es": "Resultados de laboratorio", 
+        "pt": "Resultados de laboratório"
     },
     "labels": {
         "en": "Labels",
@@ -1083,6 +1143,11 @@
         "en": "Emergence to 5 leaves",
         "es": "Emergencia a 5 hojas",
         "pt": "Emergência até 5 folhas"
+    },
+    "link_sampling_points_with_lab_results": {
+        "en": "Link sampling points with laboratory results", 
+        "es": "Vincular puntos de muestreo con resultados de laboratorio", 
+        "pt": "Vincular pontos de amostragem com resultados de laboratório"
     },
     "load_data": {
         "en": "Upload the file that contains the data to interpolate",
@@ -1359,6 +1424,11 @@
         "es": "No fue posible calcular la distribución:",
         "pt": "Não foi possível calcular a distribuição:"
     },
+    "no_existing_plots_with_enough_points": {
+        "en": "There are no existing plots with at least 3 points with data to interpolate.", 
+        "es": "No existen lotes con al menos 3 puntos con datos para interpolar.", 
+        "pt": "Não existem talhões com pelo menos 3 pontos com dados para interpolar."
+    },
     "no_grouping": {
         "en": "No group",
         "es": "No agrupar",
@@ -1439,6 +1509,11 @@
         "es": "Evolución fenológica del cultivo",
         "pt": "Evolução fenológica da cultura"
     },
+    "pixel_size_m": {
+        "en": "Pixel size (m)", 
+        "es": "Tamaño del pixel (m)", 
+        "pt": "Tamanho do pixel (m)"
+    },
     "platform_width": {
         "en": "Platform Width",
         "es": "Ancho de Labor",
@@ -1513,6 +1588,11 @@
         "en": "Pressure",
         "es": "Presión",
         "pt": "Pressão"
+    },
+    "press_join_tables_to_continue": {
+        "en": "Press Join tables to continue with the processing.", 
+        "es": "Presioná Unir tablas para continuar con el procesamiento.", 
+        "pt": "Pressione Unir tabelas para continuar com o processamento."
     },
     "previous_date": {
         "en": "Previous date",
@@ -1713,6 +1793,11 @@
         "en": "Select a model",
         "es": "Selecciona un modelo",
         "pt": "Selecione um modelo"
+    },
+    "select_variables_to_interpolate": {
+        "en": "Selection of variables to interpolate", 
+        "es": "Selección de variables a interpolar", 
+        "pt": "Seleção de variáveis para interpolar"
     },
     "select_warning": {
         "en": "You must select a field to continue",
@@ -1999,6 +2084,16 @@
         "es": "Solo puedes seleccionar un grupo de cultivos",
         "pt": "Você só pode selecionar um grupo de culturas"
     },
+    "unique_values_in_lab": {
+        "en": "Unique values in laboratory:", 
+        "es": "Valores únicos en laboratorio:", 
+        "pt": "Valores únicos no laboratório:"
+    },
+    "unique_values_in_points": {
+        "en": "Unique values in points:", 
+        "es": "Valores únicos en puntos:", 
+        "pt": "Valores únicos nos pontos:"
+    },
     "upper_fence": {
         "en": "Upper fence",
         "es": "Limite superior",
@@ -2028,6 +2123,16 @@
         "en": "Variance",
         "es": "Varianza",
         "pt": "Variância"
+    },
+    "variables_to_interpolate": {
+        "en": "Variables to interpolate", 
+        "es": "Variables a interpolar", 
+        "pt": "Variáveis para interpolar"
+    },
+    "variables_to_interpolate_warning": {
+        "en": "Select at least one variable to continue.", 
+        "es": "Seleccioná al menos una variable para continuar.", 
+        "pt": "Selecione pelo menos uma variável para continuar."
     },
     "veg_corn": {
         "en": "Vegetative (V1 to VT)",
