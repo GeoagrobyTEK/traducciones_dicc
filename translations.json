@@ -1404,6 +1404,11 @@
         "es": "No se pudo calcular la distribución en el AOI.",
         "pt": "Não foi possível calcular a distribuição no AOI."
     },
+    "no_available_dates_between": {
+        "en": "No dates available between",
+        "es": "No hay fechas disponibles entre",
+        "pt": "Não há datas disponíveis entre"
+    },
     "no_chart_generated": {
         "en": "No chart was generated for the establishment.",
         "es": "No se generó un gráfico para el establecimiento.",
@@ -1439,10 +1444,25 @@
         "es": "No se encontraron días con temperaturas mayores a 35°C",
         "pt": "Não foram encontrados dias com temperaturas acima de 35°C"
     },
+    "no_images_last_365_days": {
+        "en": "No available images were found in the last 365 days.",
+        "es": "No se encontraron imágenes disponibles en los últimos 365 días.",
+        "pt": "Não foram encontradas imagens disponíveis nos últimos 365 dias."
+    },
+    "no_images_around_event_date_45d": {
+      "en": "No images available on/after the event date within the ±45-day window.",
+      "es": "No hay imágenes en/tras la fecha del evento dentro de la ventana ±45 días.",
+      "pt": "Não há imagens na/após a data do evento dentro da janela de ±45 dias."
+    },
     "no_low_temp": {
         "en": "No days with temperatures below 2°C were found",
         "es": "No se encontraron días con temperaturas menores a 2°C",
         "pt": "Não foram encontrados dias com temperaturas abaixo de 2°C"
+    },
+    "no_previous_dates_in_window_45d": {
+      "en": "No previous dates available within the ±45-day window.",
+      "es": "No hay fechas anteriores disponibles dentro de la ventana ±45 días.",
+      "pt": "Não há datas anteriores disponíveis dentro da janela de ±45 dias."
     },
     "no_surface_water_lots": {
         "en": "No lots with surface water detected.",
@@ -1558,6 +1578,11 @@
         "en": "Later date",
         "es": "Fecha posterior",
         "pt": "Data posterior"
+    },
+    "post_image_last_available_in_window": {
+      "en": "The latest available image within the window will be used as 'post':",
+      "es": "Se usará como 'posterior' la última imagen disponible en la ventana:",
+      "pt": "A última imagem disponível na janela será usada como 'posterior':"
     },
     "pre_flower_sorghum": {
         "en": "5 leaves to pre-flowering",
