@@ -64,6 +64,11 @@
         "es": "Anterior",
         "pt": "Anterior"
     },
+    "applied_as_internal_limits": {
+        "en": "Applied as internal limits; the extremes are min and max values.", 
+        "es": "Se aplican como límites internos; los extremos son valores min y valores max.", 
+        "pt": "Aplicados como limites internos; os extremos são os valores mínimo e máximo."
+    },
     "area": {
         "en": "Area",
         "es": "Área",
@@ -144,6 +149,11 @@
         "es": "Boxplot y coeficiente de variación por lote",
         "pt": "Boxplot e coeficiente de variação por lote"
     },
+    "breaks_comma_separated": {
+        "en": "Breaks (comma-separated). E.g.: 10, 20, 30, 45", 
+        "es": "Cortes (separados por coma). Ej: 10, 20, 30, 45", 
+        "pt": "Divisões (separadas por vírgula). Ex: 10, 20, 30, 45"
+    },
     "choose_identifier_column": {
         "en": "Choose the identifier column in each table that allows linking each sampling point with its laboratory analysis (e.g., `ID`).", 
         "es": "Elegí la columna identificadora en cada tabla que permita relacionar cada punto de muestreo con su análisis de laboratorio (por ej. `ID`).", 
@@ -153,6 +163,16 @@
         "en": "Choose an option",
         "es": "Elije una opción",
         "pt": "Escolha uma opção"
+    },
+    "classes": {
+        "en": "Classes", 
+        "es": "Clases", 
+        "pt": "Classes"
+    },
+    "class_width_note": {
+        "en": "Width of each class: internal breaks are generated for each 'interval' between min and max value.", 
+        "es": "Ancho de cada clase: se generan cortes internos para cada 'intervalo' entre valor min y valor max.", 
+        "pt": "Largura de cada classe: divisões internas são geradas para cada 'intervalo' entre o valor mínimo e o valor máximo."
     },
     "cleaning_option": {
         "en": "Statistical cleaning by the Savitzky–Golay method",
@@ -174,6 +194,11 @@
         "es": "Coef. de Var.",
         "pt": "Coef. de Var."
     },
+    "check_comma_separated_numbers": {
+        "en": "Check that the numbers are comma-separated.", 
+        "es": "Revisá que los números se encuentren separados por coma.", 
+        "pt": "Verifique se os números estão separados por vírgula."
+    },
     "color_palette": {
         "en": "Color Palette",
         "es": "Paleta de colores",
@@ -193,6 +218,11 @@
         "en": "Comma-separated values",
         "es": "Valores separados por comas",
         "pt": "Valores separados por vírgulas"
+    },
+    "continuous_interpolation": {
+        "en": "continuous_interpolation_", 
+        "es": "interpolacion_continua_", 
+        "pt": "interpolacao_continua_"
     },
     "contour_lines": {
         "en": "Contour lines",
@@ -469,6 +499,11 @@
         "es": "Descargar archivos GeoJSON",
         "pt": "Baixar Arquivos GeoJSON"
     },
+    "download_interpolated_maps": {
+        "en": "Download interpolated maps", 
+        "es": "Descargar mapas interpolados", 
+        "pt": "Baixar mapas interpolados"
+    },
     "download_surface_water_map": {
         "en": "Download surface water map",
         "es": "Descargar mapa de agua superficial",
@@ -524,6 +559,11 @@
         "es": "Demanda ambiental",
         "pt": "Demanda ambiental"
     },
+    "equal_intervals": {
+        "en": "Equal intervals", 
+        "es": "Intervalos iguales", 
+        "pt": "Intervalos iguais"
+    },
     "error_generating_maps": {
         "en": "Error generating the maps.",
         "es": "Error al generar los mapas.",
@@ -553,6 +593,11 @@
         "en": "Event date",
         "es": "Fecha del evento",
         "pt": "Data do evento"
+    },
+    "exact_classes_between": {
+        "en": "exact classes between", 
+        "es": "clases exactas entre", 
+        "pt": "classes exatas entre"
     },
     "exclude": {
         "en": "Exclude",
@@ -904,6 +949,11 @@
         "es": "Temperaturas >35°C",
         "pt": "Temperaturas >35°C"
     },
+    "histogram": {
+        "en": "Histogram", 
+        "es": "Histograma", 
+        "pt": "Histograma"
+    },
     "histogram_comparison": {
         "en": "Histogram comparison",
         "es": "Comparativa entre histogramas",
@@ -979,10 +1029,40 @@
         "es": "Interpolaciones",
         "pt": "Interpolações"
     },
+    "interpolaciones_descripcion": {
+        "en": "Allows the generation of interpolated maps from georeferenced data", 
+        "es": "Permite la generación de mapas interpolados a partir de datos georreferenciados", 
+        "pt": "Permite a geração de mapas interpolados a partir de dados georreferenciados"
+    },
+    "interpolated_and_reclassified_maps": {
+        "en": "Interpolated and reclassified maps", 
+        "es": "Mapas interpolados y reclasificados", 
+        "pt": "Mapas interpolados e reclassificados"
+    },
+    "interpolation_parameters": {
+        "en": "Interpolation parameters", 
+        "es": "Parámetros de interpolación", 
+        "pt": "Parâmetros de interpolação"
+    },
+    "interval_must_be_positive": {
+        "en": "The interval must be greater than 0.", 
+        "es": "El intervalo debe ser mayor a 0.", 
+        "pt": "O intervalo deve ser maior que 0."
+    },
+    "interval_size": {
+        "en": "Interval size", 
+        "es": "Tamaño del intervalo", 
+        "pt": "Tamanho do intervalo"
+    },
     "invert_selection_for": {
         "en": "Invert selection for",
         "es": "Invertir selección para",
         "pt": "Inverter seleção para"
+    },
+    "islands_will_be_absorbed": {
+        "en": "Islands smaller than this area will be absorbed by neighboring classes.", 
+        "es": "Islas menores a esta superficie serán absorvidas por clases vecinas.", 
+        "pt": "Ilhas menores que essa área serão absorvidas por classes vizinhas."
     },
     "jan_dec": {
         "en": "Jan-Dec",
@@ -1129,6 +1209,11 @@
         "es": "Último JJA (Jun-Ago)",
         "pt": "Último JJA (Jun-Ago)"
     },
+    "last_interval_may_be_shorter": {
+        "en": "The last interval may be shorter (remainder ≈", 
+        "es": "El último intervalo puede ser más corto (resto ≈", 
+        "pt": "O último intervalo pode ser mais curto (resto ≈"
+    },
     "last_mam": {
         "en": "Last MAM (Mar-May)",
         "es": "Último MAM (Mar-May)",
@@ -1259,6 +1344,16 @@
         "es": "Máximo",
         "pt": "Máximo"
     },
+    "max_area_to_clean": {
+        "en": "Maximum area to clean (ha)", 
+        "es": "Superficie máxima a limpiar (ha)", 
+        "pt": "Área máxima a limpar (ha)"
+    },
+    "max_value_must_be_greater": {
+        "en": "The maximum value must be greater than the minimum. Adjust it before continuing.", 
+        "es": "El valor máximo debe ser mayor que el mínimo. Ajustalo antes de continuar.", 
+        "pt": "O valor máximo deve ser maior que o mínimo. Ajuste-o antes de continuar."
+    },
     "mean": {
         "en": "Mean",
         "es": "Media",
@@ -1338,6 +1433,11 @@
         "en": "Recurrence",
         "es": "Recurrencia",
         "pt": "Recorrência"
+    },
+    "morphological_cleaning": {
+        "en": "Morphological cleaning", 
+        "es": "Limpieza morfológica", 
+        "pt": "Limpeza morfológica"
     },
     "multiseleccion_establecimieto": {
         "en": "Selection of fields from more than one farm",
@@ -1479,6 +1579,11 @@
         "es": "Sin detecciones",
         "pt": "Nenhuma detecção"
     },
+    "number_of_quantiles": {
+        "en": "Number of quantiles", 
+        "es": "Cantidad de cuantiles", 
+        "pt": "Quantidade de quantis"
+    },
     "ongoing": {
         "en": "On going",
         "es": "En curso",
@@ -1580,9 +1685,9 @@
         "pt": "Data posterior"
     },
     "post_image_last_available_in_window": {
-      "en": "The latest available image within the window will be used as 'post':",
-      "es": "Se usará como 'posterior' la última imagen disponible en la ventana:",
-      "pt": "A última imagem disponível na janela será usada como 'posterior':"
+        "en": "The latest available image within the window will be used as 'post':",
+        "es": "Se usará como 'posterior' la última imagen disponible en la ventana:",
+        "pt": "A última imagem disponível na janela será usada como 'posterior':"
     },
     "pre_flower_sorghum": {
         "en": "5 leaves to pre-flowering",
@@ -1649,6 +1754,16 @@
         "es": "Próximamente!",
         "pt": "Em Breve!"
     },
+    "quantiles": {
+        "en": "Quantiles", 
+        "es": "Cuantiles", 
+        "pt": "Quantis"
+    },
+    "quantiles_description": {
+        "en": "Quantiles divide the data into equal parts according to the selected amount.", 
+        "es": "Los cuantiles dividen los datos en partes iguales según la cantidad seleccionada.", 
+        "pt": "Os quantis dividem os dados em partes iguais de acordo com a quantidade selecionada."
+    },
     "quantil_1": {
         "en": "First Quartile",
         "es": "Quantil 1",
@@ -1704,6 +1819,31 @@
         "es": "Mapa crudo",
         "pt": "Mapa bruto"
     },
+    "reclassification_parameters": {
+        "en": "Reclassification parameters", 
+        "es": "Parámetros de reclasificación", 
+        "pt": "Parâmetros de reclassificação"
+    },
+    "reclassification_max_value": {
+        "en": "Reclassification maximum value", 
+        "es": "Valor máximo de reclasificación", 
+        "pt": "Valor máximo de reclassificação"
+    },
+        "reclassification_method": {
+        "en": "Reclassification method", 
+        "es": "Método de reclasificación", 
+        "pt": "Método de reclassificação"
+    },
+    "reclassification_min_value": {
+        "en": "Reclassification minimum value", 
+        "es": "Valor mínimo de reclasificación", 
+        "pt": "Valor mínimo de reclassificação"
+    },
+    "reclassified_polygonization": {
+        "en": "reclassified_polygonization_", 
+        "es": "poligonizacion_reclasificada_", 
+        "pt": "poligonizacao_reclassificada_"
+    },
     "recurrence_decription": {
         "en": "The graph represents the months in which surface water was detected in at least one of the pixels that make up the analyzed lot area, during the period covered by the database.",
         "es": "La gráfica representa los meses en los cuales se detectó la presencia de agua en al menos uno de los píxeles que componen el área del lote analizado, durante el período abarcado por la base de datos.",
@@ -1718,6 +1858,11 @@
         "en": "Approximate remaining time: ",
         "es": "Tiempo restante aproximado: ",
         "pt": "Tempo restante aproximado"
+    },
+    "remove_extreme_outliers": {
+        "en": "Remove extreme outliers (±3σ) for this variable", 
+        "es": "Eliminar outliers extremos (±3σ) para esta variable", 
+        "pt": "Remover outliers extremos (±3σ) para esta variável"
     },
     "requested_by": {
         "en": "Requested by: ",
@@ -2148,6 +2293,11 @@
         "en": "Variance",
         "es": "Varianza",
         "pt": "Variância"
+    },
+    "variable": {
+        "en": "Variable", 
+        "es": "Variable", 
+        "pt": "Variável"
     },
     "variables_to_interpolate": {
         "en": "Variables to interpolate", 
