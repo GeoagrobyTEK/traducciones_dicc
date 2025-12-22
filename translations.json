@@ -674,6 +674,11 @@
         "es": "Historial de lote", 
         "pt": "Histórico do lote"
     },
+    "field_history_description": {
+        "en": "Allows knowing the productive history of a field through the analysis of its historical NDVI time series, the crop history recorded in GeoAgro 360, and a pretrained machine learning model for crop classification.", 
+        "es": "Permite conocer el historial productivo de un lote mediante el análisis de su serie temporal histórica de NDVI, el historial de cultivos registrados en GeoAgro 360 y un modelo de machine learning preentrenado para la clasificación de cultivos.", 
+        "pt": "Permite conhecer o histórico produtivo de um lote por meio da análise de sua série temporal histórica de NDVI, o histórico de cultivos registrado no GeoAgro 360 e um modelo de machine learning pré-treinado para a classificação de cultivos."
+    },
     "field_name_gdf": {
         "en": "Field",
         "es": "Lote",
