@@ -465,10 +465,10 @@
         "pt": "Diferença"
     },
     "difference_and_change_rate_short_use": {
-        "en": "It helps compare the evolution of a satellite index between two dates and quantify changes. It is especially useful for assessing the impact of specific events such as hail, frost, fires, or phytotoxicity damage, among others.",
-        "es": "Sirve para comparar la evolución de un índice satelital entre dos fechas y cuantificar cambios. Es especialmente útil para evaluar el impacto de eventos puntuales como granizo, heladas, incendios o daños por fitotoxicidad, entre otros.",
-        "pt": "Ajuda a comparar a evolução de um índice satelital entre duas datas e quantificar mudanças. É especialmente útil para avaliar o impacto de eventos pontuais como granizo, geadas, incêndios ou danos por fitotoxicidade, entre outros."
-        },
+        "en": "It allows comparison of the evolution of a satellite index between two dates and quantification of changes. It is especially useful for assessing the impact of specific events such as hail, frost, fires, or phytotoxic damage, among others.",
+        "es": "Permite comparar la evolución de un índice satelital entre dos fechas y cuantificar cambios. Es especialmente útil para evaluar el impacto de eventos puntuales como granizos, heladas, incendios o daños por fitotoxicidad, entre otros.",
+        "pt": "Permite comparar a evolução de um índice satelital entre duas datas e quantificar mudanças. É especialmente útil para avaliar o impacto de eventos pontuais como granizo, geadas, incêndios ou danos por fitotoxicidade, entre outros."
+    },
     "distribution": {
         "en": "Distribution",
         "es": "Distribución",
@@ -671,7 +671,7 @@
     },
     "field_history": {
         "en": "Field history", 
-        "es": "Historial del lote", 
+        "es": "Historial de lote", 
         "pt": "Histórico do lote"
     },
     "field_name_gdf": {
