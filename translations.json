@@ -1264,6 +1264,11 @@
         "es": "Maquinaria",
         "pt": "Maquinário"
     },
+    "manual_breaks": {
+        "en": "Manual breaks", 
+        "es": "Cortes manuales", 
+        "pt": "Divisões manuais"
+    },
     "map_d": {
         "en": "Map",
         "es": "Mapa",
