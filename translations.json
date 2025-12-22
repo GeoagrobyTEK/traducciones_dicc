@@ -164,6 +164,11 @@
         "es": "Elije una opción",
         "pt": "Escolha uma opção"
     },
+    "class":{
+        "en": "Class",
+        "es": "Clases",
+        "pt": "Lições"
+    },
     "classes": {
         "en": "Classes", 
         "es": "Clases", 
@@ -1378,6 +1383,11 @@
         "en": "Median",
         "es": "Mediana",
         "pt": "Mediana"
+    },
+    "method":{
+        "en": "Method",
+        "es": "Método",
+        "pt": "Método"
     },
     "metrics": {
         "en": "Metrics",
