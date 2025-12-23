@@ -669,6 +669,11 @@
         "es": "Se listan únicamente los lotes en los que se ha detectado la presencia de agua en al menos uno de sus píxeles durante el período abarcado por la base de datos. En primer lugar, se incluye el establecimiento completo considerado como una única unidad.",
         "pt": "Apenas os lotes onde foi detectada a presença de água em pelo menos um de seus pixels durante o período coberto pelo banco de dados são listados. O estabelecimento como um todo é incluído primeiro, considerado como uma única unidade."
     },
+    "field_geometry_not_generated": {
+        "en": "The geometry for the selected field could not be generated.",
+        "es": "No se pudo generar la geometría del lote seleccionado.",
+        "pt": "Não foi possível gerar a geometria do talhão selecionado."
+    },
     "field_history": {
         "en": "Field history", 
         "es": "Historial de lote", 
@@ -679,10 +684,20 @@
         "es": "Permite conocer el historial productivo de un lote mediante el análisis de su serie temporal histórica de NDVI, el historial de cultivos registrados en GeoAgro 360 y un modelo de machine learning preentrenado para la clasificación de cultivos.", 
         "pt": "Permite conhecer o histórico produtivo de um lote por meio da análise de sua série temporal histórica de NDVI, o histórico de cultivos registrado no GeoAgro 360 e um modelo de machine learning pré-treinado para a classificação de cultivos."
     },
+    "field_images_not_generated": {
+        "en": "It was not possible to generate images for the selected field.",
+        "es": "No fue posible generar imágenes del lote seleccionado.",
+        "pt": "Não foi possível gerar imagens do talhão selecionado."
+    },
     "field_name_gdf": {
         "en": "Field",
         "es": "Lote",
         "pt": "Lote"
+    },
+    "field_not_found": {
+        "en": "The selected field was not found.",
+        "es": "No se encontró el lote seleccionado.",
+        "pt": "O talhão selecionado não foi encontrado."
     },
     "fields": {
         "en": "Fields",
@@ -1519,11 +1534,6 @@
         "es": "Serie Temporal NDVI Promedio",
         "pt": "Série Temporal Média de NDVI"
     },
-    "no_aoi_distribution": {
-        "en": "The distribution could not be calculated for the AOI.",
-        "es": "No se pudo calcular la distribución en el AOI.",
-        "pt": "Não foi possível calcular a distribuição no AOI."
-    },
     "no_available_dates_between": {
         "en": "No dates available between",
         "es": "No hay fechas disponibles entre",
@@ -1538,6 +1548,11 @@
         "en": "There is no data to calculate the distribution.",
         "es": "No hay datos para calcular la distribución.",
         "pt": "Não há dados para calcular a distribuição."
+    },
+    "no_data_selected_dates_distribution": {
+        "en": "The distribution could not be calculated because one or more of the selected dates has no valid image data.",
+        "es": "No se pudo calcular la distribución porque una o más de las fechas seleccionadas no tienen datos válidos en la imagen.",
+        "pt": "Não foi possível calcular a distribuição porque uma ou mais das datas selecionadas não têm dados válidos na imagem."
     },
     "no_difference_images": {
         "en": "It was not possible to generate difference images.",
