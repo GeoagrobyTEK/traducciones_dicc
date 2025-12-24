@@ -1055,9 +1055,9 @@
         "pt": "Interpolações"
     },
     "interpolaciones_descripcion": {
-        "en": "Allows the generation of interpolated maps from georeferenced data", 
-        "es": "Permite la generación de mapas interpolados a partir de datos georreferenciados", 
-        "pt": "Permite a geração de mapas interpolados a partir de dados georreferenciados"
+        "en": "Allows the generation of interpolated maps from georeferenced data.", 
+        "es": "Permite la generación de mapas interpolados a partir de datos georreferenciados.", 
+        "pt": "Permite a geração de mapas interpolados a partir de dados georreferenciados."
     },
     "interpolated_and_reclassified_maps": {
         "en": "Interpolated and reclassified maps", 
@@ -1894,7 +1894,7 @@
         "es": "Tiempo restante aproximado: ",
         "pt": "Tempo restante aproximado"
     },
-    "remove_extreme_outliers": {
+    "remove_outliers": {
         "en": "Remove extreme outliers (±3σ) for this variable", 
         "es": "Eliminar outliers extremos (±3σ) para esta variable", 
         "pt": "Remover outliers extremos (±3σ) para esta variável"
