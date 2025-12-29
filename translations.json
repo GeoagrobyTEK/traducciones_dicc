@@ -79,6 +79,11 @@
         "es": "Area",
         "pt": "Area"
     },
+    "are_generated": {
+        "en": "Are generated", 
+        "es": "Se generan", 
+        "pt": "São gerados"
+    },
     "atmospheric_demand": {
         "en": "Atmospheric demand",
         "es": "Demanda atmosférica",
