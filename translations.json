@@ -79,7 +79,7 @@
         "es": "Area",
         "pt": "Area"
     },
-    "are_generated": {
+    "are_generated_interp": {
         "en": "Are generated", 
         "es": "Se generan", 
         "pt": "São gerados"
@@ -1059,7 +1059,7 @@
         "es": "Interpolaciones",
         "pt": "Interpolações"
     },
-    "interpolaciones_descripcion": {
+    "interpolaciones_descripcion_apps": {
         "en": "Allows the generation of interpolated maps from georeferenced data.", 
         "es": "Permite la generación de mapas interpolados a partir de datos georreferenciados.", 
         "pt": "Permite a geração de mapas interpolados a partir de dados georreferenciados."
@@ -1899,7 +1899,7 @@
         "es": "Tiempo restante aproximado: ",
         "pt": "Tempo restante aproximado"
     },
-    "remove_outliers": {
+    "remove_outliers_variable": {
         "en": "Remove extreme outliers (±3σ) for this variable", 
         "es": "Eliminar outliers extremos (±3σ) para esta variable", 
         "pt": "Remover outliers extremos (±3σ) para esta variável"
