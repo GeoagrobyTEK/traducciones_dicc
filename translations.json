@@ -119,6 +119,11 @@
         "es": "Rendimiento Medio",
         "pt": "Rendimento Médio"
     },
+    "average_index_map": {
+    "en": "Average Index Map",
+    "es": "Mapa de Índice Promedio",
+    "pt": "Mapa de Índice Médio"
+    },
     "avg_adjusted_yield": {
         "en": "Average Adjusted Yield",
         "es": "Rinde Medio Ajustado",
