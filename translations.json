@@ -54,6 +54,11 @@
         "es": "Análisis individual por lote",
         "pt": "Análise individual por talhão"
     },
+    "analysis_of_a_layer": {
+    "en": "Analysis of a layer",
+    "es": "Análisis de una capa",
+    "pt": "Análise de uma camada"
+    },
     "annual_distribution": {
         "en": "Annual distribution of detections of surface with water presence",
         "es": "Distribución anual de detecciones de superficie con presencia de agua",
@@ -218,6 +223,11 @@
         "en": "Colour",
         "es": "Color",
         "pt": "Cor"
+    },
+    "column_to_group_layer": {
+    "en": "Column to group the layer",
+    "es": "Columna para agrupar la capa",
+    "pt": "Coluna para agrupar a camada"
     },
     "comentarios": {
         "en": "Comments",
@@ -848,6 +858,16 @@
         "en": "Generate Altimetry Maps",
         "es": "Generar mapas de altimetría",
         "pt": "Gerar Mapas de Altimetria"
+    },
+    "generate_difference_map": {
+    "en": "Generate Difference Map",
+    "es": "Generar Mapa de Diferencia",
+    "pt": "Gerar Mapa de Diferença"
+    },
+    "generate_average_index_map": {
+    "en": "Generate Average Index Map",
+    "es": "Generar Mapa de Índice Promedio",
+    "pt": "Gerar Mapa de Índice Médio"
     },
     "generating_maps": {
         "en": "Generating the maps...",
@@ -2043,6 +2063,11 @@
         "en": "No .shp or .geojson file found inside the ZIP.",
         "es": "No se encontró ningún .shp ni .geojson dentro del ZIP.",
         "pt": "Nenhum arquivo .shp ou .geojson encontrado dentro do ZIP."
+    },
+    "smoothing": {
+    "en": "Smoothing",
+    "es": "Suavizado",
+    "pt": "Suavização"
     },
     "snow": {
         "en": "Snow",
