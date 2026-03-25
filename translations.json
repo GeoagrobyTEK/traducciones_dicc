@@ -55,9 +55,9 @@
         "pt": "Análise individual por talhão"
     },
     "analysis_of_a_layer": {
-    "en": "Analysis of a layer",
-    "es": "Análisis de una capa",
-    "pt": "Análise de uma camada"
+        "en": "Analysis of a layer",
+        "es": "Análisis de una capa",
+        "pt": "Análise de uma camada"
     },
     "annual_distribution": {
         "en": "Annual distribution of detections of surface with water presence",
@@ -104,6 +104,11 @@
         "es": "Atributos",
         "pt": "Atributos"
     },
+    "available_columns": {
+        "en": "Available columns",
+        "es": "Columnas disponibles",
+        "pt": "Colunas disponíveis"
+    },
     "available_images": {
         "en": "Available images",
         "es": "Imágenes disponibles",
@@ -120,9 +125,9 @@
         "pt": "Rendimento Médio"
     },
     "average_index_map": {
-    "en": "Average Index Map",
-    "es": "Mapa de Índice Promedio",
-    "pt": "Mapa de Índice Médio"
+        "en": "Average Index Map",
+        "es": "Mapa de Índice Promedio",
+        "pt": "Mapa de Índice Médio"
     },
     "avg_adjusted_yield": {
         "en": "Average Adjusted Yield",
@@ -230,9 +235,9 @@
         "pt": "Cor"
     },
     "column_to_group_layer": {
-    "en": "Column to group the layer",
-    "es": "Columna para agrupar la capa",
-    "pt": "Coluna para agrupar a camada"
+        "en": "Column to group the layer",
+        "es": "Columna para agrupar la capa",
+        "pt": "Coluna para agrupar a camada"
     },
     "comentarios": {
         "en": "Comments",
@@ -253,6 +258,11 @@
         "en": "Contour lines",
         "es": "Curvas de nivel",
         "pt": "Linhas de contorno"
+    },
+    "could_not_get_field_id": {
+        "en": "Could not retrieve the ID of the selected field.",
+        "es": "No se pudo obtener el ID del lote seleccionado.",
+        "pt": "Não foi possível obter o ID do lote selecionado."
     },
     "critical_period": {
         "en": "Critical Period",
@@ -609,6 +619,11 @@
         "es": "Error al leer el archivo de laboratorio", 
         "pt": "Erro ao ler o arquivo do laboratório"
     },
+    "error_starting_lambda": {
+        "en": "Error starting the process in Lambda.",
+        "es": "Error al iniciar el proceso en Lambda.",
+        "pt": "Erro ao iniciar o processo no Lambda."
+    },
     "establishment": {
         "en": "Establishment",
         "es": "Establecimiento",
@@ -628,6 +643,16 @@
         "en": "Exclude",
         "es": "Excluir",
         "pt": "Excluir"
+    },
+    "execution_failed": {
+        "en": "The execution failed.",
+        "es": "La ejecución falló.",
+        "pt": "A execução falhou."
+    },
+    "execution_still_running": {
+        "en": "The execution is still in progress. Try again later.",
+        "es": "La ejecución sigue en curso. Probá más tarde.",
+        "pt": "A execução ainda está em andamento. Tente novamente mais tarde."
     },
     "experimental_preview": {
         "en": "Experimental Preview",
@@ -865,14 +890,14 @@
         "pt": "Gerar Mapas de Altimetria"
     },
     "generate_difference_map": {
-    "en": "Generate Difference Map",
-    "es": "Generar Mapa de Diferencia",
-    "pt": "Gerar Mapa de Diferença"
+        "en": "Generate Difference Map",
+        "es": "Generar Mapa de Diferencia",
+        "pt": "Gerar Mapa de Diferença"
     },
     "generate_average_index_map": {
-    "en": "Generate Average Index Map",
-    "es": "Generar Mapa de Índice Promedio",
-    "pt": "Gerar Mapa de Índice Médio"
+        "en": "Generate Average Index Map",
+        "es": "Generar Mapa de Índice Promedio",
+        "pt": "Gerar Mapa de Índice Médio"
     },
     "generating_maps": {
         "en": "Generating the maps...",
@@ -1664,6 +1689,11 @@
         "es": "Solo Sin Fecha",
         "pt": "Somente Sem Data"
     },
+    "open_generated_map": {
+        "en": "Open generated map",
+        "es": "Abrir mapa generado",
+        "pt": "Abrir mapa gerado"
+    },
     "operator": {
         "en": "Operator",
         "es": "Operador",
@@ -1808,6 +1838,11 @@
         "en": "The indicated value represents the probability of detecting the presence of surface water, calculated based on all analyzed observations.",
         "es": "El valor indicado representa la probabilidad de detección de la presencia de agua en superficie, calculada en función de todas las observaciones analizadas.",
         "pt": "O valor indicado representa a probabilidade de detecção da presença de água na superfície, calculada com base em todas as observações analisadas."
+    },
+        "processing_map": {
+        "en": "Processing map…",
+        "es": "Procesando mapa…",
+        "pt": "Processando mapa…"
     },
     "production": {
         "en": "Production",
@@ -1994,6 +2029,11 @@
         "es": "Seleccionar todo",
         "pt": "Selecionar tudo"
     },
+    "select_both_dates": {
+        "en": "Select both dates before generating the map.",
+        "es": "Seleccioná ambas fechas antes de generar el mapa.",
+        "pt": "Selecione ambas as datas antes de gerar o mapa."
+    },
     "select_date_range": {
         "en": "Date range",
         "es": " Rango de fechas",
@@ -2038,6 +2078,11 @@
         "en": "Selection of variables to interpolate", 
         "es": "Selección de variables a interpolar", 
         "pt": "Seleção de variáveis para interpolar"
+    },
+    "select_valid_field": {
+        "en": "Select a valid field.",
+        "es": "Seleccioná un lote válido.",
+        "pt": "Selecione um lote válido."
     },
     "select_warning": {
         "en": "You must select a field to continue",
@@ -2173,6 +2218,11 @@
         "en": "Start planting date",
         "es": "Fecha de inicio de siembra",
         "pt": "Data de início do plantio"
+    },
+    "starting_map_generation": {
+        "en": "Starting map generation…",
+        "es": "Iniciando generación del mapa…",
+        "pt": "Iniciando geração do mapa…"
     },
     "storm": {
         "en": "Storm",
