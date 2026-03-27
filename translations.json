@@ -1104,6 +1104,11 @@
         "es": "Índice",
         "pt": "Índice"
     },
+    "index_zones": {
+        "en": "Index Zones",
+        "es": "Zonas por índice",
+        "pt": "Zonas por índice"
+    },
     "interpolaciones": {
         "en": "Interpolations",
         "es": "Interpolaciones",
@@ -1118,6 +1123,11 @@
         "en": "Interpolated and reclassified maps", 
         "es": "Mapas interpolados y reclasificados", 
         "pt": "Mapas interpolados e reclassificados"
+    },
+    "interpolated_areas": {
+        "en": "Interpolated Areas",
+        "es": "Áreas Interpoladas",
+        "pt": "Áreas Interpoladas"
     },
     "interpolation_parameters": {
         "en": "Interpolation parameters", 
@@ -1214,6 +1224,11 @@
         "es": "Mapa krigeado",
         "pt": "Mapa krigado"
     },
+    "lab_areas": {
+        "en": "Lab Areas",
+        "es": "Áreas Lab",
+        "pt": "Áreas Lab"
+    },
     "lab_data": {
         "en": "Laboratory analysis + georeferenced points",
         "es": "Analisis de laboratorio + puntos georeferenciados",
@@ -1303,6 +1318,16 @@
         "en": "Last SON (Sept-Nov)",
         "es": "Último SON (Sep-Nov)",
         "pt": "Último SON (Set-Nov)"
+    },
+    "layer": {
+        "en": "Layer",
+        "es": "Capa",
+        "pt": "Camada"
+    },
+    "layer_type": {
+        "en": "Layer type",
+        "es": "Tipo de capa",
+        "pt": "Tipo de camada"
     },
     "leaf_sorghum": {
         "en": "Emergence to 5 leaves",
@@ -1739,6 +1764,11 @@
         "es": "Tamaño del pixel (m)", 
         "pt": "Tamanho do pixel (m)"
     },
+    "planting_areas": {
+        "en": "Planting Areas",
+        "es": "Áreas de siembra",
+        "pt": "Áreas de Plantio"
+    },
     "platform_width": {
         "en": "Platform Width",
         "es": "Ancho de Labor",
@@ -1814,6 +1844,11 @@
         "es": "Registro de precipitaciones por periodos",
         "pt": "Registro de precipitações por períodos"
     },
+    "prescriptions": {
+        "en": "Prescriptions",
+        "es": "Prescripciones",
+        "pt": "Prescrições"
+    },
     "pressure": {
         "en": "Pressure",
         "es": "Presión",
@@ -1848,6 +1883,11 @@
         "en": "Production",
         "es": "Rinde Total",
         "pt": "Produção Total"
+    },
+    "productivity": {
+        "en": "Productivity",
+        "es": "Productividad",
+        "pt": "Produtividade"
     },
     "promedio_entre": {
         "en": "mean between",
@@ -2115,10 +2155,10 @@
         "pt": "Nenhum arquivo .shp ou .geojson encontrado dentro do ZIP."
     },
     "smoothing": {
-    "en": "Smoothing",
-    "es": "Suavizado",
-    "pt": "Suavização"
-    },
+        "en": "Smoothing",
+        "es": "Suavizado",
+        "pt": "Suavização"
+        },
     "snow": {
         "en": "Snow",
         "es": "Nieve",
@@ -2294,6 +2334,11 @@
         "es": "Tiempo",
         "pt": "Tempo"
     },
+    "tillage_areas": {
+        "en": "Tillage Areas",
+        "es": "Áreas de labranza",
+        "pt": "Áreas de Labrança"
+    },
     "tillering_wheat": {
         "en": "Emergence to Tillering (Z10–Z21)",
         "es": "Emergencia a Macollaje (Z10–Z21)",
@@ -2388,6 +2433,11 @@
         "en": "Unique values in points:", 
         "es": "Valores únicos en puntos:", 
         "pt": "Valores únicos nos pontos:"
+    },
+    "unnamed": {
+        "en": "Unnamed",
+        "es": "Sin nombre",
+        "pt": "Sem nome"
     },
     "upper_fence": {
         "en": "Upper fence",
@@ -2588,6 +2638,11 @@
         "en": "Zone",
         "es": "Ambiente",
         "pt": "Ambiente"
+    },
+    "zones": {
+        "en": "Zones",
+        "es": "Ambientes",
+        "pt": "Ambientes"
     },
     "zone_type": {
         "en": "Zone type",
