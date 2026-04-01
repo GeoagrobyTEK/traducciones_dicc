@@ -64,6 +64,11 @@
         "es": "Distribución anual de detecciones de superficie con presencia de agua",
         "pt": "Distribuição anual de detecções de superfície com presença de água"
     },
+    "anova_tukey_analysis": {
+    "en": "ANOVA and Tukey analysis",
+    "es": "Análisis ANOVA y Tukey",
+    "pt": "Análise ANOVA e Tukey"
+    },
     "anterior": {
         "en": "Previous",
         "es": "Anterior",
@@ -193,6 +198,16 @@
         "en": "Classes", 
         "es": "Clases", 
         "pt": "Classes"
+    },
+    "class_boxplot": {
+    "en": "Boxplot by class",
+    "es": "Boxplot por clase",
+    "pt": "Boxplot por classe"
+    },
+    "class_column": {
+    "en": "Class column",
+    "es": "Columna de clase",
+    "pt": "Coluna de classe"
     },
     "class_width_note": {
         "en": "Width of each class: internal breaks are generated for each 'interval' between min and max value.", 
@@ -463,6 +478,11 @@
         "en": "Description",
         "es": "Descripción",
         "pt": "Descrição"
+    },
+    "descriptive_statistics": {
+    "en": "Descriptive statistics",
+    "es": "Estadísticos descriptivos",
+    "pt": "Estatísticas descritivas"
     },
     "desde": {
         "en": "From",
@@ -754,6 +774,11 @@
         "es": "Ofrece una visión detallada de planes de siembra (lotes, cultivos, híbrido/variedad y fecha de siembra) registrados en la capa “Lotes” de la plataforma 360. Facilita el seguimiento del progreso de labores de siembra mediante el análisis de fechas de siembra.",
         "pt": "Oferece uma visão detalhada dos planos de semeadura (talhões, culturas, híbrido/variedade e data de semeadura) registrados na camada “Talhões” da plataforma 360. Facilita o acompanhamento do progresso das atividades de semeadura por meio da análise das datas de semeadura."
     },
+    "fields_to_analyze": {
+    "en": "Fields to analyze",
+    "es": "Lotes a analizar",
+    "pt": "Talhões a analisar"
+    },
     "fields_without_crops": {
         "en": "Fields without crops",
         "es": "Lotes sin cultivos",
@@ -919,6 +944,26 @@
         "es": "Puntos de muestreo georeferenciados", 
         "pt": "Pontos de amostragem georreferenciados"
     },
+    "global_analysis": {
+    "en": "Global analysis",
+    "es": "Análisis global",
+    "pt": "Análise global"
+    },
+    "global_anova_tukey_analysis": {
+    "en": "Global ANOVA and Tukey analysis",
+    "es": "Análisis ANOVA y Tukey global",
+    "pt": "Análise ANOVA e Tukey global"
+    },
+    "global_boxplot": {
+    "en": "Global boxplot",
+    "es": "Boxplot global",
+    "pt": "Boxplot global"
+    },
+    "global_boxplot_statistics": {
+    "en": "Global boxplot statistics",
+    "es": "Estadísticas boxplot global",
+    "pt": "Estatísticas de boxplot global"
+    },
     "grain_filling_corn": {
         "en": "Grain filling (R2 to R5)",
         "es": "Llenado de granos (R2 a R5)",
@@ -933,6 +978,11 @@
         "en": "Flowering to Grain filling",
         "es": "Floración a Llenado de grano",
         "pt": "Florescimento até Enchimento de grãos"
+    },
+    "grid_boxplot_statistics": {
+    "en": "Grid boxplot statistics",
+    "es": "Estadísticas del boxplot de grilla",
+    "pt": "Estatísticas do boxplot da grade"
     },
     "group": {
         "en": "Group",
@@ -1324,6 +1374,11 @@
         "es": "Capa",
         "pt": "Camada"
     },
+    "layer_to_compare": {
+    "en": "Layer to compare",
+    "es": "Capa a comparar",
+    "pt": "Camada a comparar"
+    },
     "layer_type": {
         "en": "Layer type",
         "es": "Tipo de capa",
@@ -1649,6 +1704,11 @@
         "es": "No existen lotes con al menos 3 puntos con datos para interpolar.", 
         "pt": "Não existem talhões com pelo menos 3 pontos com dados para interpolar."
     },
+    "no_fields_available_to_analyze": {
+    "en": "No fields available to analyze.",
+    "es": "No hay lotes disponibles para analizar.",
+    "pt": "Não há talhões disponíveis para analisar."
+    },
     "no_grouping": {
         "en": "No group",
         "es": "No agrupar",
@@ -1678,6 +1738,11 @@
         "en": "No days with temperatures below 2°C were found",
         "es": "No se encontraron días con temperaturas menores a 2°C",
         "pt": "Não foram encontrados dias com temperaturas abaixo de 2°C"
+    },
+    "none_selected": {
+    "en": "— (not selected) —",
+    "es": "— (sin seleccionar) —",
+    "pt": "— (não selecionado) —"
     },
     "no_previous_dates_in_window_45d": {
       "en": "No previous dates available within the ±45-day window.",
@@ -1799,6 +1864,11 @@
         "es": "Polígonos",
         "pt": "Polígonos"
     },
+    "polygon_map": {
+    "en": "Polygon map",
+    "es": "Mapa de polígonos",
+    "pt": "Mapa de polígonos"
+    },
     "por_lote": {
         "en": "by field",
         "es": "por lote",
@@ -1879,6 +1949,11 @@
         "es": "Procesando mapa…",
         "pt": "Processando mapa…"
     },
+    "processing_analysis": {
+    "en": "Processing analysis...",
+    "es": "Procesando análisis...",
+    "pt": "Processando análise..."
+    },
     "production": {
         "en": "Production",
         "es": "Rinde Total",
@@ -1888,6 +1963,11 @@
         "en": "Productivity",
         "es": "Productividad",
         "pt": "Produtividade"
+    },
+    "productivity_map": {
+    "en": "Productivity Map",
+    "es": "Mapa de productividad",
+    "pt": "Mapa de produtividade"
     },
     "promedio_entre": {
         "en": "mean between",
@@ -2014,10 +2094,20 @@
         "es": "Solicitado por: ",
         "pt": "Solicitado por: "
     },
+    "results_by_field": {
+    "en": "Results by field",
+    "es": "Resultados por lote",
+    "pt": "Resultados por talhão"
+    },
     "rosette_canola": {
         "en": "Emergence to Rosette (BBCH 10–30)",
         "es": "Emergencia a Roseta (BBCH 10–30)",
         "pt": "Emergência até Roseta (BBCH 10–30)"
+    },
+    "run_analysis": {
+    "en": "Run analysis",
+    "es": "Ejecutar análisis",
+    "pt": "Executar análise"
     },
     "sab": {
         "en": "Sat",
@@ -2264,6 +2354,11 @@
         "es": "Iniciando generación del mapa…",
         "pt": "Iniciando geração do mapa…"
     },
+    "stop_analysis": {
+    "en": "Stop analysis",
+    "es": "Frenar análisis",
+    "pt": "Parar análise"
+    },
     "storm": {
         "en": "Storm",
         "es": "Tormenta",
@@ -2459,6 +2554,11 @@
         "es": "Emergencia a V6",
         "pt": "Emergência até V6"
     },
+    "valid_cells_grid": {
+    "en": "Valid cells grid",
+    "es": "Grilla de celdas válidas",
+    "pt": "Grade de células válidas"
+    },
     "values_for": {
         "en": "Values for",
         "es": "Valores para",
@@ -2534,6 +2634,11 @@
         "es": "El lote seleccionado no posee fecha de siembra asignada, por favor asigne una fecha en 360 y vuelva a intentarlo",
         "pt": "O lote selecionado não possui data de plantio atribuída, por favor atribua uma data no 360 e tente novamente"
     },
+    "warning_no_complete_fields_to_run": {
+    "en": "There are no complete fields to run. Check the selected layers and class column.",
+    "es": "No hay lotes completos para ejecutar. Revisá las capas y la columna de clase seleccionadas.",
+    "pt": "Não há talhões completos para executar. Verifique as camadas e a coluna de classe selecionadas."
+    },
     "water_classes": {
         "en": "Water classes",
         "es": "Clases de agua",
@@ -2598,6 +2703,11 @@
         "en": "Year",
         "es": "Año",
         "pt": "Ano"
+    },
+    "yield_by_area": {
+    "en": "Yield by Area",
+    "es": "Rindes por Área",
+    "pt": "Rendimento por Área"
     },
     "yield_dashboard_description": {
         "en": "Allows performing a comparative analysis of yield layers uploaded to the 360 platform and facilitates monitoring the progress of harvest tasks through the analysis of harvest dates and mapped hectares.",
