@@ -2224,6 +2224,11 @@
         "es": "Debe seleccionar una capa de rindes para continuar",
         "pt": "Você deve selecionar uma camada de rendimento para continuar"
     },
+    "select_crop_group_to_continue": {
+    "en": "Select a crop group to continue", 
+    "es": "Seleccione un grupo de cultivo para continuar", 
+    "pt": "Selecione um grupo de cultivo para continuar"
+    },
     "selected_date_range": {
         "en": "Selected Date Range:",
         "es": "Rango de Fechas Seleccionado:",
