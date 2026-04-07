@@ -2704,6 +2704,11 @@
         "es": "Año",
         "pt": "Ano"
     },
+    "yield": {
+    "en": "Yield", 
+    "es": "Rinde", 
+    "pt": "Rende"
+    },
     "yield_by_area": {
     "en": "Yield by Area",
     "es": "Rindes por Área",
@@ -2738,6 +2743,11 @@
         "en": "Layers without hybrids/varieties",
         "es": "Capas sin híbridos/variedades",
         "pt": "Camadas sem híbridos/variedades"
+    },
+    "yield_map": {
+    "en": "Yield map", 
+    "es": "Mapa de rinde", 
+    "pt": "Mapa de rendimento"
     },
     "yield_scale": {
         "en": "Yield from scale",
