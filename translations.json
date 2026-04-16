@@ -1755,9 +1755,9 @@
         "pt": "Não foram encontradas imagens disponíveis nos últimos 365 dias."
     },
     "no_images_around_event_date_45d": {
-      "en": "No images available on/after the event date within the ±45-day window.",
-      "es": "No hay imágenes en/tras la fecha del evento dentro de la ventana ±45 días.",
-      "pt": "Não há imagens na/após a data do evento dentro da janela de ±45 dias."
+        "en": "No images available on/after the event date within the ±45-day window.",
+        "es": "No hay imágenes en/tras la fecha del evento dentro de la ventana ±45 días.",
+        "pt": "Não há imagens na/após a data do evento dentro da janela de ±45 dias."
     },
     "no_low_temp": {
         "en": "No days with temperatures below 2°C were found",
@@ -1765,14 +1765,14 @@
         "pt": "Não foram encontrados dias com temperaturas abaixo de 2°C"
     },
     "none_selected": {
-    "en": "— (not selected) —",
-    "es": "— (sin seleccionar) —",
-    "pt": "— (não selecionado) —"
+        "en": "— (not selected) —",
+        "es": "— (sin seleccionar) —",
+        "pt": "— (não selecionado) —"
     },
     "no_previous_dates_in_window_45d": {
-      "en": "No previous dates available within the ±45-day window.",
-      "es": "No hay fechas anteriores disponibles dentro de la ventana ±45 días.",
-      "pt": "Não há datas anteriores disponíveis dentro da janela de ±45 dias."
+        "en": "No previous dates available within the ±45-day window.",
+        "es": "No hay fechas anteriores disponibles dentro de la ventana ±45 días.",
+        "pt": "Não há datas anteriores disponíveis dentro da janela de ±45 dias."
     },
     "no_surface_water_lots": {
         "en": "No lots with surface water detected.",
@@ -1890,9 +1890,9 @@
         "pt": "Polígonos"
     },
     "polygon_map": {
-    "en": "Polygon map",
-    "es": "Mapa de polígonos",
-    "pt": "Mapa de polígonos"
+        "en": "Polygon map",
+        "es": "Mapa de polígonos",
+        "pt": "Mapa de polígonos"
     },
     "por_lote": {
         "en": "by field",
@@ -1975,9 +1975,9 @@
         "pt": "Processando mapa…"
     },
     "processing_analysis": {
-    "en": "Processing analysis...",
-    "es": "Procesando análisis...",
-    "pt": "Processando análise..."
+        "en": "Processing analysis...",
+        "es": "Procesando análisis...",
+        "pt": "Processando análise..."
     },
     "production": {
         "en": "Production",
@@ -1990,9 +1990,9 @@
         "pt": "Produtividade"
     },
     "productivity_map": {
-    "en": "Productivity Map",
-    "es": "Mapa de productividad",
-    "pt": "Mapa de produtividade"
+        "en": "Productivity Map",
+        "es": "Mapa de productividad",
+        "pt": "Mapa de produtividade"
     },
     "promedio_entre": {
         "en": "mean between",
@@ -2120,9 +2120,9 @@
         "pt": "Solicitado por: "
     },
     "results_by_field": {
-    "en": "Results by field",
-    "es": "Resultados por lote",
-    "pt": "Resultados por talhão"
+        "en": "Results by field",
+        "es": "Resultados por lote",
+        "pt": "Resultados por talhão"
     },
     "rosette_canola": {
         "en": "Emergence to Rosette (BBCH 10–30)",
@@ -2130,14 +2130,19 @@
         "pt": "Emergência até Roseta (BBCH 10–30)"
     },
     "run_analysis": {
-    "en": "Run analysis",
-    "es": "Ejecutar análisis",
-    "pt": "Executar análise"
+        "en": "Run analysis",
+        "es": "Ejecutar análisis",
+        "pt": "Executar análise"
     },
     "sab": {
         "en": "Sat",
         "es": "Sáb",
         "pt": "Sáb"
+    },
+    "sampling_depth": {
+        "en": "Sampling depth",
+        "es": "Profundidad de muestreo",
+        "pt": "Profundidade de amostragem"
     },
     "saturday": {
         "en": "Saturday",
@@ -2214,6 +2219,11 @@
         "es": " Rango de fechas de cosecha",
         "pt": "Faixa de datas de colheita"
     },
+    "select_depth_column": {
+        "en": "Select depth column",
+        "es": "Seleccionar columna de profundidad",
+        "pt": "Selecionar coluna de profundidade"
+    },
     "select_fields": {
         "en": "Selected Fields",
         "es": "Lotes Seleccionados",
@@ -2250,9 +2260,9 @@
         "pt": "Você deve selecionar uma camada de rendimento para continuar"
     },
     "select_crop_group_to_continue": {
-    "en": "Select a crop group to continue", 
-    "es": "Seleccione un grupo de cultivo para continuar", 
-    "pt": "Selecione um grupo de cultivo para continuar"
+        "en": "Select a crop group to continue", 
+        "es": "Seleccione un grupo de cultivo para continuar", 
+        "pt": "Selecione um grupo de cultivo para continuar"
     },
     "selected_date_range": {
         "en": "Selected Date Range:",
