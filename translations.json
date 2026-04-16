@@ -249,10 +249,10 @@
         "es": "Color",
         "pt": "Cor"
     },
-    "column_to_group_layer": {
-        "en": "Column to group the layer",
-        "es": "Columna para agrupar la capa",
-        "pt": "Coluna para agrupar a camada"
+    "column_to_analyze_layer": {
+        "en": "Column to analyze the layer",
+        "es": "Columna para analizar la capa",
+        "pt": "Coluna para analisar a camada"
     },
     "comentarios": {
         "en": "Comments",
@@ -278,6 +278,11 @@
         "en": "Could not retrieve the ID of the selected field.",
         "es": "No se pudo obtener el ID del lote seleccionado.",
         "pt": "Não foi possível obter o ID do lote selecionado."
+    },
+    "could_not_load_selected_field": {
+    "en": "Could not load the selected field.",
+    "es": "No se pudo cargar el lote seleccionado.",
+    "pt": "Não foi possível carregar o talhão selecionado."
     },
     "critical_period": {
         "en": "Critical Period",
@@ -515,7 +520,7 @@
         "pt": "Diferença"
     },
     "difference_and_change_rate_short_use": {
-        "en": "It allows comparison of the evolution of a satellite index between two dates and quantification of changes. It is especially useful for assessing the impact of specific events such as hail, frost, fires, or phytotoxic damage, among others.",
+        "en": "Allows comparison of the evolution of a satellite index between two dates and quantification of changes. It is especially useful for assessing the impact of specific events such as hail, frost, fires, or phytotoxic damage, among others.",
         "es": "Permite comparar la evolución de un índice satelital entre dos fechas y cuantificar cambios. Es especialmente útil para evaluar el impacto de eventos puntuales como granizos, heladas, incendios o daños por fitotoxicidad, entre otros.",
         "pt": "Permite comparar a evolução de um índice satelital entre duas datas e quantificar mudanças. É especialmente útil para avaliar o impacto de eventos pontuais como granizo, geadas, incêndios ou danos por fitotoxicidade, entre outros."
     },
@@ -1669,6 +1674,11 @@
         "es": "Serie Temporal NDVI Promedio",
         "pt": "Série Temporal Média de NDVI"
     },
+    "no_associated_layers_found": {
+    "en": "No associated layers found for the selected field.",
+    "es": "No se encontraron capas asociadas para el lote seleccionado.",
+    "pt": "Nenhuma camada associada encontrada para o talhão selecionado."
+    },
     "no_available_dates_between": {
         "en": "No dates available between",
         "es": "No hay fechas disponibles entre",
@@ -1704,10 +1714,25 @@
         "es": "No existen lotes con al menos 3 puntos con datos para interpolar.", 
         "pt": "Não existem talhões com pelo menos 3 pontos com dados para interpolar."
     },
+    "no_fields_data_available": {
+    "en": "No fields data available for the selected domain.",
+    "es": "No hay datos de lotes disponibles para el dominio seleccionado.",
+    "pt": "Não há dados de lotes disponíveis para o domínio selecionado."
+    },
+    "no_fields_available_for_filter": {
+    "en": "No fields available for the current filter.",
+    "es": "No hay lotes disponibles para el filtro actual.",
+    "pt": "Não há talhões disponíveis para o filtro atual."
+    },
     "no_fields_available_to_analyze": {
     "en": "No fields available to analyze.",
     "es": "No hay lotes disponibles para analizar.",
     "pt": "Não há talhões disponíveis para analisar."
+    },
+    "no_field_found_to_continue": {
+    "en": "No field found to continue.",
+    "es": "No se encontró lote para continuar.",
+    "pt": "Nenhum talhão encontrado para continuar."
     },
     "no_grouping": {
         "en": "No group",
