@@ -2576,11 +2576,11 @@
     },
     "upper_fence": {
         "en": "Upper fence",
-        "es": "Limite superior",
+        "es": "Límite superior",
         "pt": "Limite superior"
     },
     "used_dates": {
-        "en": "Used dates",
+        "en": "Selected dates",
         "es": "Fechas utilizadas",
         "pt": "Datas utilizadas"
     },
