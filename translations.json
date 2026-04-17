@@ -1389,6 +1389,11 @@
         "es": "Tipo de capa",
         "pt": "Tipo de camada"
     },
+    "layer_selection_title": {
+    "en": "Layer Selection",
+    "es": "Selección de Capa",
+    "pt": "Seleção de Camada"
+    },
     "leaf_sorghum": {
         "en": "Emergence to 5 leaves",
         "es": "Emergencia a 5 hojas",
