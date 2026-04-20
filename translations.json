@@ -2759,6 +2759,11 @@
     "es": "Rindes por Área",
     "pt": "Rendimento por Área"
     },
+    "yield_by_area_description": {
+    "en": "Allows comparing crop performance across different zones or areas within one or more fields, combining intuitive visualizations with solid statistical analysis.",
+    "es": "Permite comparar el rendimiento de un cultivo entre distintas zonas o áreas dentro de uno o varios lotes, combinando visualizaciones intuitivas con análisis estadísticos sólidos.",
+    "pt": "Permite comparar o desempenho de uma cultura entre diferentes zonas ou áreas dentro de um ou vários lotes, combinando visualizações intuitivas com análises estatísticas sólidas."
+    },
     "yield_dashboard_description": {
         "en": "Allows performing a comparative analysis of yield layers uploaded to the 360 platform and facilitates monitoring the progress of harvest tasks through the analysis of harvest dates and mapped hectares.",
         "es": "Permite hacer un análisis comparativo de las capas de rindes cargadas en la plataforma 360 y facilita el seguimiento del progreso de labores de cosecha mediante el análisis de fechas de cosecha y hectáreas mapeadas.",
