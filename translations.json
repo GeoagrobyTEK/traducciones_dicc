@@ -74,6 +74,16 @@
         "es": "Anterior",
         "pt": "Anterior"
     },
+    "app": {
+        "en": "Applications (points)",
+        "es": "Labores (puntos)",
+        "pt": "Aplicações (pontos)"
+    },
+    "app_poly": {
+        "en": "Applications (polygons)",
+        "es": "Labores (polígonos)",
+        "pt": "Aplicações (polígonos)"
+    },
     "applied_as_internal_limits": {
         "en": "Applied as internal limits; the extremes are min and max values.", 
         "es": "Se aplican como límites internos; los extremos son valores min y valores max.", 
@@ -2169,6 +2179,16 @@
         "es": "Filtrar por fecha de siembra",
         "pt": "Filtrar por data de semeadura"
     },
+    "seeding": {
+        "en": "Seeding (points)",
+        "es": "Siembra (puntos)",
+        "pt": "Semeadura (pontos)"
+    },
+    "seeding_poly": {
+        "en": "Seeding (polygons)",
+        "es": "Siembra (polígonos)",
+        "pt": "Semeadura (polígonos)"
+    },
     "seeding_date": {
         "en": "Seeding Date",
         "es": "Fecha de siembra",
@@ -2750,9 +2770,9 @@
         "pt": "Ano"
     },
     "yield": {
-    "en": "Yield", 
-    "es": "Rinde", 
-    "pt": "Rende"
+        "en": "Yield", 
+        "es": "Rinde", 
+        "pt": "Colheita"
     },
     "yield_by_area": {
     "en": "Yield by Area",
