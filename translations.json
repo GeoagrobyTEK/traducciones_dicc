@@ -2549,6 +2549,11 @@
         "es": "Precipitaciones totales para el periodo de análisis:",
         "pt": "Precipitações totais para o período de análise:"
     },
+    "trial_polygon_analysis_not_available": {
+    "en": "The dashboard does not include the analysis of trial polygons. This functionality will be available in the coming weeks.",
+    "es": "El tablero no contempla el análisis de polígonos de ensayo. Esta funcionalidad estara disponible en las proximas semanas.",
+    "pt": "O painel não contempla a análise de polígonos de teste. Esta funcionalidade estará disponível nas próximas semanas."
+    },
     "trend": {
         "en": "Trend",
         "es": "Tendencia",
