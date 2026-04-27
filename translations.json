@@ -2684,6 +2684,11 @@
         "es": "Vie",
         "pt": "Sex"
     },
+    "visits": {
+        "en": "Field Visits",
+        "es": "Recorridas",
+        "pt": "Vistorias"
+    },
     "warning_fs": {
         "en": "No fields have been found that match the parameters selected in the filter. We suggest you adjust the parameters to obtain other results.",
         "es": "No se han encontrado lotes que coincidan con los parámetros seleccionados en el filtro. Le sugerimos ajustar los parámetros para obtener otros resultados.",
