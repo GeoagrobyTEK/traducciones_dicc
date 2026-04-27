@@ -499,6 +499,11 @@
     "es": "Estadísticos descriptivos",
     "pt": "Estatísticas descritivas"
     },
+    "descriptive_stats_global": {
+    "en": "Global descriptive statistics",
+    "es": "Estadísticos descriptivos global",
+    "pt": "Estatísticas descritivas globais"
+    },
     "desde": {
         "en": "From",
         "es": "Desde",
