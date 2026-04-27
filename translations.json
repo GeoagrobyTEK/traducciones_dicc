@@ -1824,6 +1824,11 @@
         "es": "Abrir mapa generado",
         "pt": "Abrir mapa gerado"
     },
+    "open_generated_maps": {
+        "en": "Open generated maps",
+        "es": "Abrir mapas generados",
+        "pt": "Abrir mapas gerados"
+    },
     "operator": {
         "en": "Operator",
         "es": "Operador",
@@ -2719,6 +2724,11 @@
         "es": "Clases de agua",
         "pt": "Classes de agua"
     },
+    "warning_datasync_manual_import_layers": {
+        "en": "These layers could not be imported into 360. Please download them and import them manually via datasync:",
+        "es": "Estas capas no se pudieron importar en 360. Descargalas e importalas manualmente via datasync:",
+        "pt": "Estas camadas nao puderam ser importadas no 360. Baixe-as e importe manualmente via datasync:"
+        },
     "water_detected": {
         "en": "Water detected",
         "es": "Agua detectada",
