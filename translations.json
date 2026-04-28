@@ -644,6 +644,11 @@
         "es": "Fecha de fin de siembra",
         "pt": "Data de fim do plantio"
     },
+    "enter_a_value_and_press_enter": {
+        "en": "Enter a value and press Enter",
+        "es": "Ingrese un valor y presione Enter",
+        "pt": "Insira um valor e pressione Enter"
+    },
     "enviromental_demand": {
         "en": "Environmental demand",
         "es": "Demanda ambiental",
