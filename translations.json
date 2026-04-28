@@ -189,6 +189,11 @@
         "es": "Cortes (separados por coma). Ej: 10, 20, 30, 45", 
         "pt": "Divisões (separadas por vírgula). Ex: 10, 20, 30, 45"
     },
+    "by_field": {
+        "en": "By field",
+        "es": "Por lote",
+        "pt": "Por lote"
+    },
     "choose_identifier_column": {
         "en": "Choose the identifier column in each table that allows linking each sampling point with its laboratory analysis (e.g., `ID`).", 
         "es": "Elegí la columna identificadora en cada tabla que permita relacionar cada punto de muestreo con su análisis de laboratorio (por ej. `ID`).", 
@@ -344,6 +349,11 @@
         "es": "Filtro personalizado",
         "pt": "Filtro personalizado"
     },
+    "cut_values": {
+        "en": "Cut values",
+        "es": "Valores de corte",
+        "pt": "Valores de corte"
+    },
     "cv": {
         "en": "Coefficient of Variation (%)",
         "es": "Coeficiente de Variación (%)",
@@ -483,6 +493,11 @@
         "en": "Degree/day adjustments per stage",
         "es": "Ajustes de grados/día por etapa",
         "pt": "Ajustes de graus/dia por etapa"
+    },
+    "delete_selected": {
+        "en": "Delete selected",
+        "es": "Eliminar seleccionados",
+        "pt": "Excluir selecionados"
     },
     "dem_interval": {
         "en": "Interval between contour lines (m)",
@@ -628,6 +643,11 @@
         "en": "End planting date",
         "es": "Fecha de fin de siembra",
         "pt": "Data de fim do plantio"
+    },
+    "enter_a_value_and_press_enter": {
+        "en": "Enter a value and press Enter",
+        "es": "Ingrese un valor y presione Enter",
+        "pt": "Insira um valor e pressione Enter"
     },
     "enviromental_demand": {
         "en": "Environmental demand",
@@ -1453,6 +1473,16 @@
         "en": "Manual breaks", 
         "es": "Cortes manuales", 
         "pt": "Divisões manuais"
+    },
+    "manual_values_indices": {
+        "en": "Manual values (index)",
+        "es": "Valores manuales (índices)",
+        "pt": "Valores manuais (índices)"
+    },
+    "manual_values_percentage": {
+        "en": "Manual values (percentage)",
+        "es": "Valores manuales (porcentaje)",
+        "pt": "Valores manuais (porcentagem)"
     },
     "map_d": {
         "en": "Map",
@@ -2604,6 +2634,11 @@
         "es": "Solo puedes seleccionar un grupo de cultivos",
         "pt": "Você só pode selecionar um grupo de culturas"
     },
+    "unified": {
+        "en": "Unified",
+        "es": "Unificado",
+        "pt": "Unificado"
+    },
     "unique_values_in_lab": {
         "en": "Unique values in laboratory:", 
         "es": "Valores únicos en laboratorio:", 
@@ -2613,6 +2648,11 @@
         "en": "Unique values in points:", 
         "es": "Valores únicos en puntos:", 
         "pt": "Valores únicos nos pontos:"
+    },
+    "unit_of_analysis": {
+        "en": "Processing unit",
+        "es": "Unidad de procesamiento",
+        "pt": "Unidade de processamento"
     },
     "unnamed": {
         "en": "Unnamed",
