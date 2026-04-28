@@ -1704,6 +1704,11 @@
         "es": "No hay fechas disponibles entre",
         "pt": "Não há datas disponíveis entre"
     },
+    "no_available_layers_360_for_farm": {
+        "en": "No layers available in 360 for this farm",
+        "es": "No se encontraron capas disponibles en 360 para este establecimiento",
+        "pt": "Nenhuma camada disponível em 360 para esta fazenda"
+    },
     "no_chart_generated": {
         "en": "No chart was generated for the establishment.",
         "es": "No se generó un gráfico para el establecimiento.",
