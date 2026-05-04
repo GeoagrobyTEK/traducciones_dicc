@@ -659,10 +659,20 @@
         "es": "Intervalos iguales", 
         "pt": "Intervalos iguais"
     },
+    "error_checking_status": {
+        "en": "Error checking status.",
+        "es": "Error consultando estado",
+        "pt": "Erro ao consultar o status."
+    },
     "error_generating_maps": {
         "en": "Error generating the maps.",
         "es": "Error al generar los mapas.",
         "pt": "Erro ao gerar os mapas."
+    },
+    "error_invalid_status_response": {
+        "en": "Invalid status response",
+        "es": "Respuesta inválida de estado",
+        "pt": "Resposta inválida de status"
     },
     "error_message_date_picker": {
         "en": "Select start and end date",
@@ -1474,10 +1484,30 @@
         "es": "Cortes manuales", 
         "pt": "Divisões manuais"
     },
+    "manual_breaks_at_least_one_required": {
+        "en": "You must enter at least 1 manual break.",
+        "es": "Debe ingresar al menos 1 corte manual.",
+        "pt": "Você deve inserir pelo menos 1 divisão manual."
+    },
     "manual_values_indices": {
         "en": "Manual values (index)",
         "es": "Valores manuales (índices)",
         "pt": "Valores manuais (índices)"
+    },
+    "manual_values_at_least_one_required": {
+        "en": "You must enter at least one value in Manual values.",
+        "es": "Debe ingresar al menos un valor en Valores manuales.",
+        "pt": "Você deve inserir pelo menos um valor em Valores manuais."
+    },
+    "manual_values_must_be_in_ascending_order": {
+        "en": "Manual values must be in ascending order.",
+        "es": "Los valores manuales deben estar en orden ascendente.",
+        "pt": "Os valores manuais devem estar em ordem crescente."
+    },
+    "manual_values_must_not_be_repeated": {
+        "en": "Manual values must not be repeated.",
+        "es": "Los valores manuales no deben repetirse.",
+        "pt": "Os valores manuais não devem se repetir."
     },
     "manual_values_percentage": {
         "en": "Manual values (percentage)",
@@ -1563,6 +1593,11 @@
         "en": "Maximum",
         "es": "Máximo",
         "pt": "Máximo"
+    },
+    "maximum_7_breaks_allowed": {
+        "en": "Maximum 7 breaks allowed",
+        "es": "Máximo 7 cortes permitidos",
+        "pt": "Máximo de 7 divisões permitidas"
     },
     "max_area_to_clean": {
         "en": "Maximum area to clean (ha)", 
@@ -1734,6 +1769,11 @@
         "es": "No hay fechas disponibles entre",
         "pt": "Não há datas disponíveis entre"
     },
+    "no_available_dates_found_for_selected_range": {
+        "en": "No available dates found for the selected range.",
+        "es": "No se encontraron fechas disponibles para el rango seleccionado.",
+        "pt": "Nenhuma data disponível foi encontrada para o intervalo selecionado."
+    },
     "no_available_layers_360_for_farm": {
         "en": "No layers available in 360 for this farm",
         "es": "No se encontraron capas disponibles en 360 para este establecimiento",
@@ -1748,6 +1788,11 @@
         "en": "There is no data to calculate the distribution.",
         "es": "No hay datos para calcular la distribución.",
         "pt": "Não há dados para calcular a distribuição."
+    },
+    "no_data_for_selected_fields": {
+        "en": "There is no data corresponding to the selected fields.",
+        "es": "No hay datos correspondientes a los lotes seleccionados.",
+        "pt": "Não há dados correspondentes aos talhões selecionados."
     },
     "no_data_selected_dates_distribution": {
         "en": "The distribution could not be calculated because one or more of the selected dates has no valid image data.",
@@ -1774,6 +1819,11 @@
     "es": "No hay datos de lotes disponibles para el dominio seleccionado.",
     "pt": "Não há dados de lotes disponíveis para o domínio selecionado."
     },
+    "no_fields_found_for_selected_farm": {
+    "en": "No fields found for the selected farm.",
+    "es": "No se encontraron lotes para la farm seleccionada.",
+    "pt": "Nenhum talhão foi encontrado para a fazenda selecionada."
+    },
     "no_fields_available_for_filter": {
     "en": "No fields available for the current filter.",
     "es": "No hay lotes disponibles para el filtro actual.",
@@ -1788,6 +1838,11 @@
     "en": "No field found to continue.",
     "es": "No se encontró lote para continuar.",
     "pt": "Nenhum talhão encontrado para continuar."
+    },
+    "no_field_id_column_found_available": {
+    "en": "Field id column was not found. Available: {columns}",
+    "es": "No se encontró la columna de field id. Disponibles: {columns}",
+    "pt": "A coluna de field id não foi encontrada. Disponíveis: {columns}"
     },
     "no_grouping": {
         "en": "No group",
@@ -1893,6 +1948,16 @@
         "en": "Percentage",
         "es": "Porcentaje",
         "pt": "Porcentagem"
+    },
+    "percentages_must_be_between_0_and_100": {
+        "en": "Percentages must be between 0 and 100.",
+        "es": "Los porcentajes deben estar entre 0 y 100.",
+        "pt": "As porcentagens devem estar entre 0 e 100."
+    },
+    "percentage_must_be_between_0_and_100_excluded": {
+        "en": "The percentage must be between 0 and 100 (excluded).",
+        "es": "El porcentaje debe estar entre 0 y 100 (excluidos).",
+        "pt": "A porcentagem deve estar entre 0 e 100 (excluídos)."
     },
     "permanent_water": {
         "en": "Permanent water",
@@ -2683,6 +2748,16 @@
     "en": "Valid cells grid",
     "es": "Grilla de celdas válidas",
     "pt": "Grade de células válidas"
+    },
+    "value_already_exists": {
+        "en": "The value already exists.",
+        "es": "El valor ya existe.",
+        "pt": "O valor já existe."
+    },
+    "value_must_be_between_min_and_max": {
+        "en": "The value must be between {min_val} and {max_val}.",
+        "es": "El valor debe estar entre {min_val} y {max_val}.",
+        "pt": "O valor deve estar entre {min_val} e {max_val}."
     },
     "values_for": {
         "en": "Values for",
