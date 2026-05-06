@@ -979,6 +979,11 @@
         "es": "Generando los mapas...",
         "pt": "Gerando os mapas..."
     },
+    "generic_points": {
+        "en": "Generic points",
+        "es": "Puntos genéricos",
+        "pt": "Pontos genéricos"
+    },
     "geo_points": {
         "en": "Georeferenced point files",
         "es": "Archivos de puntos georeferenciados",
