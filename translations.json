@@ -189,6 +189,11 @@
         "es": "Cortes (separados por coma). Ej: 10, 20, 30, 45", 
         "pt": "Divisões (separadas por vírgula). Ex: 10, 20, 30, 45"
     },
+    "by_field": {
+        "en": "By field",
+        "es": "Por lote",
+        "pt": "Por lote"
+    },
     "choose_identifier_column": {
         "en": "Choose the identifier column in each table that allows linking each sampling point with its laboratory analysis (e.g., `ID`).", 
         "es": "Elegí la columna identificadora en cada tabla que permita relacionar cada punto de muestreo con su análisis de laboratorio (por ej. `ID`).", 
@@ -344,6 +349,11 @@
         "es": "Filtro personalizado",
         "pt": "Filtro personalizado"
     },
+    "cut_values": {
+        "en": "Cut values",
+        "es": "Valores de corte",
+        "pt": "Valores de corte"
+    },
     "cv": {
         "en": "Coefficient of Variation (%)",
         "es": "Coeficiente de Variación (%)",
@@ -483,6 +493,11 @@
         "en": "Degree/day adjustments per stage",
         "es": "Ajustes de grados/día por etapa",
         "pt": "Ajustes de graus/dia por etapa"
+    },
+    "delete_selected": {
+        "en": "Delete selected",
+        "es": "Eliminar seleccionados",
+        "pt": "Excluir selecionados"
     },
     "dem_interval": {
         "en": "Interval between contour lines (m)",
@@ -629,6 +644,11 @@
         "es": "Fecha de fin de siembra",
         "pt": "Data de fim do plantio"
     },
+    "enter_a_value_and_press_enter": {
+        "en": "Enter a value and press Enter",
+        "es": "Ingrese un valor y presione Enter",
+        "pt": "Insira um valor e pressione Enter"
+    },
     "enviromental_demand": {
         "en": "Environmental demand",
         "es": "Demanda ambiental",
@@ -639,10 +659,20 @@
         "es": "Intervalos iguales", 
         "pt": "Intervalos iguais"
     },
+    "error_checking_status": {
+        "en": "Error checking status.",
+        "es": "Error consultando estado",
+        "pt": "Erro ao consultar o status."
+    },
     "error_generating_maps": {
         "en": "Error generating the maps.",
         "es": "Error al generar los mapas.",
         "pt": "Erro ao gerar os mapas."
+    },
+    "error_invalid_status_response": {
+        "en": "Invalid status response",
+        "es": "Respuesta inválida de estado",
+        "pt": "Resposta inválida de status"
     },
     "error_message_date_picker": {
         "en": "Select start and end date",
@@ -948,6 +978,11 @@
         "en": "Generating the maps...",
         "es": "Generando los mapas...",
         "pt": "Gerando os mapas..."
+    },
+    "generic_points": {
+        "en": "Generic points",
+        "es": "Puntos genéricos",
+        "pt": "Pontos genéricos"
     },
     "geo_points": {
         "en": "Georeferenced data in a single file",
@@ -1459,6 +1494,36 @@
         "es": "Cortes manuales", 
         "pt": "Divisões manuais"
     },
+    "manual_breaks_at_least_one_required": {
+        "en": "You must enter at least 1 manual break.",
+        "es": "Debe ingresar al menos 1 corte manual.",
+        "pt": "Você deve inserir pelo menos 1 divisão manual."
+    },
+    "manual_values_indices": {
+        "en": "Manual values (index)",
+        "es": "Valores manuales (índices)",
+        "pt": "Valores manuais (índices)"
+    },
+    "manual_values_at_least_one_required": {
+        "en": "You must enter at least one value in Manual values.",
+        "es": "Debe ingresar al menos un valor en Valores manuales.",
+        "pt": "Você deve inserir pelo menos um valor em Valores manuais."
+    },
+    "manual_values_must_be_in_ascending_order": {
+        "en": "Manual values must be in ascending order.",
+        "es": "Los valores manuales deben estar en orden ascendente.",
+        "pt": "Os valores manuais devem estar em ordem crescente."
+    },
+    "manual_values_must_not_be_repeated": {
+        "en": "Manual values must not be repeated.",
+        "es": "Los valores manuales no deben repetirse.",
+        "pt": "Os valores manuais não devem se repetir."
+    },
+    "manual_values_percentage": {
+        "en": "Manual values (percentage)",
+        "es": "Valores manuales (porcentaje)",
+        "pt": "Valores manuais (porcentagem)"
+    },
     "map_d": {
         "en": "Map",
         "es": "Mapa",
@@ -1538,6 +1603,11 @@
         "en": "Maximum",
         "es": "Máximo",
         "pt": "Máximo"
+    },
+    "maximum_7_breaks_allowed": {
+        "en": "Maximum 7 breaks allowed",
+        "es": "Máximo 7 cortes permitidos",
+        "pt": "Máximo de 7 divisões permitidas"
     },
     "max_area_to_clean": {
         "en": "Maximum area to clean (ha)", 
@@ -1709,6 +1779,16 @@
         "es": "No hay fechas disponibles entre",
         "pt": "Não há datas disponíveis entre"
     },
+    "no_available_dates_found_for_selected_range": {
+        "en": "No available dates found for the selected range.",
+        "es": "No se encontraron fechas disponibles para el rango seleccionado.",
+        "pt": "Nenhuma data disponível foi encontrada para o intervalo selecionado."
+    },
+    "no_available_layers_360_for_farm": {
+        "en": "No layers available in 360 for this farm",
+        "es": "No se encontraron capas disponibles en 360 para este establecimiento",
+        "pt": "Nenhuma camada disponível em 360 para esta fazenda"
+    },
     "no_chart_generated": {
         "en": "No chart was generated for the establishment.",
         "es": "No se generó un gráfico para el establecimiento.",
@@ -1718,6 +1798,11 @@
         "en": "There is no data to calculate the distribution.",
         "es": "No hay datos para calcular la distribución.",
         "pt": "Não há dados para calcular a distribuição."
+    },
+    "no_data_for_selected_fields": {
+        "en": "There is no data corresponding to the selected fields.",
+        "es": "No hay datos correspondientes a los lotes seleccionados.",
+        "pt": "Não há dados correspondentes aos talhões selecionados."
     },
     "no_data_selected_dates_distribution": {
         "en": "The distribution could not be calculated because one or more of the selected dates has no valid image data.",
@@ -1744,6 +1829,11 @@
     "es": "No hay datos de lotes disponibles para el dominio seleccionado.",
     "pt": "Não há dados de lotes disponíveis para o domínio selecionado."
     },
+    "no_fields_found_for_selected_farm": {
+    "en": "No fields found for the selected farm.",
+    "es": "No se encontraron lotes para la farm seleccionada.",
+    "pt": "Nenhum talhão foi encontrado para a fazenda selecionada."
+    },
     "no_fields_available_for_filter": {
     "en": "No fields available for the current filter.",
     "es": "No hay lotes disponibles para el filtro actual.",
@@ -1758,6 +1848,11 @@
     "en": "No field found to continue.",
     "es": "No se encontró lote para continuar.",
     "pt": "Nenhum talhão encontrado para continuar."
+    },
+    "no_field_id_column_found_available": {
+    "en": "Field id column was not found. Available: {columns}",
+    "es": "No se encontró la columna de field id. Disponibles: {columns}",
+    "pt": "A coluna de field id não foi encontrada. Disponíveis: {columns}"
     },
     "no_grouping": {
         "en": "No group",
@@ -1834,6 +1929,11 @@
         "es": "Abrir mapa generado",
         "pt": "Abrir mapa gerado"
     },
+    "open_generated_maps": {
+        "en": "Open generated maps",
+        "es": "Abrir mapas generados",
+        "pt": "Abrir mapas gerados"
+    },
     "operator": {
         "en": "Operator",
         "es": "Operador",
@@ -1858,6 +1958,16 @@
         "en": "Percentage",
         "es": "Porcentaje",
         "pt": "Porcentagem"
+    },
+    "percentages_must_be_between_0_and_100": {
+        "en": "Percentages must be between 0 and 100.",
+        "es": "Los porcentajes deben estar entre 0 y 100.",
+        "pt": "As porcentagens devem estar entre 0 e 100."
+    },
+    "percentage_must_be_between_0_and_100_excluded": {
+        "en": "The percentage must be between 0 and 100 (excluded).",
+        "es": "El porcentaje debe estar entre 0 y 100 (excluidos).",
+        "pt": "A porcentagem deve estar entre 0 e 100 (excluídos)."
     },
     "permanent_water": {
         "en": "Permanent water",
@@ -2599,6 +2709,11 @@
         "es": "Solo puedes seleccionar un grupo de cultivos",
         "pt": "Você só pode selecionar um grupo de culturas"
     },
+    "unified": {
+        "en": "Unified",
+        "es": "Unificado",
+        "pt": "Unificado"
+    },
     "unique_values_in_lab": {
         "en": "Unique values in laboratory:", 
         "es": "Valores únicos en laboratorio:", 
@@ -2608,6 +2723,11 @@
         "en": "Unique values in points:", 
         "es": "Valores únicos en puntos:", 
         "pt": "Valores únicos nos pontos:"
+    },
+    "unit_of_analysis": {
+        "en": "Processing unit",
+        "es": "Unidad de procesamiento",
+        "pt": "Unidade de processamento"
     },
     "unnamed": {
         "en": "Unnamed",
@@ -2638,6 +2758,16 @@
     "en": "Valid cells grid",
     "es": "Grilla de celdas válidas",
     "pt": "Grade de células válidas"
+    },
+    "value_already_exists": {
+        "en": "The value already exists.",
+        "es": "El valor ya existe.",
+        "pt": "O valor já existe."
+    },
+    "value_must_be_between_min_and_max": {
+        "en": "The value must be between {min_val} and {max_val}.",
+        "es": "El valor debe estar entre {min_val} y {max_val}.",
+        "pt": "O valor deve estar entre {min_val} e {max_val}."
     },
     "values_for": {
         "en": "Values for",
@@ -2729,6 +2859,11 @@
         "es": "Clases de agua",
         "pt": "Classes de agua"
     },
+    "warning_datasync_manual_import_layers": {
+        "en": "These layers could not be imported into 360. Please download them and import them manually via datasync:",
+        "es": "Estas capas no se pudieron importar en 360. Descargalas e importalas manualmente via datasync:",
+        "pt": "Estas camadas nao puderam ser importadas no 360. Baixe-as e importe manualmente via datasync:"
+        },
     "water_detected": {
         "en": "Water detected",
         "es": "Agua detectada",
