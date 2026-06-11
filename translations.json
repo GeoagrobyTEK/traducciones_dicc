@@ -950,9 +950,9 @@
         "pt": "Gerando os mapas..."
     },
     "geo_points": {
-        "en": "Georeferenced point files",
-        "es": "Archivos de puntos georeferenciados",
-        "pt": "Arquivos de pontos georreferenciados"
+        "en": "Georeferenced data in a single file",
+        "es": "Datos georreferenciados en un único archivo",
+        "pt": "Dados georreferenciados em um único arquivo"
     },
     "geo_points_2": {
         "en": "Georeferenced point file (GeoJSON / SHP / ZIP)",
@@ -1300,9 +1300,9 @@
         "pt": "Áreas Lab"
     },
     "lab_data": {
-        "en": "Laboratory analysis + georeferenced points",
-        "es": "Analisis de laboratorio + puntos georeferenciados",
-        "pt": "Análise de laboratório + pontos georreferenciados"
+        "en": "Analysis and coordinates in separate files",
+        "es": "Análisis y coordenadas en archivos separados",
+        "pt": "Análise e coordenadas em arquivos separados"
     },
     "lab_data_2": {
         "en": "File with laboratory results (CSV / XLS / XLSX)",
@@ -1393,6 +1393,11 @@
         "en": "Layer",
         "es": "Capa",
         "pt": "Camada"
+    },
+    "layers_available_in_geoagro_360": {
+        "en": "Layers available in GeoAgro 360",
+        "es": "Capas disponibles en GeoAgro 360",
+        "pt": "Camadas disponíveis no GeoAgro 360"
     },
     "layer_to_compare": {
     "en": "Layer to compare",
