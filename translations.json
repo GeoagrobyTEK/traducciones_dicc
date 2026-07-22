@@ -2644,6 +2644,11 @@
         "es": "Diferencia y tasa de cambio",
         "pt": "Diferença e taxa de mudança"
     },
+    "title_recorridas": {
+        "en": "Field Visits",
+        "es": "Recorridas",
+        "pt": "Visitas de Campo"
+    },
     "title_yield": {
         "en": "Yield",
         "es": "Rindes",
