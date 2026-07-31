@@ -964,6 +964,11 @@
         "es": "Selecciona el tipo de fuente de datos a utlizar:",
         "pt": "Selecione o tipo de fonte de dados a ser utilizada:"
     },
+    "general_information": {
+        "en": "General information",
+        "es": "Información general",
+        "pt": "Informação geral"
+    },
     "generate_altimetry_maps": {
         "en": "Generate Altimetry Maps",
         "es": "Generar mapas de altimetría",
