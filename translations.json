@@ -559,6 +559,11 @@
         "es": "Distribución",
         "pt": "Distribuição"
     },
+    "distribution_chart": {
+        "en": "Distribution chart",
+        "es": "Gráfico de distribución",
+        "pt": "Gráfico de distribuição"
+    },
     "dom": {
         "en": "Sun",
         "es": "Dom",
@@ -1548,6 +1553,11 @@
         "en": "Mapped hectares",
         "es": "Hectáreas mapeadas",
         "pt": "Hectares mapeadas"
+    },
+    "maps": {
+        "en": "Maps",
+        "es": "Mapas",
+        "pt": "Mapas"
     },
     "mar": {
         "en": "Tue",
@@ -2663,6 +2673,11 @@
         "en": "Total precipitation for the analysis period:",
         "es": "Precipitaciones totales para el periodo de análisis:",
         "pt": "Precipitações totais para o período de análise:"
+    },
+    "treatment": {
+        "en": "Treatment",
+        "es": "Tratamiento",
+        "pt": "Tratamento"
     },
     "trial_polygon_analysis_not_available": {
     "en": "The dashboard does not include the analysis of trial polygons. This functionality will be available in the coming weeks.",
