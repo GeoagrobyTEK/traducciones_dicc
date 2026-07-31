@@ -2259,6 +2259,11 @@
         "es": "Eliminar outliers extremos (±3σ) para esta variable", 
         "pt": "Remover outliers extremos (±3σ) para esta variável"
     },
+    "records": {
+        "en": "Records",
+        "es": "Registros",
+        "pt": "Registros"
+    },
     "requested_by": {
         "en": "Requested by: ",
         "es": "Solicitado por: ",
