@@ -99,6 +99,11 @@
         "es": "Area",
         "pt": "Area"
     },
+    "area_within_field": {
+        "en": "Area within Field",
+        "es": "Superficie dentro del Lote",
+        "pt": "Área dentro do Talhão"
+    },
     "are_generated_interp": {
         "en": "Are generated", 
         "es": "Se generan", 
@@ -1438,6 +1443,11 @@
         "en": "Layer",
         "es": "Capa",
         "pt": "Camada"
+    },
+    "layer_area": {
+        "en": "Layer Area",
+        "es": "Superficie de la Capa",
+        "pt": "Área da Camada"
     },
     "layers_available_in_geoagro_360": {
         "en": "Layers available in GeoAgro 360",
@@ -2938,6 +2948,11 @@
         "en": "Wind",
         "es": "Viento",
         "pt": "Vento"
+    },
+    "work_date": {
+        "en": "Work Date",
+        "es": "Fecha de la Labor",
+        "pt": "Data da Operação"
     },
     "workspace": {
         "en": "Work Space",
