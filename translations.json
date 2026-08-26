@@ -104,6 +104,11 @@
         "es": "Area",
         "pt": "Area"
     },
+    "area_within_field": {
+        "en": "Area within Field",
+        "es": "Superficie dentro del Lote",
+        "pt": "Área dentro do Talhão"
+    },
     "are_generated_interp": {
         "en": "Are generated", 
         "es": "Se generan", 
@@ -269,10 +274,20 @@
         "es": "Color",
         "pt": "Cor"
     },
+    "column": {
+        "en": "Column",
+        "es": "Columna",
+        "pt": "Coluna"
+    },
     "column_to_analyze_layer": {
         "en": "Column to analyze the layer",
         "es": "Columna para analizar la capa",
         "pt": "Coluna para analisar a camada"
+    },
+    "columns_for_analysis": {
+        "en": "Columns for analysis",
+        "es": "Columnas para el análisis",
+        "pt": "Colunas para a análise"
     },
     "comentarios": {
         "en": "Comments",
@@ -283,6 +298,11 @@
         "en": "Comma-separated values",
         "es": "Valores separados por comas",
         "pt": "Valores separados por vírgulas"
+    },
+    "composition_of": {
+        "en": "Composition of",
+        "es": "Composición de",
+        "pt": "Composição de"
     },
     "continuous_interpolation": {
         "en": "continuous_interpolation_", 
@@ -338,6 +358,11 @@
         "en": "Crops",
         "es": "Cultivos",
         "pt": "Culturas"
+    },
+    "crossed_variable_analysis": {
+        "en": "Crossed variable analysis",
+        "es": "Análisis de variables cruzadas",
+        "pt": "Análise de variáveis cruzadas"
     },
     "cuadrante": {
         "en": "quadrant",
@@ -398,6 +423,11 @@
         "en": "Dashboards",
         "es": "Tableros",
         "pt": "Painéis"
+    },
+    "data_by_sample": {
+        "en": "Data by sample",
+        "es": "Datos por muestra",
+        "pt": "Dados por amostra"
     },
     "data_daily": {
         "en": "Daily frequency data",
@@ -494,6 +524,11 @@
         "es": "Cantidad de días",
         "pt": "Quantidade de dias"
     },
+    "days_with_observations": {
+        "en": "Days with observations",
+        "es": "Días con observaciones",
+        "pt": "Dias com observações"
+    },
     "degree_day_ajust": {
         "en": "Degree/day adjustments per stage",
         "es": "Ajustes de grados/día por etapa",
@@ -508,6 +543,11 @@
         "en": "Interval between contour lines (m)",
         "es": "Intervalo entre curvas de nivel (m)",
         "pt": "Intervalo entre curvas de nível (m)"
+    },
+    "density_2d": {
+        "en": "2D density",
+        "es": "Densidad 2D",
+        "pt": "Densidade 2D"
     },
     "description": {
         "en": "Description",
@@ -564,6 +604,11 @@
         "es": "Distribución",
         "pt": "Distribuição"
     },
+    "distribution_chart": {
+        "en": "Distribution chart",
+        "es": "Gráfico de distribución",
+        "pt": "Gráfico de distribuição"
+    },
     "dom": {
         "en": "Sun",
         "es": "Dom",
@@ -573,6 +618,11 @@
         "en": "Domain",
         "es": "Dominio",
         "pt": "Domínio"
+    },
+    "donut_chart": {
+        "en": "Donut",
+        "es": "Dona",
+        "pt": "Rosca"
     },
     "download": {
         "en": "Download",
@@ -889,6 +939,11 @@
         "es": "Inundaciones por lote y año",
         "pt": "Inundações por lote e ano"
     },
+    "flow_chart": {
+        "en": "Flow",
+        "es": "Flujo",
+        "pt": "Fluxo"
+    },
     "flower_canola": {
         "en": "Flower Initiation to Flowering (BBCH 50–60)",
         "es": "Iniciación floral a Floración (BBCH 50–60)",
@@ -973,6 +1028,11 @@
         "en": "Select the type of data source to use:",
         "es": "Selecciona el tipo de fuente de datos a utlizar:",
         "pt": "Selecione o tipo de fonte de dados a ser utilizada:"
+    },
+    "general_information": {
+        "en": "General information",
+        "es": "Información general",
+        "pt": "Informação geral"
     },
     "generate_altimetry_maps": {
         "en": "Generate Altimetry Maps",
@@ -1444,6 +1504,11 @@
         "es": "Capa",
         "pt": "Camada"
     },
+    "layer_area": {
+        "en": "Layer Area",
+        "es": "Superficie de la Capa",
+        "pt": "Área da Camada"
+    },
     "layers_available_in_geoagro_360": {
         "en": "Layers available in GeoAgro 360",
         "es": "Capas disponibles en GeoAgro 360",
@@ -1568,6 +1633,11 @@
         "en": "Mapped hectares",
         "es": "Hectáreas mapeadas",
         "pt": "Hectares mapeadas"
+    },
+    "maps": {
+        "en": "Maps",
+        "es": "Mapas",
+        "pt": "Mapas"
     },
     "mar": {
         "en": "Tue",
@@ -1925,9 +1995,29 @@
         "pt": "Nenhuma detecção"
     },
     "number_of_quantiles": {
-        "en": "Number of quantiles", 
-        "es": "Cantidad de cuantiles", 
+        "en": "Number of quantiles",
+        "es": "Cantidad de cuantiles",
         "pt": "Quantidade de quantis"
+    },
+    "number_of_samples": {
+        "en": "Number of samples",
+        "es": "Número de muestras",
+        "pt": "Número de amostras"
+    },
+    "number_of_visits": {
+        "en": "Number of visits",
+        "es": "Número de recorridas",
+        "pt": "Número de vistorias"
+    },
+    "observation_almanac": {
+        "en": "Observation almanac",
+        "es": "Almanaque de observaciones",
+        "pt": "Almanaque de observações"
+    },
+    "observation_timeline": {
+        "en": "Observation timeline",
+        "es": "Línea de tiempo de observaciones",
+        "pt": "Linha do tempo de observações"
     },
     "ongoing": {
         "en": "On going",
@@ -1998,6 +2088,11 @@
         "en": "Phenological evolution of the crop",
         "es": "Evolución fenológica del cultivo",
         "pt": "Evolução fenológica da cultura"
+    },
+    "pie_chart": {
+        "en": "Pie chart",
+        "es": "Torta",
+        "pt": "Pizza"
     },
     "pixel_size_m": {
         "en": "Pixel size (m)", 
@@ -2174,6 +2269,11 @@
         "es": "Quantil 3",
         "pt": "Terceiro Quartil"
     },
+    "quantity": {
+        "en": "Quantity",
+        "es": "Cantidad",
+        "pt": "Quantidade"
+    },
     "r1_soybean": {
         "en": "V3 to R1 (Flowering)",
         "es": "V3 a R1 (Floración)",
@@ -2264,6 +2364,11 @@
         "es": "Eliminar outliers extremos (±3σ) para esta variable", 
         "pt": "Remover outliers extremos (±3σ) para esta variável"
     },
+    "records": {
+        "en": "Records",
+        "es": "Registros",
+        "pt": "Registros"
+    },
     "requested_by": {
         "en": "Requested by: ",
         "es": "Solicitado por: ",
@@ -2289,6 +2394,11 @@
         "es": "Sáb",
         "pt": "Sáb"
     },
+    "sample": {
+        "en": "Sample",
+        "es": "Muestra",
+        "pt": "Amostra"
+    },
     "sampling_depth": {
         "en": "Sampling depth",
         "es": "Profundidad de muestreo",
@@ -2298,6 +2408,11 @@
         "en": "Saturday",
         "es": "Sábado",
         "pt": "Sábado"
+    },
+    "scatter_chart": {
+        "en": "Scatter",
+        "es": "Dispersión",
+        "pt": "Dispersão"
     },
     "season": {
         "en": "Season",
@@ -2639,6 +2754,11 @@
         "es": "Emergencia a Macollaje (Z10–Z21)",
         "pt": "Emergência ao Perfilhamento (Z10–Z21)"
     },
+    "time_series": {
+        "en": "Time series",
+        "es": "Serie de tiempo",
+        "pt": "Série temporal"
+    },
     "title": {
         "en": "Fields and Crops",
         "es": "Lotes y Cultivos",
@@ -2658,6 +2778,11 @@
         "en": "Difference & change rate",
         "es": "Diferencia y tasa de cambio",
         "pt": "Diferença e taxa de mudança"
+    },
+    "title_recorridas": {
+        "en": "Field Visits",
+        "es": "Recorridas",
+        "pt": "Visitas de Campo"
     },
     "title_yield": {
         "en": "Yield",
@@ -2683,6 +2808,11 @@
         "en": "Total precipitation for the analysis period:",
         "es": "Precipitaciones totales para el periodo de análisis:",
         "pt": "Precipitações totais para o período de análise:"
+    },
+    "treatment": {
+        "en": "Treatment",
+        "es": "Tratamiento",
+        "pt": "Tratamento"
     },
     "trials_analysis": {
         "en": "Trials analysis",
@@ -2769,6 +2899,21 @@
         "es": "Fechas utilizadas",
         "pt": "Datas utilizadas"
     },
+    "user": {
+        "en": "User",
+        "es": "Usuario",
+        "pt": "Usuário"
+    },
+    "user_analysis": {
+        "en": "Analysis by user",
+        "es": "Análisis por Usuario",
+        "pt": "Análise por usuário"
+    },
+    "users": {
+        "en": "Users",
+        "es": "Usuarios",
+        "pt": "Usuários"
+    },
     "v3_soybean": {
         "en": "Emergence to V3",
         "es": "Emergencia a V3",
@@ -2805,9 +2950,14 @@
         "pt": "Variância"
     },
     "variable": {
-        "en": "Variable", 
-        "es": "Variable", 
+        "en": "Variable",
+        "es": "Variable",
         "pt": "Variável"
+    },
+    "variable_analysis": {
+        "en": "Variable analysis",
+        "es": "Análisis de variables",
+        "pt": "Análise de variáveis"
     },
     "variables_to_interpolate": {
         "en": "Variables to interpolate", 
@@ -2843,6 +2993,16 @@
         "en": "Fri",
         "es": "Vie",
         "pt": "Sex"
+    },
+    "visit": {
+        "en": "Visit",
+        "es": "Recorrida",
+        "pt": "Vistoria"
+    },
+    "visit_type": {
+        "en": "Visit type",
+        "es": "Tipo de recorrida",
+        "pt": "Tipo de vistoria"
     },
     "visits": {
         "en": "Field Visits",
@@ -2933,6 +3093,11 @@
         "en": "Wind",
         "es": "Viento",
         "pt": "Vento"
+    },
+    "work_date": {
+        "en": "Work Date",
+        "es": "Fecha de la Labor",
+        "pt": "Data da Operação"
     },
     "workspace": {
         "en": "Work Space",
