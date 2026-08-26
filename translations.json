@@ -1,4 +1,9 @@
 {
+    "a_variable": {
+        "en": "A variable",
+        "es": "Una variable",
+        "pt": "Uma variável"
+        },
     "accumulated_hectares": {
         "en": "Accumulated hectares",
         "es": "Hectáreas acumuladas",
@@ -779,6 +784,11 @@
         "es": "Lote",
         "pt": "Lote"
     },
+    "field_2": {
+        "en": "field",
+        "es": "lote",
+        "pt": "lote"
+    },
     "field_description": {
         "en": "Only the fields where water presence has been detected in at least one of their pixels during the period covered by the database are listed. The establishment as a whole is included first, considered as a single unit.",
         "es": "Se listan únicamente los lotes en los que se ha detectado la presencia de agua en al menos uno de sus píxeles durante el período abarcado por la base de datos. En primer lugar, se incluye el establecimiento completo considerado como una única unidad.",
@@ -827,7 +837,12 @@
     "fields_to_analyze": {
     "en": "Fields to analyze",
     "es": "Lotes a analizar",
-    "pt": "Talhões a analisar"
+    "pt": "Lotes a analisar"
+    },
+    "fields_to_analyze_2": {
+    "en": "Field to analyze",
+    "es": "Lote a analizar",
+    "pt": "Lote a analisar"
     },
     "fields_without_crops": {
         "en": "Fields without crops",
@@ -2669,10 +2684,15 @@
         "es": "Precipitaciones totales para el periodo de análisis:",
         "pt": "Precipitações totais para o período de análise:"
     },
+    "trials_analysis": {
+        "en": "Trials analysis",
+        "es": "Análisis de ensayos",
+        "pt": "Análise de ensaios"
+    },
     "trial_polygon_analysis_not_available": {
-    "en": "The dashboard does not include the analysis of trial polygons. This functionality will be available in the coming weeks.",
-    "es": "El tablero no contempla el análisis de polígonos de ensayo. Esta funcionalidad estara disponible en las proximas semanas.",
-    "pt": "O painel não contempla a análise de polígonos de teste. Esta funcionalidade estará disponível nas próximas semanas."
+        "en": "The dashboard does not include the analysis of trial polygons. This functionality will be available in the coming weeks.",
+        "es": "El tablero no contempla el análisis de polígonos de ensayo. Esta funcionalidad estara disponible en las proximas semanas.",
+        "pt": "O painel não contempla a análise de polígonos de teste. Esta funcionalidade estará disponível nas próximas semanas."
     },
     "trend": {
         "en": "Trend",
@@ -2699,6 +2719,11 @@
         "es": "Martes",
         "pt": "Terça-feira"
     },
+    "two_variables": {
+        "en": "Two variables",
+        "es": "Dos variables",
+        "pt": "Duas variáveis"
+        },
     "type_crop": {
         "en": "Crop Group",
         "es": "Grupo de Cultivo",
@@ -2755,10 +2780,10 @@
         "pt": "Emergência até V6"
     },
     "valid_cells_grid": {
-    "en": "Valid cells grid",
-    "es": "Grilla de celdas válidas",
-    "pt": "Grade de células válidas"
-    },
+        "en": "Valid cells grid",
+        "es": "Grilla de celdas válidas",
+        "pt": "Grade de células válidas"
+        },
     "value_already_exists": {
         "en": "The value already exists.",
         "es": "El valor ya existe.",
