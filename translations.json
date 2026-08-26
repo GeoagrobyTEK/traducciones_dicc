@@ -59,6 +59,11 @@
         "es": "Análisis individual por lote",
         "pt": "Análise individual por talhão"
     },
+    "analysis_by_environment": {
+        "en": "Analysis by zone",
+        "es": "Análisis por ambiente",
+        "pt": "Análise por ambiente"
+        },
     "analysis_of_a_layer": {
         "en": "Analysis of a layer",
         "es": "Análisis de una capa",
@@ -74,6 +79,11 @@
     "es": "Análisis ANOVA y Tukey",
     "pt": "Análise ANOVA e Tukey"
     },
+    "anova_not_available": {
+        "en": "ANOVA is not available.",
+        "es": "No hay ANOVA disponible.",
+        "pt": "ANOVA não disponível."
+        },
     "anterior": {
         "en": "Previous",
         "es": "Anterior",
@@ -194,6 +204,11 @@
         "es": "Boxplot y coeficiente de variación por lote",
         "pt": "Boxplot e coeficiente de variação por lote"
     },
+    "boxplot_summary": {
+        "en": "Boxplot summary",
+        "es": "Resumen del boxplot",
+        "pt": "Resumo do boxplot"
+        },
     "breaks_comma_separated": {
         "en": "Breaks (comma-separated). E.g.: 10, 20, 30, 45", 
         "es": "Cortes (separados por coma). Ej: 10, 20, 30, 45", 
@@ -314,6 +329,11 @@
         "es": "Curvas de nivel",
         "pt": "Linhas de contorno"
     },
+    "control": {
+        "en": "Control",
+        "es": "Testigo",
+        "pt": "Testemunha"
+        },
     "could_not_get_field_id": {
         "en": "Could not retrieve the ID of the selected field.",
         "es": "No se pudo obtener el ID del lote seleccionado.",
@@ -559,6 +579,11 @@
     "es": "Estadísticos descriptivos",
     "pt": "Estatísticas descritivas"
     },
+    "descriptive_statistics_by_class": {
+        "en": "Descriptive statistics by class",
+        "es": "Estadísticos descriptivos por clase",
+        "pt": "Estatísticas descritivas por classe"
+        },
     "descriptive_stats_global": {
     "en": "Global descriptive statistics",
     "es": "Estadísticos descriptivos global",
@@ -609,6 +634,16 @@
         "es": "Gráfico de distribución",
         "pt": "Gráfico de distribuição"
     },
+    "doa_yield": {
+        "en": "DOA yield",
+        "es": "Rinde DOA",
+        "pt": "Rendimento DOA"
+        },
+    "doe_yield": {
+        "en": "DOE yield",
+        "es": "Rinde DOE",
+        "pt": "Rendimento DOE"
+        },
     "dom": {
         "en": "Sun",
         "es": "Dom",
@@ -1989,6 +2024,11 @@
         "es": "-No asignado-",
         "pt": "-No asignado-"
     },
+    "not_calculated": {
+        "en": "Not calculated",
+        "es": "No calculado",
+        "pt": "Não calculado"
+        },
     "not_detecctions": {
         "en": "No detections",
         "es": "Sin detecciones",
@@ -2004,6 +2044,11 @@
         "es": "Número de muestras",
         "pt": "Número de amostras"
     },
+    "number_of_variables": {
+        "en": "Number of variables to analyze",
+        "es": "Cantidad de variables a analizar",
+        "pt": "Quantidade de variáveis a analisar"
+        },
     "number_of_visits": {
         "en": "Number of visits",
         "es": "Número de recorridas",
@@ -2134,6 +2179,11 @@
         "es": "Polígonos",
         "pt": "Polígonos"
     },
+    "polygon_layer": {
+        "en": "Polygon layer",
+        "es": "Capa de polígonos",
+        "pt": "Camada de polígonos"
+        },
     "polygon_map": {
         "en": "Polygon map",
         "es": "Mapa de polígonos",
@@ -2679,6 +2729,11 @@
         "es": "Tormenta",
         "pt": "Tempestade"
     },
+    "summary_not_available": {
+        "en": "No summary is available.",
+        "es": "No hay resumen disponible.",
+        "pt": "Não há resumo disponível."
+        },
     "sunday": {
         "en": "Sunday",
         "es": "Domingo",
@@ -2849,6 +2904,11 @@
         "es": "Martes",
         "pt": "Terça-feira"
     },
+    "tukey_analysis_not_available": {
+        "en": "No Tukey analysis is available.",
+        "es": "No hay analisis Tukey disponible.",
+        "pt": "Não há análise de Tukey disponível."
+        },
     "two_variables": {
         "en": "Two variables",
         "es": "Dos variables",
@@ -3094,6 +3154,11 @@
         "es": "Viento",
         "pt": "Vento"
     },
+    "without_zone": {
+        "en": "Without zone",
+        "es": "Sin ambiente",
+        "pt": "Sem ambiente"
+        },
     "work_date": {
         "en": "Work Date",
         "es": "Fecha de la Labor",
