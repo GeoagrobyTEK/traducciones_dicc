@@ -2019,6 +2019,11 @@
         "es": "No se detectaron lotes con presencia de agua superficial.",
         "pt": "Não foram detectados lotes com presença de água superficial."
     },
+    "no_visits_for_selected_filters": {
+        "en": "There are no visits for the filters selected in the sidebar.",
+        "es": "No hay recorridas para los filtros seleccionados en el sidebar.",
+        "pt": "Não há vistorias para os filtros selecionados na barra lateral."
+    },
     "not_asigned": {
         "en": "-Not assigned-",
         "es": "-No asignado-",
