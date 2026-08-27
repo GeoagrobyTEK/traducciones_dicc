@@ -2395,9 +2395,9 @@
         "pt": "poligonizacao_reclassificada_"
     },
     "recorridas_dashboard_description": {
-        "en": "Provides a comprehensive view of field monitoring loaded from digital forms, combining the georeferenced location of each observation with the details recorded at each point (crop health, crop stage, emergence, harvest). It makes it easy to track how fields evolve between visits and to detect issues early.",
-        "es": "Ofrece una visión integral de los monitoreos a campo cargados desde formularios digitales, combinando la ubicación georreferenciada de cada observación con el detalle relevado en cada punto (sanidad, estado del cultivo, emergencia, cosecha). Facilita el seguimiento de la evolución de los lotes entre recorridas y la detección temprana de problemas.",
-        "pt": "Oferece uma visão integral dos monitoramentos a campo carregados a partir de formulários digitais, combinando a localização georreferenciada de cada observação com o detalhe registrado em cada ponto (sanidade, estágio da cultura, emergência, colheita). Facilita o acompanhamento da evolução dos talhões entre visitas e a detecção precoce de problemas."
+        "en": "Provides an overview of the field visits loaded from digital forms, combining the location of each observation with what was recorded at that point.",
+        "es": "Ofrece una visión general de las recorridas a campo cargadas desde formularios digitales, combinando la ubicación de cada observación con lo relevado en ese punto.",
+        "pt": "Oferece uma visão geral das visitas a campo carregadas a partir de formulários digitais, combinando a localização de cada observação com o que foi registrado nesse ponto."
     },
     "recurrence_decription": {
         "en": "The graph represents the months in which surface water was detected in at least one of the pixels that make up the analyzed lot area, during the period covered by the database.",
