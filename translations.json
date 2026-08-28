@@ -3029,6 +3029,11 @@
         "es": "Análisis de variables",
         "pt": "Análise de variáveis"
     },
+    "variables": {
+        "en": "Variables",
+        "es": "Variables",
+        "pt": "Variáveis"
+    },
     "variables_to_interpolate": {
         "en": "Variables to interpolate", 
         "es": "Variables a interpolar", 
