@@ -1,6 +1,6 @@
 {
     "a_variable": {
-        "en": "A variable",
+        "en": "One variable",
         "es": "Una variable",
         "pt": "Uma variável"
         },
@@ -79,6 +79,11 @@
     "es": "Análisis ANOVA y Tukey",
     "pt": "Análise ANOVA e Tukey"
     },
+    "anova_factorial": {
+        "en": "Factorial ANOVA",
+        "es": "ANOVA factorial",
+        "pt": "ANOVA fatorial"
+        },
     "anova_not_available": {
         "en": "ANOVA is not available.",
         "es": "No hay ANOVA disponible.",
@@ -209,6 +214,11 @@
         "es": "Resumen del boxplot",
         "pt": "Resumo do boxplot"
         },
+    "boxplot_not_available_for_variable": {
+        "en": "No boxplot is available for variable",
+        "es": "No hay boxplot disponible para variable",
+        "pt": "Não há boxplot disponível para a variável"
+        },
     "breaks_comma_separated": {
         "en": "Breaks (comma-separated). E.g.: 10, 20, 30, 45", 
         "es": "Cortes (separados por coma). Ej: 10, 20, 30, 45", 
@@ -240,20 +250,25 @@
         "pt": "Classes"
     },
     "class_boxplot": {
-    "en": "Boxplot by class",
-    "es": "Boxplot por clase",
-    "pt": "Boxplot por classe"
-    },
-    "class_column": {
-    "en": "Class column",
-    "es": "Columna de clase",
-    "pt": "Coluna de classe"
-    },
+        "en": "Boxplot by class",
+        "es": "Boxplot por clase",
+        "pt": "Boxplot por classe"
+        },
+        "class_column": {
+        "en": "Class column",
+        "es": "Columna de clase",
+        "pt": "Coluna de classe"
+        },
     "class_width_note": {
         "en": "Width of each class: internal breaks are generated for each 'interval' between min and max value.", 
         "es": "Ancho de cada clase: se generan cortes internos para cada 'intervalo' entre valor min y valor max.", 
         "pt": "Largura de cada classe: divisões internas são geradas para cada 'intervalo' entre o valor mínimo e o valor máximo."
     },
+    "classes_with_single_polygon_in_environment": {
+        "en": "Classes with a single polygon in this environment",
+        "es": "Clases con un solo polígono en este ambiente",
+        "pt": "Classes com um único polígono neste ambiente"
+        },
     "cleaning_option": {
         "en": "Statistical cleaning by the Savitzky–Golay method",
         "es": "Limpieza estadistica por el método Savitzky–Golay ",
@@ -589,6 +604,11 @@
     "es": "Estadísticos descriptivos global",
     "pt": "Estatísticas descritivas globais"
     },
+    "descriptive_statistics_not_available": {
+        "en": "No descriptive statistics are available.",
+        "es": "No hay estadísticos descriptivos disponibles.",
+        "pt": "Não há estatísticas descritivas disponíveis."
+        },
     "desde": {
         "en": "From",
         "es": "Desde",
@@ -638,6 +658,11 @@
         "en": "DOA yield",
         "es": "Rinde DOA",
         "pt": "Rendimento DOA"
+        },
+    "doa_doe_analysis_and_recommendations": {
+        "en": "DOA / DOE analysis and recommendations",
+        "es": "Análisis y recomendaciones DOA / DOE",
+        "pt": "Análise e recomendações DOA / DOE"
         },
     "doe_yield": {
         "en": "DOE yield",
@@ -744,6 +769,11 @@
         "es": "Demanda ambiental",
         "pt": "Demanda ambiental"
     },
+    "environment_results_not_available": {
+        "en": "No results by zone are available.",
+        "es": "No hay resultados por ambiente disponibles.",
+        "pt": "Não há resultados por ambiente disponíveis."
+        },
     "equal_intervals": {
         "en": "Equal intervals", 
         "es": "Intervalos iguales", 
@@ -1144,6 +1174,11 @@
         "es": "Floración a Llenado de grano",
         "pt": "Florescimento até Enchimento de grãos"
     },
+    "grain_value_usd_per_ton": {
+        "en": "Grain value (USD/t)",
+        "es": "Valor del grano (USD/t)",
+        "pt": "Valor do grão (USD/t)"
+        },
     "grid_boxplot_statistics": {
     "en": "Grid boxplot statistics",
     "es": "Estadísticas del boxplot de grilla",
@@ -1309,6 +1344,7 @@
         "es": "Columna identificadora en la tabla de resultados de laboratorio:", 
         "pt": "Coluna identificadora na tabela de resultados de laboratório:"
     },
+    
     "include": {
         "en": "Include",
         "es": "Incluir",
@@ -1324,6 +1360,16 @@
         "es": "Zonas por índice",
         "pt": "Zonas por índice"
     },
+    "individual_results_not_available_for_environment": {
+        "en": "No individual results are available for this environment.",
+        "es": "No hay resultados individuales disponibles para este ambiente.",
+        "pt": "Não há resultados individuais disponíveis para este ambiente."
+        },
+    "interaction_tukey_for_environment": {
+        "en": "Interaction Tukey for environment",
+        "es": "Tukey de interacción para ambiente",
+        "pt": "Tukey de interação para ambiente"
+        },
     "interpolaciones": {
         "en": "Interpolations",
         "es": "Interpolaciones",
@@ -2014,6 +2060,11 @@
         "es": "No hay fechas anteriores disponibles dentro de la ventana ±45 días.",
         "pt": "Não há datas anteriores disponíveis dentro da janela de ±45 dias."
     },
+    "no_results_for_environment": {
+        "en": "No results for environment",
+        "es": "Sin resultados para ambiente",
+        "pt": "Sem resultados para ambiente"
+        },
     "no_surface_water_lots": {
         "en": "No lots with surface water detected.",
         "es": "No se detectaron lotes con presencia de agua superficial.",
@@ -2239,6 +2290,11 @@
         "es": "Registro de precipitaciones por periodos",
         "pt": "Registro de precipitações por períodos"
     },
+    "prescription_variable_information_incomplete": {
+        "en": "The prescription does not specify the treatment and/or unit of a variable. Complete them before running the analysis.",
+        "es": "La prescripción no informa el tratamiento y/o la unidad de una variable. Completalos antes de ejecutar el análisis.",
+        "pt": "A prescrição não informa o tratamento e/ou a unidade de uma variável. Complete-os antes de executar a análise."
+        },
     "prescriptions": {
         "en": "Prescriptions",
         "es": "Prescripciones",
@@ -2574,6 +2630,21 @@
         "es": "Selecciona un modelo",
         "pt": "Selecione um modelo"
     },
+    "select_treatment": {
+        "en": "Select treatment",
+        "es": "Seleccionar tratamiento",
+        "pt": "Selecionar tratamento"
+        },
+    "select_treatment_first": {
+        "en": "Select the treatment first",
+        "es": "Seleccionar primero el tratamiento",
+        "pt": "Selecionar primeiro o tratamento"
+        },
+    "select_unit": {
+        "en": "Select unit",
+        "es": "Seleccionar unidad",
+        "pt": "Selecionar unidade"
+        },
     "select_variables_to_interpolate": {
         "en": "Selection of variables to interpolate", 
         "es": "Selección de variables a interpolar", 
@@ -2879,6 +2950,11 @@
         "es": "Tratamiento",
         "pt": "Tratamento"
     },
+    "treatment_reported": {
+        "en": "Treatment reported",
+        "es": "Tratamiento informado",
+        "pt": "Tratamento informado"
+        },
     "trials_analysis": {
         "en": "Trials analysis",
         "es": "Análisis de ensayos",
@@ -2949,11 +3025,21 @@
         "es": "Valores únicos en puntos:", 
         "pt": "Valores únicos nos pontos:"
     },
+    "unit": {
+        "en": "Unit",
+        "es": "Unidad",
+        "pt": "Unidade"
+        },
     "unit_of_analysis": {
         "en": "Processing unit",
         "es": "Unidad de procesamiento",
         "pt": "Unidade de processamento"
     },
+    "unit_reported": {
+        "en": "Unit reported",
+        "es": "Unidad informada",
+        "pt": "Unidade informada"
+        },
     "unnamed": {
         "en": "Unnamed",
         "es": "Sin nombre",
@@ -3253,6 +3339,11 @@
         "en": "Zone",
         "es": "Ambiente",
         "pt": "Ambiente"
+    },
+    "zone_2": {
+        "en": "zone",
+        "es": "ambiente",
+        "pt": "ambiente"
     },
     "zones": {
         "en": "Zones",
