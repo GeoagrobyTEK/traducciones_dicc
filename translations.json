@@ -54,6 +54,11 @@
         "es": "Permite crear mapas de altimetría, basados en el Modelo Digital de Elevación SRTM (Shuttle Radar Topography Mission).",
         "pt": "Permite criar mapas de altimetria, com base no Modelo Digital de Elevação SRTM (Shuttle Radar Topography Mission)."
     },
+    "amendment": {
+        "en": "Amendment",
+        "es": "Enmienda",
+        "pt": "Corretivo"
+    },
     "analisis_individual_por_lote": {
         "en": "Individual field analysis",
         "es": "Análisis individual por lote",
@@ -199,6 +204,11 @@
         "es": "Banda Máximo/Mínimo",
         "pt": "Banda Máximo/Mínimo"
     },
+    "benefit": {
+        "en": "Benefit",
+        "es": "Beneficio",
+        "pt": "Benefício"
+        },
     "bf_sunf": {
         "en": "V6 to Flower Bud",
         "es": "V6 a Botón Floral",
@@ -228,6 +238,16 @@
         "en": "By field",
         "es": "Por lote",
         "pt": "Por lote"
+    },
+    "by_hybrid_variety": {
+        "en": "By Hybrid/Variety",
+        "es": "Por Híbrido/Variedad",
+        "pt": "Por Híbrido/Variedade"
+        },
+    "calculated_cost_for_doe": {
+        "en": "Calculated cost for DOE",
+        "es": "Costo calculado para DOE",
+        "pt": "Custo calculado para DOE"
     },
     "choose_identifier_column": {
         "en": "Choose the identifier column in each table that allows linking each sampling point with its laboratory analysis (e.g., `ID`).", 
@@ -329,6 +349,16 @@
         "es": "Valores separados por comas",
         "pt": "Valores separados por vírgulas"
     },
+    "complete_commercial_data_and_density_for_each_hybrid": {
+        "en": "Complete the commercial data and the density used for each hybrid. The effective cost is calculated as density ÷ seeds per bag × USD per bag.",
+        "es": "Complete los datos comerciales y la densidad utilizada para cada híbrido. El costo efectivo se calcula como densidad ÷ semillas por bolsa × USD por bolsa.",
+        "pt": "Preencha os dados comerciais e a densidade utilizada para cada híbrido. O custo efetivo é calculado como densidade ÷ sementes por saco × USD por saco."
+        },
+    "complete_quantity_and_price_for_unit_cost": {
+        "en": "Complete the quantity and price to automatically calculate the cost in USD per unit.",
+        "es": "Complete cantidad y precio para calcular automáticamente el costo en USD por unidad.",
+        "pt": "Preencha a quantidade e o preço para calcular automaticamente o custo em USD por unidade."
+    },
     "composition_of": {
         "en": "Composition of",
         "es": "Composición de",
@@ -349,6 +379,16 @@
         "es": "Testigo",
         "pt": "Testemunha"
         },
+    "control_margin": {
+        "en": "Control margin",
+        "es": "Margen testigo",
+        "pt": "Margem da testemunha"
+    },
+    "cost_usd_per_ha": {
+        "en": "Cost (USD/ha)",
+        "es": "Costo (USD/ha)",
+        "pt": "Custo (USD/ha)"
+    },
     "could_not_get_field_id": {
         "en": "Could not retrieve the ID of the selected field.",
         "es": "No se pudo obtener el ID del lote seleccionado.",
@@ -579,11 +619,21 @@
         "es": "Intervalo entre curvas de nivel (m)",
         "pt": "Intervalo entre curvas de nível (m)"
     },
+    "density": {
+        "en": "Density",
+        "es": "Densidad",
+        "pt": "Densidade"
+        },
     "density_2d": {
         "en": "2D density",
         "es": "Densidad 2D",
         "pt": "Densidade 2D"
     },
+    "density_seeds_per_ha": {
+        "en": "Density (seeds/ha)",
+        "es": "Densidad (sem/ha)",
+        "pt": "Densidade (sem/ha)"
+        },
     "description": {
         "en": "Description",
         "es": "Descripción",
@@ -654,16 +704,36 @@
         "es": "Gráfico de distribución",
         "pt": "Gráfico de distribuição"
     },
+    "doa_hybrid_variety": {
+        "en": "DOA Hybrid/Variety",
+        "es": "Híbrido/Variedad DOA",
+        "pt": "Híbrido/Variedade DOA"
+    },
     "doa_yield": {
         "en": "DOA yield",
         "es": "Rinde DOA",
         "pt": "Rendimento DOA"
-        },
+    },
     "doa_doe_analysis_and_recommendations": {
         "en": "DOA / DOE analysis and recommendations",
         "es": "Análisis y recomendaciones DOA / DOE",
         "pt": "Análise e recomendações DOA / DOE"
-        },
+    },
+    "doa_doe_methodology_explanation": {
+        "en": "DOA: hybrid with the highest average yield. DOE: hybrid with the highest economic margin, considering grain price and effective seed cost per hectare. The economic comparison uses the yield observed in the control area.",
+        "es": "DOA: híbrido con mayor rendimiento medio. DOE: híbrido con mayor margen económico, considerando el precio del grano y el costo efectivo de semilla por hectárea. La comparación económica usa el rinde observado en el área testigo.",
+        "pt": "DOA: híbrido com maior rendimento médio. DOE: híbrido com maior margem econômica, considerando o preço do grão e o custo efetivo da semente por hectare. A comparação econômica utiliza o rendimento observado na área testemunha."
+    },
+    "doe_hybrid_variety": {
+        "en": "DOE Hybrid/Variety",
+        "es": "Híbrido/Variedad DOE",
+        "pt": "Híbrido/Variedade DOE"
+    },
+    "doe_margin": {
+        "en": "DOE margin",
+        "es": "Margen DOE",
+        "pt": "Margem DOE"
+    },
     "doe_yield": {
         "en": "DOE yield",
         "es": "Rinde DOE",
@@ -764,6 +834,11 @@
         "es": "Ingrese un valor y presione Enter",
         "pt": "Insira um valor e pressione Enter"
     },
+    "enter_quantity_greater_than_zero_for_unit_cost": {
+        "en": "Enter a quantity greater than zero to calculate the unit cost.",
+        "es": "Ingrese una cantidad mayor que cero para calcular el costo unitario.",
+        "pt": "Insira uma quantidade maior que zero para calcular o custo unitário."
+        },
     "enviromental_demand": {
         "en": "Environmental demand",
         "es": "Demanda ambiental",
@@ -894,6 +969,16 @@
         "es": "Establecimientos",
         "pt": "Fazendas"
     },
+    "fertilization": {
+        "en": "Fertilization",
+        "es": "Fertilización",
+        "pt": "Fertilização"
+        },
+    "fertilizer": {
+        "en": "Fertilizer",
+        "es": "Fertilizante",
+        "pt": "Fertilizante"
+        },
     "field": {
         "en": "Field",
         "es": "Lote",
@@ -1059,6 +1144,11 @@
         "es": "Neblina",
         "pt": "Névoa"
     },
+    "foliar": {
+        "en": "Foliar",
+        "es": "Foliar",
+        "pt": "Foliar"
+        },
     "format_warning": {
         "en": "Unsupported format",
         "es": "Formato no soportado",
@@ -1094,6 +1184,11 @@
         "es": "Selecciona el tipo de fuente de datos a utlizar:",
         "pt": "Selecione o tipo de fonte de dados a ser utilizada:"
     },
+    "fungicide": {
+        "en": "Fungicide",
+        "es": "Fungicida",
+        "pt": "Fungicida"
+        },
     "general_information": {
         "en": "General information",
         "es": "Información general",
@@ -1269,6 +1364,11 @@
         "es": "Hectáreas por fecha de cosecha",
         "pt": "Hectares por data de colheita"
     },
+    "herbicide": {
+        "en": "Herbicide",
+        "es": "Herbicida",
+        "pt": "Herbicida"
+        },
     "hidric_risk_description": {
         "en": "Detection of surface water presence using satellite imagery.",
         "es": "Detección de presencia de agua en superficie mediante el uso de imágenes satelitales.",
@@ -1314,6 +1414,16 @@
         "es": "Humedad",
         "pt": "Umidade"
     },
+    "hybrid_classes_not_found_in_analysis_results": {
+        "en": "No hybrid classes were found in the analysis results.",
+        "es": "No se encontraron clases de híbridos en los resultados del análisis.",
+        "pt": "Não foram encontradas classes de híbridos nos resultados da análise."
+    },
+    "hybrids_excluded_from_doe_due_to_incomplete_data": {
+        "en": "Hybrids with incomplete seeds per bag, density, and price data were not included in the DOE:",
+        "es": "No se incluyeron en la DOE los híbridos sin datos completos de semillas por bolsa, densidad y precio:",
+        "pt": "Os híbridos sem dados completos de sementes por saco, densidade e preço não foram incluídos no DOE:"
+    },
     "hybrid_varieties": {
         "en": "Hybrids / Varieties",
         "es": "Híbridos / Variedades",
@@ -1324,6 +1434,11 @@
         "es": "Híbrido / Variedad",
         "pt": "Híbrido / Variedade"
     },
+    "hybrid_variety_type": {
+        "en": "Hybrid/Variety type",
+        "es": "Tipo de híbrido/Variedad",
+        "pt": "Tipo de híbrido/Variedade"
+        },
     "hydric_risk": {
         "en": "Hydric risk",
         "es": "Riesgo hídrico",
@@ -1364,6 +1479,16 @@
         "en": "No individual results are available for this environment.",
         "es": "No hay resultados individuales disponibles para este ambiente.",
         "pt": "Não há resultados individuais disponíveis para este ambiente."
+        },
+    "input": {
+        "en": "Input",
+        "es": "Insumo",
+        "pt": "Insumo"
+        },
+    "insecticide": {
+        "en": "Insecticide",
+        "es": "Insecticida",
+        "pt": "Inseticida"
         },
     "interaction_tukey_for_environment": {
         "en": "Interaction Tukey for environment",
@@ -1480,6 +1605,11 @@
         "es": "Unir tablas", 
         "pt": "Unir tabelas"
     },
+    "kilograms_in_priced_package": {
+        "en": "Number of kilograms included in the package for which the price is provided.",
+        "es": "Cantidad de kilogramos incluida en la presentación cuyo precio se informa.",
+        "pt": "Quantidade de quilogramas incluída na embalagem cujo preço é informado."
+        },
     "kriged_map": {
         "en": "Kriged map",
         "es": "Mapa krigeado",
@@ -1620,6 +1750,11 @@
         "es": "Vincular puntos de muestreo con resultados de laboratorio", 
         "pt": "Vincular pontos de amostragem com resultados de laboratório"
     },
+    "liters_in_priced_package": {
+        "en": "Number of liters included in the package for which the price is provided.",
+        "es": "Cantidad de litros incluida en la presentación cuyo precio se informa.",
+        "pt": "Quantidade de litros incluída na embalagem cujo preço é informado."
+        },    
     "load_data": {
         "en": "Upload the file that contains the data to interpolate",
         "es": "Subí el archivo que contiene los datos a interpolar",
@@ -2080,11 +2215,16 @@
         "es": "-No asignado-",
         "pt": "-No asignado-"
     },
+    "not_available": {
+        "en": "Not available",
+        "es": "No disponible",
+        "pt": "Não disponível"
+    },
     "not_calculated": {
         "en": "Not calculated",
         "es": "No calculado",
         "pt": "Não calculado"
-        },
+    },
     "not_detecctions": {
         "en": "No detections",
         "es": "Sin detecciones",
@@ -2100,6 +2240,11 @@
         "es": "Número de muestras",
         "pt": "Número de amostras"
     },
+    "number_of_seeds_contained_in_a_bag": {
+        "en": "Number of seeds contained in a bag.",
+        "es": "Cantidad de semillas contenidas en una bolsa.",
+        "pt": "Quantidade de sementes contidas em um saco."
+        },
     "number_of_variables": {
         "en": "Number of variables to analyze",
         "es": "Cantidad de variables a analizar",
@@ -2315,6 +2460,16 @@
         "es": "Fecha anterior",
         "pt": "Data anterior"
     },
+    "price_usd": {
+        "en": "Price USD",
+        "es": "Precio USD",
+        "pt": "Preço USD"
+        },
+    "price_usd_per_bag": {
+        "en": "Price (USD) per bag",
+        "es": "Precio (USD) por bolsa",
+        "pt": "Preço (USD) por saco"
+        },
     "probability": {
         "en": "Probability",
         "es": "Probabilidad",
@@ -2490,6 +2645,11 @@
         "es": "Solicitado por: ",
         "pt": "Solicitado por: "
     },
+    "result_by_environment": {
+        "en": "Result by environment",
+        "es": "Resultado por ambiente",
+        "pt": "Resultado por ambiente"
+    },
     "results_by_field": {
         "en": "Results by field",
         "es": "Resultados por lote",
@@ -2545,6 +2705,11 @@
         "es": "Filtrar por fecha de siembra",
         "pt": "Filtrar por data de semeadura"
     },
+    "seed": {
+        "en": "Seed",
+        "es": "Semilla",
+        "pt": "Semente"
+        },
     "seeding": {
         "en": "Seeding (points)",
         "es": "Siembra (puntos)",
@@ -2570,6 +2735,11 @@
         "es": "Avance de siembra",
         "pt": "Progresso da semeadura"
     },
+    "seeds_per_bag": {
+        "en": "Seeds per bag",
+        "es": "Semillas por bolsa",
+        "pt": "Sementes por saco"
+        },
     "seleccion_unica_establecimiento": {
         "en": "Selection of a complete farm",
         "es": "Selección de un establecimiento completo",
@@ -2750,6 +2920,11 @@
         "es": "Contenido volumétrico de agua en el suelo como promedio hasta los 50 cm de profundidad",
         "pt": "Conteúdo volumétrico de água no solo como média até 50 cm de profundidade"
     },
+    "sowing": {
+        "en": "Sowing",
+        "es": "Siembra",
+        "pt": "Semeadura"
+        },
     "sowing_emergence": {
         "en": "Sowing to Emergence (VE)",
         "es": "Siembra a Emergencia (VE)",
@@ -2870,6 +3045,11 @@
         "es": "Texto a buscar dentro de",
         "pt": "Texto a procurar dentro de"
     },
+    "thousands_of_seeds_per_ha": {
+        "en": "thousands of seeds/ha",
+        "es": "miles de sem/ha",
+        "pt": "milhares de sem/ha"
+        },
     "thursday": {
         "en": "Thursday",
         "es": "Jueves",
@@ -2945,6 +3125,11 @@
         "es": "Precipitaciones totales para el periodo de análisis:",
         "pt": "Precipitações totais para o período de análise:"
     },
+    "total_price_usd_for_reported_quantity": {
+        "en": "Total price in USD corresponding to the reported quantity.",
+        "es": "Precio total en USD correspondiente a la cantidad informada.",
+        "pt": "Preço total em USD correspondente à quantidade informada."
+        },
     "treatment": {
         "en": "Treatment",
         "es": "Tratamiento",
@@ -3050,6 +3235,11 @@
         "es": "Límite superior",
         "pt": "Limite superior"
     },
+    "usd_per_bag": {
+        "en": "USD/bag",
+        "es": "USD/bolsa",
+        "pt": "USD/saco"
+        },
     "used_dates": {
         "en": "Selected dates",
         "es": "Fechas utilizadas",
