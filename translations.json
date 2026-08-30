@@ -89,6 +89,11 @@
         "es": "Análisis ANOVA y Tukey",
         "pt": "Análise ANOVA e Tukey"
     },
+    "anova_and_tukey_analysis_for_environment": {
+        "en": "ANOVA and Tukey analysis for environment",
+        "es": "Análisis ANOVA y Tukey para ambiente",
+        "pt": "Análise ANOVA e Tukey para ambiente"
+        },
     "anova_factorial": {
         "en": "Factorial ANOVA",
         "es": "ANOVA factorial",
@@ -289,11 +294,16 @@
         "es": "Ancho de cada clase: se generan cortes internos para cada 'intervalo' entre valor min y valor max.", 
         "pt": "Largura de cada classe: divisões internas são geradas para cada 'intervalo' entre o valor mínimo e o valor máximo."
     },
+    "classes_with_single_polygon": {
+        "en": "Classes with a single polygon",
+        "es": "Clases con un solo polígono",
+        "pt": "Classes com um único polígono"
+    },
     "classes_with_single_polygon_in_environment": {
         "en": "Classes with a single polygon in this environment",
         "es": "Clases con un solo polígono en este ambiente",
         "pt": "Classes com um único polígono neste ambiente"
-        },
+    },
     "cleaning_option": {
         "en": "Statistical cleaning by the Savitzky–Golay method",
         "es": "Limpieza estadistica por el método Savitzky–Golay ",
@@ -3270,6 +3280,11 @@
         "es": "El tablero no contempla el análisis de polígonos de ensayo. Esta funcionalidad estara disponible en las proximas semanas.",
         "pt": "O painel não contempla a análise de polígonos de teste. Esta funcionalidade estará disponível nas próximas semanas."
     },
+    "trial_without_true_replicates_differences_not_verifiable": {
+        "en": "The trial does not have true replicates; the differences shown cannot be verified.",
+        "es": "El ensayo no cuenta con repeticiones verdaderas, las diferencias mostradas no son verificables.",
+        "pt": "O ensaio não possui repetições verdadeiras; as diferenças apresentadas não podem ser verificadas."
+    },
     "trend": {
         "en": "Trend",
         "es": "Tendencia",
@@ -3434,6 +3449,11 @@
         "en": "Variable analysis",
         "es": "Análisis de variables",
         "pt": "Análise de variáveis"
+    },
+    "variable_identification": {
+        "en": "Variable identification",
+        "es": "Identificación de las variables",
+        "pt": "Identificação das variáveis"
     },
     "variables": {
         "en": "Variables",
