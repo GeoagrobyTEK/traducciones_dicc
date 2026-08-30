@@ -24,6 +24,11 @@
         "es": "Rendimiento Medio Ajustado por",
         "pt": "Rendimento Médio Ajustado por"
     },
+    "additional_margin_vs_control": {
+        "en": "the additional margin compared to the control could not be calculated.",
+        "es": "no se pudo calcular el margen adicional frente al testigo.",
+        "pt": "não foi possível calcular a margem adicional em relação à testemunha."
+    },
     "affected_area": {
         "en": "Area",
         "es": "Área",
@@ -80,9 +85,9 @@
         "pt": "Distribuição anual de detecções de superfície com presença de água"
     },
     "anova_tukey_analysis": {
-    "en": "ANOVA and Tukey analysis",
-    "es": "Análisis ANOVA y Tukey",
-    "pt": "Análise ANOVA e Tukey"
+        "en": "ANOVA and Tukey analysis",
+        "es": "Análisis ANOVA y Tukey",
+        "pt": "Análise ANOVA e Tukey"
     },
     "anova_factorial": {
         "en": "Factorial ANOVA",
@@ -344,10 +349,25 @@
         "es": "Comentarios",
         "pt": "Comentários"
     },
+    "combined_doa_doe_analysis": {
+        "en": "Combined DOA / DOE analysis",
+        "es": "DOA / DOE análisis combinado",
+        "pt": "Análise combinada DOA / DOE"
+    },
+    "combined_recommendation_without_observed_control_yield": {
+        "en": "the combined recommendation was calculated, but there is no observed control yield available for comparison.",
+        "es": "se calculó la recomendación combinada, pero no hay rinde testigo observado para compararla.",
+        "pt": "a recomendação combinada foi calculada, mas não há rendimento observado da testemunha disponível para comparação."
+    },
     "comma_separated_values": {
         "en": "Comma-separated values",
         "es": "Valores separados por comas",
         "pt": "Valores separados por vírgulas"
+    },
+    "complementary_individual_analyses": {
+        "en": "Complementary individual analyses",
+        "es": "Análisis individuales complementarios",
+        "pt": "Análises individuais complementares"
     },
     "complete_commercial_data_and_density_for_each_hybrid": {
         "en": "Complete the commercial data and the density used for each hybrid. The effective cost is calculated as density ÷ seeds per bag × USD per bag.",
@@ -364,6 +384,11 @@
         "es": "Composición de",
         "pt": "Composição de"
     },
+    "considerations_for_interpreting_results": {
+        "en": "Considerations for interpreting the results",
+        "es": "Consideraciones para la interpretación de los resultados",
+        "pt": "Considerações para a interpretação dos resultados"
+        },
     "continuous_interpolation": {
         "en": "continuous_interpolation_", 
         "es": "interpolacion_continua_", 
@@ -384,6 +409,16 @@
         "es": "Margen testigo",
         "pt": "Margem da testemunha"
     },
+    "control_yield": {
+        "en": "Control yield",
+        "es": "Rinde Testigo",
+        "pt": "Rendimento da testemunha"
+    },
+    "cost_calculator": {
+        "en": "Cost calculator",
+        "es": "Calculadora de costo",
+        "pt": "Calculadora de custo"
+        },
     "cost_usd_per_ha": {
         "en": "Cost (USD/ha)",
         "es": "Costo (USD/ha)",
@@ -395,9 +430,9 @@
         "pt": "Não foi possível obter o ID do lote selecionado."
     },
     "could_not_load_selected_field": {
-    "en": "Could not load the selected field.",
-    "es": "No se pudo cargar el lote seleccionado.",
-    "pt": "Não foi possível carregar o talhão selecionado."
+        "en": "Could not load the selected field.",
+        "es": "No se pudo cargar el lote seleccionado.",
+        "pt": "Não foi possível carregar o talhão selecionado."
     },
     "critical_period": {
         "en": "Critical Period",
@@ -648,11 +683,11 @@
         "en": "Descriptive statistics by class",
         "es": "Estadísticos descriptivos por clase",
         "pt": "Estatísticas descritivas por classe"
-        },
+    },
     "descriptive_stats_global": {
-    "en": "Global descriptive statistics",
-    "es": "Estadísticos descriptivos global",
-    "pt": "Estatísticas descritivas globais"
+        "en": "Global descriptive statistics",
+        "es": "Estadísticos descriptivos global",
+        "pt": "Estatísticas descritivas globais"
     },
     "descriptive_statistics_not_available": {
         "en": "No descriptive statistics are available.",
@@ -719,6 +754,11 @@
         "es": "Análisis y recomendaciones DOA / DOE",
         "pt": "Análise e recomendações DOA / DOE"
     },
+    "doa_doe_definition": {
+        "en": "DOA (Agronomic Optimum Dose) is the dose that maximizes the estimated agronomic yield. DOE (Economic Optimum Dose) is the dose that maximizes the estimated economic margin, considering the grain value and input cost. Both values are calculated for the range of doses evaluated in the current trial; if that range is modified or expanded, the estimated DOA and DOE may also change.",
+        "es": "DOA (Dosis Óptima Agronómica) es la dosis que maximiza el rendimiento agronómico estimado. DOE (Dosis Óptima Económica) es la dosis que maximiza el margen económico estimado, considerando el valor del grano y el costo del insumo. Ambos valores se calculan para el rango de dosis evaluado en el ensayo actual; si ese rango se modifica o amplía, la DOA y la DOE estimadas también pueden cambiar.",
+        "pt": "DOA (Dose Ótima Agronômica) é a dose que maximiza o rendimento agronômico estimado. DOE (Dose Ótima Econômica) é a dose que maximiza a margem econômica estimada, considerando o valor do grão e o custo do insumo. Ambos os valores são calculados para a faixa de doses avaliada no ensaio atual; se essa faixa for modificada ou ampliada, as DOA e DOE estimadas também poderão mudar."
+    },
     "doa_doe_methodology_explanation": {
         "en": "DOA: hybrid with the highest average yield. DOE: hybrid with the highest economic margin, considering grain price and effective seed cost per hectare. The economic comparison uses the yield observed in the control area.",
         "es": "DOA: híbrido con mayor rendimiento medio. DOE: híbrido con mayor margen económico, considerando el precio del grano y el costo efectivo de semilla por hectárea. La comparación económica usa el rinde observado en el área testigo.",
@@ -734,11 +774,21 @@
         "es": "Margen DOE",
         "pt": "Margem DOE"
     },
+    "doe_margin_simulation_disclaimer": {
+        "en": "The DOE and the associated partial margin are a simulation based on the yields and values entered. They do not constitute a guarantee of yield or profitability, and actual results may vary.",
+        "es": "La DOE y el margen parcial asociado son una simulación basada en los rendimientos y valores ingresados. No constituyen una garantía de rendimiento o rentabilidad, y los resultados reales pueden variar.",
+        "pt": "O DOE e a margem parcial associada são uma simulação baseada nos rendimentos e valores informados. Não constituem uma garantia de rendimento ou rentabilidade, e os resultados reais podem variar."
+    },
+    "doe_margin_vs_control": {
+        "en": "DOE margin vs control",
+        "es": "Margen DOE vs testigo",
+        "pt": "Margem DOE vs testemunha"
+    },
     "doe_yield": {
         "en": "DOE yield",
         "es": "Rinde DOE",
         "pt": "Rendimento DOE"
-        },
+    },
     "dom": {
         "en": "Sun",
         "es": "Dom",
@@ -834,6 +884,16 @@
         "es": "Ingrese un valor y presione Enter",
         "pt": "Insira um valor e pressione Enter"
     },
+    "enter_grain_value_for_combined_doe": {
+        "en": "Enter a grain value greater than 0 to calculate the combined DOE. The DOA will be shown for the evaluated range.",
+        "es": "Ingrese un valor de grano mayor a 0 para calcular la DOE combinada. La DOA se mostrará para el rango evaluado.",
+        "pt": "Insira um valor de grão maior que 0 para calcular a DOE combinada. A DOA será exibida para a faixa avaliada."
+    },
+    "enter_grain_value_for_economic_recommendation": {
+        "en": "Enter a grain value greater than 0 to calculate the economic recommendation. The available agronomic result will be shown.",
+        "es": "Ingrese un valor de grano mayor a 0 para calcular la recomendación económica. Se mostrará el resultado agronómico disponible.",
+        "pt": "Insira um valor de grão maior que 0 para calcular a recomendação econômica. O resultado agronômico disponível será exibido."
+    },
     "enter_quantity_greater_than_zero_for_unit_cost": {
         "en": "Enter a quantity greater than zero to calculate the unit cost.",
         "es": "Ingrese una cantidad mayor que cero para calcular el costo unitario.",
@@ -893,6 +953,16 @@
         "en": "Establishment",
         "es": "Establecimiento",
         "pt": "Estabelecimento"
+    },
+    "estimated_partial_margin_vs_control": {
+        "en": "Estimated partial margin vs control",
+        "es": "Margen parcial estimado frente al testigo",
+        "pt": "Margem parcial estimada em relação à testemunha"
+    },
+    "estimated_partial_margin_would_be": {
+        "en": "the estimated partial margin would be",
+        "es": "el margen parcial estimado sería",
+        "pt": "a margem parcial estimada seria"
     },
     "event_date": {
         "en": "Event date",
@@ -1035,14 +1105,14 @@
         "pt": "Oferece uma visão detalhada dos planos de semeadura (talhões, culturas, híbrido/variedade e data de semeadura) registrados na camada “Talhões” da plataforma 360. Facilita o acompanhamento do progresso das atividades de semeadura por meio da análise das datas de semeadura."
     },
     "fields_to_analyze": {
-    "en": "Fields to analyze",
-    "es": "Lotes a analizar",
-    "pt": "Lotes a analisar"
+        "en": "Fields to analyze",
+        "es": "Lotes a analizar",
+        "pt": "Lotes a analisar"
     },
     "fields_to_analyze_2": {
-    "en": "Field to analyze",
-    "es": "Lote a analizar",
-    "pt": "Lote a analisar"
+        "en": "Field to analyze",
+        "es": "Lote a analizar",
+        "pt": "Lote a analisar"
     },
     "fields_without_crops": {
         "en": "Fields without crops",
@@ -1235,24 +1305,24 @@
         "pt": "Pontos de amostragem georreferenciados"
     },
     "global_analysis": {
-    "en": "Global analysis",
-    "es": "Análisis global",
-    "pt": "Análise global"
+        "en": "Global analysis",
+        "es": "Análisis global",
+        "pt": "Análise global"
     },
     "global_anova_tukey_analysis": {
-    "en": "Global ANOVA and Tukey analysis",
-    "es": "Análisis ANOVA y Tukey global",
-    "pt": "Análise ANOVA e Tukey global"
+        "en": "Global ANOVA and Tukey analysis",
+        "es": "Análisis ANOVA y Tukey global",
+        "pt": "Análise ANOVA e Tukey global"
     },
     "global_boxplot": {
-    "en": "Global boxplot",
-    "es": "Boxplot global",
-    "pt": "Boxplot global"
+        "en": "Global boxplot",
+        "es": "Boxplot global",
+        "pt": "Boxplot global"
     },
     "global_boxplot_statistics": {
-    "en": "Global boxplot statistics",
-    "es": "Estadísticas boxplot global",
-    "pt": "Estatísticas de boxplot global"
+        "en": "Global boxplot statistics",
+        "es": "Estadísticas boxplot global",
+        "pt": "Estatísticas de boxplot global"
     },
     "grain_filling_corn": {
         "en": "Grain filling (R2 to R5)",
@@ -1273,11 +1343,16 @@
         "en": "Grain value (USD/t)",
         "es": "Valor del grano (USD/t)",
         "pt": "Valor do grão (USD/t)"
-        },
+    },
+    "grain_value_required": {
+        "en": "a grain value greater than zero is required to calculate the combined economic recommendation.",
+        "es": "es necesario un valor de grano mayor que cero para calcular la recomendación económica combinada.",
+        "pt": "é necessário um valor de grão maior que zero para calcular a recomendação econômica combinada."
+    },
     "grid_boxplot_statistics": {
-    "en": "Grid boxplot statistics",
-    "es": "Estadísticas del boxplot de grilla",
-    "pt": "Estatísticas do boxplot da grade"
+        "en": "Grid boxplot statistics",
+        "es": "Estadísticas del boxplot de grilla",
+        "pt": "Estatísticas do boxplot da grade"
     },
     "group": {
         "en": "Group",
@@ -1379,6 +1454,11 @@
         "es": "Temperaturas >35°C",
         "pt": "Temperaturas >35°C"
     },
+    "higher": {
+        "en": "higher",
+        "es": "mayor",
+        "pt": "maior"
+    },
     "histogram": {
         "en": "Histogram", 
         "es": "Histograma", 
@@ -1479,22 +1559,32 @@
         "en": "No individual results are available for this environment.",
         "es": "No hay resultados individuales disponibles para este ambiente.",
         "pt": "Não há resultados individuais disponíveis para este ambiente."
-        },
+    },
     "input": {
         "en": "Input",
         "es": "Insumo",
         "pt": "Insumo"
-        },
+    },
+    "input_type": {
+        "en": "Input type",
+        "es": "Tipo de insumo",
+        "pt": "Tipo de insumo"
+    },
     "insecticide": {
         "en": "Insecticide",
         "es": "Insecticida",
         "pt": "Inseticida"
-        },
+    },
+    "instead_of_control": {
+        "en": "instead of the control",
+        "es": "en lugar del testigo",
+        "pt": "em vez da testemunha"
+    },
     "interaction_tukey_for_environment": {
         "en": "Interaction Tukey for environment",
         "es": "Tukey de interacción para ambiente",
         "pt": "Tukey de interação para ambiente"
-        },
+    },
     "interpolaciones": {
         "en": "Interpolations",
         "es": "Interpolaciones",
@@ -1736,9 +1826,9 @@
         "pt": "Tipo de camada"
     },
     "layer_selection_title": {
-    "en": "Layer Selection",
-    "es": "Selección de Capa",
-    "pt": "Seleção de Camada"
+        "en": "Layer Selection",
+        "es": "Selección de Capa",
+        "pt": "Seleção de Camada"
     },
     "leaf_sorghum": {
         "en": "Emergence to 5 leaves",
@@ -1769,6 +1859,11 @@
         "en": "Temperatures < 2°C",
         "es": "Temperaturas < 2°C",
         "pt": "Temperaturas < 2°C"
+    },
+    "lower": {
+        "en": "lower",
+        "es": "menor",
+        "pt": "menor"
     },
     "lower_fence": {
         "en": "Lower fence",
@@ -2595,7 +2690,7 @@
         "es": "Valor máximo de reclasificación", 
         "pt": "Valor máximo de reclassificação"
     },
-        "reclassification_method": {
+    "reclassification_method": {
         "en": "Reclassification method", 
         "es": "Método de reclasificación", 
         "pt": "Método de reclassificação"
@@ -2615,10 +2710,25 @@
         "es": "Ofrece una visión general de las recorridas a campo cargadas desde formularios digitales, combinando la ubicación de cada observación con lo relevado en ese punto.",
         "pt": "Oferece uma visão geral das visitas a campo carregadas a partir de formulários digitais, combinando a localização de cada observação com o que foi registrado nesse ponto."
     },
+    "recommended_margin_vs_control": {
+        "en": "Recommended margin vs control",
+        "es": "Margen recomendado vs testigo",
+        "pt": "Margem recomendada vs testemunha"
+    },
     "recurrence_decription": {
         "en": "The graph represents the months in which surface water was detected in at least one of the pixels that make up the analyzed lot area, during the period covered by the database.",
         "es": "La gráfica representa los meses en los cuales se detectó la presencia de agua en al menos uno de los píxeles que componen el área del lote analizado, durante el período abarcado por la base de datos.",
         "pt": "O gráfico representa os meses em que foi detectada a presença de água em pelo menos um dos pixels que compõem a área do lote analisado, durante o período coberto pela base de dados."
+    },
+    "recommendation": {
+        "en": "recommendation",
+        "es": "recomendación",
+        "pt": "recomendação"
+    },
+    "references": {
+        "en": "References",
+        "es": "Referencias",
+        "pt": "Referências"
     },
     "relative_frequency": {
         "en": "Relative frequency (%)",
@@ -2655,6 +2765,11 @@
         "es": "Resultados por lote",
         "pt": "Resultados por talhão"
     },
+    "results_interpretation_disclaimer": {
+        "en": "The results of this tool should be used to support decision-making and do not replace technical and agronomic judgment. Their validity and scope depend on the experimental design, the quality and representativeness of the data, climatic, production, and nutritional conditions, crop management, and the presence of constraints, pests, or diseases.",
+        "es": "Los resultados de esta herramienta deben utilizarse como apoyo para la toma de decisiones y no reemplazan el criterio técnico y agronómico. Su validez y alcance dependen del diseño experimental, la calidad y representatividad de los datos, las condiciones climáticas, productivas, nutricionales, el manejo del cultivo y la presencia de limitantes, plagas o enfermedades.",
+        "pt": "Os resultados desta ferramenta devem ser utilizados como apoio à tomada de decisões e não substituem o critério técnico e agronômico. Sua validade e abrangência dependem do delineamento experimental, da qualidade e representatividade dos dados, das condições climáticas, produtivas e nutricionais, do manejo da cultura e da presença de limitações, pragas ou doenças."
+    },
     "rosette_canola": {
         "en": "Emergence to Rosette (BBCH 10–30)",
         "es": "Emergencia a Roseta (BBCH 10–30)",
@@ -2664,6 +2779,11 @@
         "en": "Run analysis",
         "es": "Ejecutar análisis",
         "pt": "Executar análise"
+    },
+    "run_doe_analysis": {
+        "en": "Run DOE analysis",
+        "es": "Ejecutar análisis DOE",
+        "pt": "Executar análise DOE"
     },
     "sab": {
         "en": "Sat",
@@ -3260,6 +3380,16 @@
         "es": "Usuarios",
         "pt": "Usuários"
     },
+    "using_combined_doe": {
+        "en": "using the combined DOE",
+        "es": "usando la DOE combinada",
+        "pt": "usando a DOE combinada"
+    },
+    "using_doe_instead_of_control": {
+        "en": "using DOE instead of the control, the estimated partial margin would be",
+        "es": "usando DOE en lugar del testigo, el margen parcial estimado sería",
+        "pt": "usando DOE em vez da testemunha, a margem parcial estimada seria"
+    },
     "v3_soybean": {
         "en": "Emergence to V3",
         "es": "Emergencia a V3",
@@ -3475,15 +3605,20 @@
         "es": "Rinde", 
         "pt": "Colheita"
     },
+    "yield_2": {
+        "en": "Yield",
+        "es": "Rendimiento",
+        "pt": "Rendimento"
+    },
     "yield_by_area": {
-    "en": "Yield by Area",
-    "es": "Rindes por Área",
-    "pt": "Rendimento por Área"
+        "en": "Yield by Area",
+        "es": "Rindes por Área",
+        "pt": "Rendimento por Área"
     },
     "yield_by_area_description": {
-    "en": "Allows comparing crop performance across different zones or areas within one or more fields, combining intuitive visualizations with solid statistical analysis.",
-    "es": "Permite comparar el rendimiento de un cultivo entre distintas zonas o áreas dentro de uno o varios lotes, combinando visualizaciones intuitivas con análisis estadísticos sólidos.",
-    "pt": "Permite comparar o desempenho de uma cultura entre diferentes zonas ou áreas dentro de um ou vários lotes, combinando visualizações intuitivas com análises estatísticas sólidas."
+        "en": "Allows comparing crop performance across different zones or areas within one or more fields, combining intuitive visualizations with solid statistical analysis.",
+        "es": "Permite comparar el rendimiento de un cultivo entre distintas zonas o áreas dentro de uno o varios lotes, combinando visualizaciones intuitivas con análisis estadísticos sólidos.",
+        "pt": "Permite comparar o desempenho de uma cultura entre diferentes zonas ou áreas dentro de um ou vários lotes, combinando visualizações intuitivas com análises estatísticas sólidas."
     },
     "yield_dashboard_description": {
         "en": "Allows performing a comparative analysis of yield layers uploaded to the 360 platform and facilitates monitoring the progress of harvest tasks through the analysis of harvest dates and mapped hectares.",
