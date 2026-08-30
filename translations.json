@@ -2721,8 +2721,8 @@
         "pt": "Oferece uma visão geral das visitas a campo carregadas a partir de formulários digitais, combinando a localização de cada observação com o que foi registrado nesse ponto."
     },
     "recommended_margin_vs_control": {
-        "en": "Recommended margin vs control",
-        "es": "Margen recomendado vs testigo",
+        "en": "Margin vs control",
+        "es": "Margen vs testigo",
         "pt": "Margem recomendada vs testemunha"
     },
     "recurrence_decription": {
