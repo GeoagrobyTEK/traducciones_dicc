@@ -315,9 +315,14 @@
         "pt": "Cultura"
     },
     "crop_cycles": {
-        "en": "Crop cycles", 
-        "es": "Ciclos de cultivo", 
+        "en": "Crop cycles",
+        "es": "Ciclos de cultivo",
         "pt": "Ciclos de cultivo"
+    },
+    "crop_performance_and_yield_analysis": {
+        "en": "Crop performance and yield analysis",
+        "es": "Desempeño de cultivos y análisis de rendimiento",
+        "pt": "Desempenho de cultivos e análise de rendimento"
     },
     "crop_select": {
         "en": "Select crop",
@@ -788,6 +793,11 @@
         "en": "Field",
         "es": "Lote",
         "pt": "Lote"
+    },
+    "field_and_crop_management": {
+        "en": "Field and crop management",
+        "es": "Gestión de lotes y cultivos",
+        "pt": "Gestão de lotes e cultivos"
     },
     "field_description": {
         "en": "Only the fields where water presence has been detected in at least one of their pixels during the period covered by the database are listed. The establishment as a whole is included first, considered as a single unit.",
@@ -1445,9 +1455,9 @@
         "pt": "Camada"
     },
     "layer_area": {
-        "en": "Layer Area",
-        "es": "Superficie de la Capa",
-        "pt": "Área da Camada"
+        "en": "Layer area",
+        "es": "Superficie de la capa",
+        "pt": "Área da camada"
     },
     "layers_available_in_geoagro_360": {
         "en": "Layers available in GeoAgro 360",
@@ -2308,6 +2318,11 @@
         "en": "Sampling depth",
         "es": "Profundidad de muestreo",
         "pt": "Profundidade de amostragem"
+    },
+    "satellite_based_analysis": {
+        "en": "Satellite-Based analysis",
+        "es": "Análisis basado en satélite",
+        "pt": "Análise baseada em satélite"
     },
     "saturday": {
         "en": "Saturday",
