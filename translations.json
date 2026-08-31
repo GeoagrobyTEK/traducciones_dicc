@@ -1134,6 +1134,11 @@
         "es": "Archivo de puntos georeferenciados (GeoJSON / SHP / ZIP)",
         "pt": "Arquivo de pontos georreferenciados (GeoJSON / SHP / ZIP)"
     },
+    "geometry": {
+        "en": "Geometry",
+        "es": "Geometría",
+        "pt": "Geometria"
+    },
     "georeferenced_sampling_points": {
         "en": "Georeferenced sampling points", 
         "es": "Puntos de muestreo georeferenciados", 
