@@ -459,11 +459,6 @@
         "es": "Ciclos de cultivo",
         "pt": "Ciclos de cultivo"
     },
-    "crop_performance_and_yield_analysis": {
-        "en": "Crop performance and yield analysis",
-        "es": "Desempeño de cultivos y análisis de rendimiento",
-        "pt": "Desempenho de cultivos e análise de rendimento"
-    },
     "crop_select": {
         "en": "Select crop",
         "es": "Selecciona cultivo",
@@ -1069,11 +1064,6 @@
         "es": "Lote",
         "pt": "Lote"
     },
-    "field_and_crop_management": {
-        "en": "Field and crop management",
-        "es": "Gestión de lotes y cultivos",
-        "pt": "Gestão de lotes e cultivos"
-    },
     "field_2": {
         "en": "field",
         "es": "lote",
@@ -1118,6 +1108,11 @@
         "en": "Fields",
         "es": "Lotes",
         "pt": "Lotes"
+    },
+    "fields_and_crops_analysis": {
+        "en": "Fields and crops analysis",
+        "es": "Análisis de lotes y cultivos",
+        "pt": "Análise de lotes e cultivos"
     },
     "fields_and_crops_dashboard_description": {
         "en": "Provides a detailed view of sowing plans (fields, crops, hybrid/variety, and sowing date) recorded in the “Fields” layer of the 360 platform. Facilitates monitoring the progress of sowing tasks through the analysis of sowing dates.",
@@ -2826,9 +2821,9 @@
         "pt": "Profundidade de amostragem"
     },
     "satellite_based_analysis": {
-        "en": "Satellite-Based analysis",
-        "es": "Análisis basado en satélite",
-        "pt": "Análise baseada em satélite"
+        "en": "Satellite-based analysis",
+        "es": "Análisis basado en satélites",
+        "pt": "Análise baseada em satélites"
     },
     "saturday": {
         "en": "Saturday",
@@ -3654,6 +3649,11 @@
         "en": "Yield",
         "es": "Rendimiento",
         "pt": "Rendimento"
+    },
+    "yield_analysis": {
+        "en": "Yield analysis",
+        "es": "Análisis de rindes",
+        "pt": "Análise de rendimentos"
     },
     "yield_by_area": {
         "en": "Yield by Area",
