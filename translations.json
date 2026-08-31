@@ -3275,6 +3275,11 @@
         "es": "Análisis de ensayos",
         "pt": "Análise de ensaios"
     },
+    "trials_analysis_description": {
+        "en": "It allows agronomic trials to be analyzed using descriptive statistics, ANOVA, and Tukey tests, complemented by maps, boxplots, and agronomic and economic optimum dose curves.",
+        "es": "Permite analizar ensayos agronómicos mediante estadísticas descriptivas, ANOVA y pruebas de Tukey, complementadas con mapas, boxplots y curvas de dosis óptima agronómica y económica.",
+        "pt": "Permite analisar ensaios agronômicos por meio de estatísticas descritivas, ANOVA e testes de Tukey, complementados por mapas, boxplots e curvas de dose ótima agronômica e econômica."
+    },
     "trial_polygon_analysis_not_available": {
         "en": "The dashboard does not include the analysis of trial polygons. This functionality will be available in the coming weeks.",
         "es": "El tablero no contempla el análisis de polígonos de ensayo. Esta funcionalidad estara disponible en las proximas semanas.",
