@@ -79,6 +79,11 @@
         "es": "Análisis de una capa",
         "pt": "Análise de uma camada"
     },
+    "analysis_of_interaction_between_variables": {
+        "en": "Analysis of the interaction between variables",
+        "es": "Analisis de la intereaccion entre variables",
+        "pt": "Análise da interação entre variáveis"
+    },
     "annual_distribution": {
         "en": "Annual distribution of detections of surface with water presence",
         "es": "Distribución anual de detecciones de superficie con presencia de agua",
@@ -1534,6 +1539,11 @@
         "es": "Riesgo hídrico",
         "pt": "Risco hídrico"
     },
+    "independent_analysis_by_variable_no_interaction": {
+        "en": "Independent analysis by variable (without interaction)",
+        "es": "Analisis independiete por variable (sin interaccion)",
+        "pt": "Análise independente por variável (sem interação)"
+    },
     "identifier_column_sampling_layer": {
         "en": "Identifier column in the sampling points layer:", 
         "es": "Columna identificadora en la capa de puntos:", 
@@ -2566,10 +2576,10 @@
         "pt": "Data anterior"
     },
     "price_usd": {
-        "en": "Price USD",
-        "es": "Precio USD",
-        "pt": "Preço USD"
-        },
+        "en": "USD Price / Quantity",
+        "es": "Precio USD / Cantidad",
+        "pt": "Preço USD / Quantidade"
+    },
     "price_usd_per_bag": {
         "en": "Price (USD) per bag",
         "es": "Precio (USD) por bolsa",
