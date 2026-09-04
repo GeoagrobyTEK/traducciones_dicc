@@ -460,8 +460,8 @@
         "pt": "Cultura"
     },
     "crop_cycles": {
-        "en": "Crop cycles", 
-        "es": "Ciclos de cultivo", 
+        "en": "Crop cycles",
+        "es": "Ciclos de cultivo",
         "pt": "Ciclos de cultivo"
     },
     "crop_select": {
@@ -1114,6 +1114,11 @@
         "es": "Lotes",
         "pt": "Lotes"
     },
+    "fields_and_crops_analysis": {
+        "en": "Fields and crops analysis",
+        "es": "Análisis de lotes y cultivos",
+        "pt": "Análise de lotes e cultivos"
+    },
     "fields_and_crops_dashboard_description": {
         "en": "Provides a detailed view of sowing plans (fields, crops, hybrid/variety, and sowing date) recorded in the “Fields” layer of the 360 platform. Facilitates monitoring the progress of sowing tasks through the analysis of sowing dates.",
         "es": "Ofrece una visión detallada de planes de siembra (lotes, cultivos, híbrido/variedad y fecha de siembra) registrados en la capa “Lotes” de la plataforma 360. Facilita el seguimiento del progreso de labores de siembra mediante el análisis de fechas de siembra.",
@@ -1313,6 +1318,11 @@
         "en": "Georeferenced point file (GeoJSON / SHP / ZIP)",
         "es": "Archivo de puntos georeferenciados (GeoJSON / SHP / ZIP)",
         "pt": "Arquivo de pontos georreferenciados (GeoJSON / SHP / ZIP)"
+    },
+    "geometry": {
+        "en": "Geometry",
+        "es": "Geometría",
+        "pt": "Geometria"
     },
     "georeferenced_sampling_points": {
         "en": "Georeferenced sampling points", 
@@ -1826,9 +1836,9 @@
         "pt": "Camada"
     },
     "layer_area": {
-        "en": "Layer Area",
-        "es": "Superficie de la Capa",
-        "pt": "Área da Camada"
+        "en": "Layer area",
+        "es": "Superficie de la capa",
+        "pt": "Área da camada"
     },
     "layers_available_in_geoagro_360": {
         "en": "Layers available in GeoAgro 360",
@@ -2820,6 +2830,11 @@
         "es": "Profundidad de muestreo",
         "pt": "Profundidade de amostragem"
     },
+    "satellite_based_analysis": {
+        "en": "Satellite-based analysis",
+        "es": "Análisis basado en satélites",
+        "pt": "Análise baseada em satélites"
+    },
     "saturday": {
         "en": "Saturday",
         "es": "Sábado",
@@ -3644,6 +3659,11 @@
         "en": "Yield",
         "es": "Rendimiento",
         "pt": "Rendimento"
+    },
+    "yield_analysis": {
+        "en": "Yield analysis",
+        "es": "Análisis de rindes",
+        "pt": "Análise de rendimentos"
     },
     "yield_by_area": {
         "en": "Yield by Area",
