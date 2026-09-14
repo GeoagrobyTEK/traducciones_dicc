@@ -135,9 +135,9 @@
         "pt": "Area"
     },
     "area_within_field": {
-        "en": "Area within Field",
-        "es": "Superficie dentro del Lote",
-        "pt": "Área dentro do Talhão"
+        "en": "Area within field",
+        "es": "Superficie dentro del lote",
+        "pt": "Área dentro do talhão"
     },
     "are_generated_interp": {
         "en": "Are generated", 
@@ -504,10 +504,15 @@
         "es": "Valores de corte",
         "pt": "Valores de corte"
     },
+    "c": {
+        "en": "Coefficient of variation (%)",
+        "es": "Coeficiente de variación (%)",
+        "pt": "Coeficiente de variação (%)"
+    },
     "cv": {
-        "en": "Coefficient of Variation (%)",
-        "es": "Coeficiente de Variación (%)",
-        "pt": "Coeficiente de Variação (%)"
+        "en": "Coefficient of variation (%)",
+        "es": "Coeficiente de variación (%)",
+        "pt": "Coeficiente de variação (%)"
     },
     "cv_rank": {
         "en": "NDVI Standard Deviation and CV Ranking",
@@ -3621,9 +3626,9 @@
         "pt": "Sem ambiente"
         },
     "work_date": {
-        "en": "Work Date",
-        "es": "Fecha de la Labor",
-        "pt": "Data da Operação"
+        "en": "Work date",
+        "es": "Fecha de la labor",
+        "pt": "Data da operação"
     },
     "workspace": {
         "en": "Work Space",
