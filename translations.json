@@ -824,6 +824,11 @@
         "es": "Dona",
         "pt": "Rosca"
     },
+    "dose": {
+        "en": "Dose",
+        "es": "Dosis",
+        "pt": "Dose"
+    },
     "download": {
         "en": "Download",
         "es": "Descargar",
@@ -1413,6 +1418,11 @@
         "en": "Harvest progress",
         "es": "Avance de cosecha",
         "pt": "Progresso da colheita"
+    },
+    "has_trials": {
+        "en": "Has trial plots",
+        "es": "Presenta ensayos",
+        "pt": "Apresenta ensaios"
     },
     "hasta": {
         "en": "Until",
@@ -2199,6 +2209,11 @@
         "en": "Average NDVI Time Series",
         "es": "Serie Temporal NDVI Promedio",
         "pt": "Série Temporal Média de NDVI"
+    },
+    "no": {
+        "en": "No",
+        "es": "No",
+        "pt": "Não"
     },
     "no_associated_layers_found": {
     "en": "No associated layers found for the selected field.",
@@ -3290,6 +3305,11 @@
         "es": "Precio total en USD correspondiente a la cantidad informada.",
         "pt": "Preço total em USD correspondente à quantidade informada."
         },
+    "total_surface": {
+        "en": "Total area",
+        "es": "Superficie total",
+        "pt": "Área total"
+    },
     "treatment": {
         "en": "Treatment",
         "es": "Tratamiento",
@@ -3300,6 +3320,11 @@
         "es": "Tratamiento informado",
         "pt": "Tratamento informado"
         },
+    "treatments_count": {
+        "en": "Number of treatments",
+        "es": "Cantidad de tratamientos",
+        "pt": "Quantidade de tratamentos"
+    },
     "trials_analysis": {
         "en": "Trials analysis",
         "es": "Análisis de ensayos",
@@ -3654,6 +3679,11 @@
         "en": "Year",
         "es": "Año",
         "pt": "Ano"
+    },
+    "yes": {
+        "en": "Yes",
+        "es": "Sí",
+        "pt": "Sim"
     },
     "yield": {
         "en": "Yield", 
