@@ -3295,6 +3295,11 @@
         "es": "Antes de la elaboración del gráfico, se llevó a cabo un procesamiento adicional de los datos mediante el método Savitzky-Golay. Este método aplica un filtrado estadístico sobre los datos ya depurados con la máscara de nubes de la Agencia Espacial Europea (ESA), mejorando así la suavidad y la precisión de las series temporales analizadas.",
         "pt": "Antes da plotagem, foi realizado processamento adicional de dados pelo método Savitzky-Golay. Este método aplica filtragem estatística em dados já limpos com a máscara de nuvem da Agência Espacial Europeia (ESA), melhorando assim a suavidade e a precisão das séries temporais analisadas."
     },
+    "total": {
+        "en": "Total",
+        "es": "Total",
+        "pt": "Total"
+    },
     "total_precipitation": {
         "en": "Total precipitation for the analysis period:",
         "es": "Precipitaciones totales para el periodo de análisis:",
