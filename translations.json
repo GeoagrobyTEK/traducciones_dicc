@@ -464,6 +464,16 @@
         "es": "Ciclos de cultivo",
         "pt": "Ciclos de cultivo"
     },
+    "crop_group": {
+        "en": "Crop group",
+        "es": "Grupo de cultivo",
+        "pt": "Grupo de cultura"
+    },
+    "crop_groups": {
+        "en": "Crop groups",
+        "es": "Grupos de cultivo",
+        "pt": "Grupos de cultura"
+    },
     "crop_select": {
         "en": "Select crop",
         "es": "Selecciona cultivo",
@@ -829,6 +839,11 @@
         "es": "Dosis",
         "pt": "Dose"
     },
+    "double_cropped_fields": {
+        "en": "Double-cropped fields",
+        "es": "Lotes con doble cultivo",
+        "pt": "Lotes com dupla cultura"
+    },
     "download": {
         "en": "Download",
         "es": "Descargar",
@@ -1149,6 +1164,11 @@
         "es": "Lotes sin cultivos",
         "pt": "Lotes sem cultivos"
     },
+    "fields_without_harvest_date": {
+        "en": "Fields without harvest date",
+        "es": "Lotes sin fecha de cosecha",
+        "pt": "Lotes sem data de colheita"
+    },
     "fields_without_hybrids_or_varieties": {
         "en": "Fields without hybrids/varieties",
         "es": "Lotes sin híbridos/variedades",
@@ -1158,6 +1178,11 @@
         "en": "Fields without sowing date",
         "es": "Lotes sin fecha de siembra",
         "pt": "Lotes sem data de plantio"
+    },
+    "fields_without_yield": {
+        "en": "Fields without yield",
+        "es": "Lotes sin rinde",
+        "pt": "Lotes sem rendimento"
     },
     "filling_potatoe": {
         "en": "Flowering to Tuber Filling (BBCH 60–80)",
@@ -3394,6 +3419,11 @@
         "en": "You can only select one group of crops",
         "es": "Solo puedes seleccionar un grupo de cultivos",
         "pt": "Você só pode selecionar um grupo de culturas"
+    },
+    "uncropped_area": {
+        "en": "Uncropped area",
+        "es": "Superficie sin cultivar",
+        "pt": "Área sem cultivo"
     },
     "unified": {
         "en": "Unified",
