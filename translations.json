@@ -9,6 +9,11 @@
         "es": "Hectáreas acumuladas",
         "pt": "Hectares acumulados"
     },
+    "active_crops": {
+        "en": "Active crops",
+        "es": "Cultivos activos",
+        "pt": "Culturas ativas"
+    },
     "adjust_dem_to_farm_extent": {
         "en": "Adjust the DEM to the farm extent",
         "es": "Ajustar el DEM a la extensión del establecimiento",
